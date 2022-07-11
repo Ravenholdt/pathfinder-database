@@ -22,6 +22,7 @@ func main() {
 
 	//formatSpells(spells, newSpells)
 	//addCopyright(spells, newSpells)
+	addClass(spells, newSpells)
 
 	var output []NewSpell
 	for _, spell := range newSpells {
@@ -44,6 +45,43 @@ func copySpell(old OldSpell, new *NewSpell) {
 	new.SavingThrow = old.SavingThrow
 	new.SpellResistance = old.SpellResistance
 	new.Description = old.Description
+	new.SourceBook = old.SourceBook
+}
+
+func addClass(spells []OldSpell, newSpells map[string]NewSpell) {
+	jsonFile, err := os.Open("class-spells.json")
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	type nC struct {
+		Name  string
+		Level int
+		Class string
+	}
+
+	jsonByte, _ := ioutil.ReadAll(jsonFile)
+	var newClass []nC
+	json.Unmarshal(jsonByte, &newClass)
+
+	fmt.Println(newClass)
+
+	for _, old := range spells {
+		var new NewSpell
+		copySpell(old, &new)
+		newSpells[new.Name] = new
+	}
+
+	for _, c := range newClass {
+		if _, ok := newSpells[c.Name]; ok {
+			newSpells[c.Name].Classes[c.Class] = c.Level
+		} else {
+			fmt.Println(c.Name)
+		}
+
+	}
+
+	//fmt.Println(newSpells)
 }
 
 func addCopyright(spells []OldSpell, newSpells map[string]NewSpell) {
@@ -224,4 +262,5 @@ type OldSpell struct {
 		Description string `json:"description"`
 	} `json:"spellResistance"`
 	Description string `json:"description"`
+	SourceBook  string `json:"sourceBook"`
 }
