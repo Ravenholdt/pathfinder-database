@@ -22,7 +22,8 @@ func main() {
 
 	//formatSpells(spells, newSpells)
 	//addCopyright(spells, newSpells)
-	addClass(spells, newSpells)
+	//addClass(spells, newSpells)
+	updateOldToNew(spells, newSpells)
 
 	var output []NewSpell
 	for _, spell := range newSpells {
@@ -32,6 +33,14 @@ func main() {
 	writeFile, _ := json.MarshalIndent(output, "", " ")
 
 	ioutil.WriteFile("spells.json", writeFile, 0644)
+}
+
+func updateOldToNew(spells []OldSpell, newSpells map[string]NewSpell) {
+	for _, old := range spells {
+		var new NewSpell
+		copySpell(old, &new)
+		newSpells[new.Name] = new
+	}
 }
 
 func copySpell(old OldSpell, new *NewSpell) {
@@ -220,8 +229,9 @@ type NewSpell struct {
 		Applies     bool   `json:"applies"`
 		Description string `json:"description"`
 	} `json:"spellResistance"`
-	Description string `json:"description"`
-	SourceBook  string `json:"sourceBook"`
+	Description   string   `json:"description"`
+	SourceBook    string   `json:"sourceBook"`
+	RelatedSpells []string `json:"relatedSpells"`
 }
 
 type OldSpell struct {
