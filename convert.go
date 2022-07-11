@@ -48,7 +48,8 @@ func copySpell(old OldSpell, new *NewSpell) {
 	new.Link = old.Link
 	new.School = old.School
 	new.Classes = old.Classes
-	new.CastingTime = old.CastingTime
+	new.CastingTime.Unit = old.CastingTime.Action
+	new.CastingTime.Time = old.CastingTime.Time
 	new.Components = old.Components
 	new.Effect = old.Effect
 	new.SavingThrow = old.SavingThrow
@@ -202,8 +203,8 @@ type NewSpell struct {
 	} `json:"school"`
 	Classes     map[string]int `json:"classes"`
 	CastingTime struct {
-		Action string `json:"action"`
-		Time   string `json:"time"`
+		Unit string `json:"unit"`
+		Time string `json:"time"`
 	} `json:"castingTime"`
 	Components struct {
 		Verbal      bool   `json:"verbal"`
@@ -271,6 +272,7 @@ type OldSpell struct {
 		Applies     bool   `json:"applies"`
 		Description string `json:"description"`
 	} `json:"spellResistance"`
-	Description string `json:"description"`
-	SourceBook  string `json:"sourceBook"`
+	Description   string   `json:"description"`
+	SourceBook    string   `json:"sourceBook"`
+	RelatedSpells []string `json:"relatedSpells"`
 }
