@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"sort"
 )
 
 func main() {
@@ -30,8 +31,13 @@ func main() {
 		output = append(output, spell)
 	}
 
-	writeFile, _ := json.MarshalIndent(output, "", " ")
+	// Sort
+	sort.Slice(output, func(i, j int) bool {
+		return output[i].Name < output[j].Name
+	})
 
+	// Write
+	writeFile, _ := json.MarshalIndent(output, "", " ")
 	ioutil.WriteFile("spells.json", writeFile, 0644)
 }
 
@@ -48,8 +54,7 @@ func copySpell(old OldSpell, new *NewSpell) {
 	new.Link = old.Link
 	new.School = old.School
 	new.Classes = old.Classes
-	new.CastingTime.Unit = old.CastingTime.Action
-	new.CastingTime.Time = old.CastingTime.Time
+	new.CastingTime = old.CastingTime
 	new.Components = old.Components
 	new.Effect = old.Effect
 	new.SavingThrow = old.SavingThrow
@@ -245,8 +250,8 @@ type OldSpell struct {
 	} `json:"school"`
 	Classes     map[string]int `json:"classes"`
 	CastingTime struct {
-		Action string `json:"action"`
-		Time   string `json:"time"`
+		Unit string `json:"unit"`
+		Time string `json:"time"`
 	} `json:"castingTime"`
 	Components struct {
 		Verbal      bool   `json:"verbal"`
