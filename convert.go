@@ -5,9 +5,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-	"regexp"
-	"strconv"
-	"strings"
 )
 
 func main() {
@@ -24,6 +21,7 @@ func main() {
 	json.Unmarshal(jsonByte, &spells)
 
 	//formatSpells(spells, newSpells)
+	//addCopyright(spells, newSpells)
 
 	var output []NewSpell
 	for _, spell := range newSpells {
@@ -35,6 +33,37 @@ func main() {
 	ioutil.WriteFile("spells.json", writeFile, 0644)
 }
 
+func copySpell(old OldSpell, new *NewSpell) {
+	new.Name = old.Name
+	new.Link = old.Link
+	new.School = old.School
+	new.Classes = old.Classes
+	new.CastingTime = old.CastingTime
+	new.Components = old.Components
+	new.Effect = old.Effect
+	new.SavingThrow = old.SavingThrow
+	new.SpellResistance = old.SpellResistance
+	new.Description = old.Description
+}
+
+func addCopyright(spells []OldSpell, newSpells map[string]NewSpell) {
+	jsonFile, err := os.Open("spells-copyright.json")
+	if err != nil {
+		fmt.Println(err)
+	}
+	jsonByte, _ := ioutil.ReadAll(jsonFile)
+	var source = make(map[string]string)
+	json.Unmarshal(jsonByte, &source)
+
+	for _, old := range spells {
+		var new NewSpell
+		copySpell(old, &new)
+		new.SourceBook = source[new.Name]
+		newSpells[new.Name] = new
+	}
+}
+
+/*
 func formatSpells(spells []OldSpell, newSpells map[string]NewSpell) {
 	//comp := make(map[string]int)
 	errors := make(map[string]string)
@@ -114,6 +143,7 @@ func formatSpells(spells []OldSpell, newSpells map[string]NewSpell) {
 	fmt.Println(newSpells["Geyser"])
 
 }
+*/
 
 type NewSpell struct {
 	Name   string `json:"name"`
@@ -153,24 +183,45 @@ type NewSpell struct {
 		Description string `json:"description"`
 	} `json:"spellResistance"`
 	Description string `json:"description"`
+	SourceBook  string `json:"sourceBook"`
 }
 
 type OldSpell struct {
-	Name        string            `json:"name"`
-	Link        string            `json:"link"`
-	School      string            `json:"school"`
-	Classes     map[string]string `json:"classes"`
+	Name   string `json:"name"`
+	Link   string `json:"link"`
+	School struct {
+		School      string   `json:"school"`
+		SubSchool   string   `json:"subSchool"`
+		Descriptors []string `json:"descriptors"`
+	} `json:"school"`
+	Classes     map[string]int `json:"classes"`
 	CastingTime struct {
 		Action string `json:"action"`
 		Time   string `json:"time"`
 	} `json:"castingTime"`
-	Components      []string `json:"components"`
-	Range           string   `json:"range"`
-	Area            string   `json:"area"`
-	Target          string   `json:"target"`
-	Duration        string   `json:"duration"`
-	Effect          string   `json:"effect"`
-	SavingThrow     string   `json:"savingThrow"`
-	SpellResistance string   `json:"spellResistance"`
-	Description     string   `json:"description"`
+	Components struct {
+		Verbal      bool   `json:"verbal"`
+		Somatic     bool   `json:"somatic"`
+		Material    string `json:"material"`
+		Focus       string `json:"focus"`
+		DivineFocus bool   `json:"divineFocus"`
+	} `json:"components"`
+	Effect struct {
+		Range       string `json:"range"`
+		Area        string `json:"area"`
+		Target      string `json:"target"`
+		Duration    string `json:"duration"`
+		Description string `json:"description"`
+	} `json:"effect"`
+	SavingThrow struct {
+		Fortitude   bool   `json:"fortitude"`
+		Reflex      bool   `json:"reflex"`
+		Will        bool   `json:"will"`
+		Description string `json:"description"`
+	} `json:"savingThrow"`
+	SpellResistance struct {
+		Applies     bool   `json:"applies"`
+		Description string `json:"description"`
+	} `json:"spellResistance"`
+	Description string `json:"description"`
 }
