@@ -6,10 +6,13 @@ import (
 	"io/ioutil"
 	"os"
 	"sort"
+	"time"
 )
 
 func main() {
-	jsonFile, err := os.Open("data.json")
+	sourceFile := "data.json"
+	backup(sourceFile)
+	jsonFile, err := os.Open(sourceFile)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -39,6 +42,13 @@ func main() {
 	// Write
 	writeFile, _ := json.MarshalIndent(output, "", " ")
 	ioutil.WriteFile("spells.json", writeFile, 0644)
+}
+
+func backup(sourceFile string) {
+	currentTime := time.Now()
+	input, _ := ioutil.ReadFile(sourceFile)
+	destinationFile := sourceFile + "-bkp-" + currentTime.Format("2006-01-02-15:04:05")
+	ioutil.WriteFile(destinationFile, input, 0644)
 }
 
 func updateOldToNew(spells []OldSpell, newSpells map[string]NewSpell) {
@@ -223,7 +233,7 @@ type NewSpell struct {
 		Area        string `json:"area"`
 		Target      string `json:"target"`
 		Duration    string `json:"duration"`
-		Description string `json:"description"`
+		Dismissible bool   `json:"dismissible"`
 	} `json:"effect"`
 	SavingThrow struct {
 		Fortitude   bool   `json:"fortitude"`
@@ -235,9 +245,9 @@ type NewSpell struct {
 		Applies     bool   `json:"applies"`
 		Description string `json:"description"`
 	} `json:"spellResistance"`
-	Description   string   `json:"description"`
-	SourceBook    string   `json:"sourceBook"`
-	RelatedSpells []string `json:"relatedSpells"`
+	Description       string   `json:"description"`
+	SourceBook        string   `json:"sourceBook"`
+	RelatedSpellNames []string `json:"relatedSpellNames"`
 }
 
 type OldSpell struct {
@@ -265,7 +275,7 @@ type OldSpell struct {
 		Area        string `json:"area"`
 		Target      string `json:"target"`
 		Duration    string `json:"duration"`
-		Description string `json:"description"`
+		Dismissible bool   `json:"dismissible"`
 	} `json:"effect"`
 	SavingThrow struct {
 		Fortitude   bool   `json:"fortitude"`
@@ -277,7 +287,7 @@ type OldSpell struct {
 		Applies     bool   `json:"applies"`
 		Description string `json:"description"`
 	} `json:"spellResistance"`
-	Description   string   `json:"description"`
-	SourceBook    string   `json:"sourceBook"`
-	RelatedSpells []string `json:"relatedSpells"`
+	Description       string   `json:"description"`
+	SourceBook        string   `json:"sourceBook"`
+	RelatedSpellNames []string `json:"relatedSpellNames"`
 }
