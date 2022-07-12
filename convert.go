@@ -53,24 +53,60 @@ func backup(sourceFile string) {
 
 func updateOldToNew(spells []OldSpell, newSpells map[string]NewSpell) {
 	for _, old := range spells {
-		var new NewSpell
-		copySpell(old, &new)
-		newSpells[new.Name] = new
+		newSpell := copySpell(old)
+		newSpells[newSpell.Name] = newSpell
 	}
 }
 
-func copySpell(old OldSpell, new *NewSpell) {
-	new.Name = old.Name
-	new.Link = old.Link
-	new.School = old.School
-	new.Classes = old.Classes
-	new.CastingTime = old.CastingTime
-	new.Components = old.Components
-	new.Effect = old.Effect
-	new.SavingThrow = old.SavingThrow
-	new.SpellResistance = old.SpellResistance
-	new.Description = old.Description
-	new.SourceBook = old.SourceBook
+func nilOrString(in string) *string {
+	if in == "" {
+		return nil
+	}
+	return &in
+}
+
+func copySpell(old OldSpell) NewSpell {
+	return NewSpell{
+		Name: old.Name,
+		Link: old.Link,
+		School: School{
+			School:      old.School.School,
+			SubSchool:   nilOrString(old.School.SubSchool),
+			Descriptors: old.School.Descriptors,
+		},
+		Classes: old.Classes,
+		CastingTime: CastingTime{
+			Unit: old.CastingTime.Unit,
+			Time: old.CastingTime.Time,
+		},
+		Components: Components{
+			Verbal:      old.Components.Verbal,
+			Somatic:     old.Components.Somatic,
+			Material:    nilOrString(old.Components.Material),
+			Focus:       nilOrString(old.Components.Focus),
+			DivineFocus: old.Components.DivineFocus,
+		},
+		Effect: Effect{
+			Range:       nilOrString(old.Effect.Range),
+			Area:        nilOrString(old.Effect.Area),
+			Target:      nilOrString(old.Effect.Target),
+			Duration:    nilOrString(old.Effect.Duration),
+			Dismissible: old.Effect.Dismissible,
+		},
+		SavingThrow: SavingThrow{
+			Fortitude:   old.SavingThrow.Fortitude,
+			Reflex:      old.SavingThrow.Reflex,
+			Will:        old.SavingThrow.Will,
+			Description: nilOrString(old.SavingThrow.Description),
+		},
+		SpellResistance: SpellResistance{
+			Applies:     old.SpellResistance.Applies,
+			Description: nilOrString(old.SpellResistance.Description),
+		},
+		Description:       old.Description,
+		SourceBook:        old.SourceBook,
+		RelatedSpellNames: nil,
+	}
 }
 
 func addClass(spells []OldSpell, newSpells map[string]NewSpell) {
@@ -92,9 +128,8 @@ func addClass(spells []OldSpell, newSpells map[string]NewSpell) {
 	fmt.Println(newClass)
 
 	for _, old := range spells {
-		var new NewSpell
-		copySpell(old, &new)
-		newSpells[new.Name] = new
+		newSpell := copySpell(old)
+		newSpells[newSpell.Name] = newSpell
 	}
 
 	for _, c := range newClass {
@@ -119,10 +154,9 @@ func addCopyright(spells []OldSpell, newSpells map[string]NewSpell) {
 	json.Unmarshal(jsonByte, &source)
 
 	for _, old := range spells {
-		var new NewSpell
-		copySpell(old, &new)
-		new.SourceBook = source[new.Name]
-		newSpells[new.Name] = new
+		newSpell := copySpell(old)
+		newSpell.SourceBook = source[newSpell.Name]
+		newSpells[newSpell.Name] = newSpell
 	}
 }
 
@@ -208,46 +242,58 @@ func formatSpells(spells []OldSpell, newSpells map[string]NewSpell) {
 }
 */
 
+type School struct {
+	School      string   `json:"school"`
+	SubSchool   *string  `json:"subSchool"`
+	Descriptors []string `json:"descriptors"`
+}
+
+type CastingTime struct {
+	Unit string `json:"unit"`
+	Time string `json:"time"`
+}
+
+type Components struct {
+	Verbal      bool    `json:"verbal"`
+	Somatic     bool    `json:"somatic"`
+	Material    *string `json:"material"`
+	Focus       *string `json:"focus"`
+	DivineFocus bool    `json:"divineFocus"`
+}
+
+type Effect struct {
+	Range       *string `json:"range"`
+	Area        *string `json:"area"`
+	Target      *string `json:"target"`
+	Duration    *string `json:"duration"`
+	Dismissible bool    `json:"dismissible"`
+}
+
+type SavingThrow struct {
+	Fortitude   bool    `json:"fortitude"`
+	Reflex      bool    `json:"reflex"`
+	Will        bool    `json:"will"`
+	Description *string `json:"description"`
+}
+
+type SpellResistance struct {
+	Applies     bool    `json:"applies"`
+	Description *string `json:"description"`
+}
+
 type NewSpell struct {
-	Name   string `json:"name"`
-	Link   string `json:"link"`
-	School struct {
-		School      string   `json:"school"`
-		SubSchool   string   `json:"subSchool"`
-		Descriptors []string `json:"descriptors"`
-	} `json:"school"`
-	Classes     map[string]int `json:"classes"`
-	CastingTime struct {
-		Unit string `json:"unit"`
-		Time string `json:"time"`
-	} `json:"castingTime"`
-	Components struct {
-		Verbal      bool   `json:"verbal"`
-		Somatic     bool   `json:"somatic"`
-		Material    string `json:"material"`
-		Focus       string `json:"focus"`
-		DivineFocus bool   `json:"divineFocus"`
-	} `json:"components"`
-	Effect struct {
-		Range       string `json:"range"`
-		Area        string `json:"area"`
-		Target      string `json:"target"`
-		Duration    string `json:"duration"`
-		Dismissible bool   `json:"dismissible"`
-	} `json:"effect"`
-	SavingThrow struct {
-		Fortitude   bool   `json:"fortitude"`
-		Reflex      bool   `json:"reflex"`
-		Will        bool   `json:"will"`
-		Description string `json:"description"`
-	} `json:"savingThrow"`
-	SpellResistance struct {
-		Applies     bool   `json:"applies"`
-		Description string `json:"description"`
-	} `json:"spellResistance"`
-	Description       string   `json:"description"`
-	SourceBook        string   `json:"sourceBook"`
-	RelatedSpellNames []string `json:"relatedSpellNames"`
+	Name              string          `json:"name"`
+	Link              string          `json:"link"`
+	School            School          `json:"school"`
+	Classes           map[string]int  `json:"classes"`
+	CastingTime       CastingTime     `json:"castingTime"`
+	Components        Components      `json:"components"`
+	Effect            Effect          `json:"effect"`
+	SavingThrow       SavingThrow     `json:"savingThrow"`
+	SpellResistance   SpellResistance `json:"spellResistance"`
+	Description       string          `json:"description"`
+	SourceBook        string          `json:"sourceBook"`
+	RelatedSpellNames []string        `json:"relatedSpellNames"`
 }
 
 type OldSpell struct {
