@@ -244,13 +244,13 @@ func formatSpells(spells []OldSpell, newSpells map[string]NewSpell) {
 
 type School struct {
 	School      string   `json:"school"`
-	SubSchool   *string  `json:"subSchool"`
+	SubSchool   *string  `json:"sub_school"`
 	Descriptors []string `json:"descriptors"`
 }
 
 type CastingTime struct {
 	Unit string `json:"unit"`
-	Time string `json:"time"`
+	Value string `json:"value"`
 }
 
 type Components struct {
@@ -258,7 +258,7 @@ type Components struct {
 	Somatic     bool    `json:"somatic"`
 	Material    *string `json:"material"`
 	Focus       *string `json:"focus"`
-	DivineFocus bool    `json:"divineFocus"`
+	DivineFocus bool    `json:"divine_focus"`
 }
 
 type Effect struct {
@@ -283,17 +283,17 @@ type SpellResistance struct {
 
 type NewSpell struct {
 	Name              string          `json:"name"`
-	Link              string          `json:"link"`
+	Url               string          `json:"url"`
 	School            School          `json:"school"`
 	Classes           map[string]int  `json:"classes"`
-	CastingTime       CastingTime     `json:"castingTime"`
+	CastingTime       CastingTime     `json:"casting_time"`
 	Components        Components      `json:"components"`
 	Effect            Effect          `json:"effect"`
-	SavingThrow       SavingThrow     `json:"savingThrow"`
-	SpellResistance   SpellResistance `json:"spellResistance"`
+	SavingThrow       SavingThrow     `json:"saving_throw"`
+	SpellResistance   SpellResistance `json:"spell_resistance"`
 	Description       string          `json:"description"`
-	SourceBook        string          `json:"sourceBook"`
-	RelatedSpellNames []string        `json:"relatedSpellNames"`
+	SourceBook        string          `json:"source_book"`
+	RelatedSpellNames []string        `json:"related_spell_names"`
 }
 
 type OldSpell struct {
