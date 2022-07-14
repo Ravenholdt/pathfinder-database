@@ -248,11 +248,6 @@ type School struct {
 	Descriptors []string `json:"descriptors"`
 }
 
-type CastingTime struct {
-	Unit string `json:"unit"`
-	Value string `json:"value"`
-}
-
 type Components struct {
 	Verbal      bool    `json:"verbal"`
 	Somatic     bool    `json:"somatic"`
@@ -286,7 +281,7 @@ type NewSpell struct {
 	Url               string          `json:"url"`
 	School            School          `json:"school"`
 	Classes           map[string]int  `json:"classes"`
-	CastingTime       CastingTime     `json:"casting_time"`
+	CastingTime       string          `json:"casting_time"`
 	Components        Components      `json:"components"`
 	Effect            Effect          `json:"effect"`
 	SavingThrow       SavingThrow     `json:"saving_throw"`
