@@ -1,0 +1,817 @@
+[
+ {
+  "Name": "Acid Splash",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Arcane Mark",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Daze",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Detect Magic",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Guidance",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Light",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mage Hand",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mending",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Message",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Open/Close",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Read Magic",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Resistance",
+  "Level": 0,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Alarm",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ant Haul",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Blurred Movement",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Compel Hostility",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Corrosive Touch",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Daze Monster",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Endure Elements",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Enlarge Person",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Expeditious Retreat",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Feather Fall",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Glue Seal",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Grease",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Icicle Dagger",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Identify",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Jump",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Jury-Rig",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Life Conduit",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Long Arm",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mage Armor",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Magic Fang",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Magic Mouth",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mount",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Obscuring Mist",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Protection from Chaos/Evil/Good/Law",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ray of Sickening",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Reduce Person",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Shield",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Minor Monster",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster I",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Unfetter",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Unseen Servant",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ventriloquism",
+  "Level": 1,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Alter Self",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Barkskin",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Bear’s Endurance",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Blood Armor",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Blur",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Bull’s Strength",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Cat’s Grace",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Create Pit",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Cushioning Bands",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Detect Thoughts",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Eagle’s Splendor",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Fog Cloud",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Fox’s Cunning",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Glide",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Glitterdust",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Invisibility",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Levitate",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Misdirection",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Owl’s Wisdom",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Phantom Steed",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Protection from Arrows",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Resist Energy",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "See Invisibility",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Spider Climb",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Eidolon",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster II",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Swarm",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Time Shudder",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Twisted Space",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Warding Weapon",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Web Shelter",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Whip of Spiders",
+  "Level": 2,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ablative Barrier",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Aqueous Orb",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Control Summoned Creature",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Devolution",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Dispel Magic",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Displacement",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Evolution Surge",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Fly",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Haste",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Heroism",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Invisibility Sphere",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mad Monkeys",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Magic Circle against Chaos/Evil/Good/Law",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Marionette Possession",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Minor Creation",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Nondetection",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Pellet Blast",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Protection from Energy",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Rage",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Rain of Frogs",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Rejuvenate Eidolon",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Restore Eidolon",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Seek Thoughts",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Shield Companion",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Slow",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Spiked Pit",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Stinking Cloud",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster IV",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Tongues",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Water Breathing",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wind Wall",
+  "Level": 3,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Acid Pit",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Adjustable Polymorph",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Agonize",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Black Tentacles",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Charm Monster",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Creeping Ice",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Dimension Door",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Dimensional Anchor",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Fire Shield",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Locate Creature",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Minor Creation",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Obsidian Flow",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Purified Calling",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Solid Fog",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Stoneskin",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster V",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summoner Conduit",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Transmogrify",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Vitriolic Mist",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wall of Fire",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wall of Ice",
+  "Level": 4,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Baleful Polymorph",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Cloudkill",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Conjure Black Pudding",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Contact Other Plane",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Dismissal",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Hold Monster",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Hostile Juxtaposition",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Hungry Pit",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Insect Plague",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Mage’s Faithful Hound",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Magic Jar",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Overland Flight",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Planar Adaptation",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Sending",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster VI",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Teleport",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wall of Stone",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Whip of Centipedes",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wreath of Blades",
+  "Level": 5,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Acid Fog",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Banishment",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Creeping Doom",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Dimensional Bounce",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Eagle Aerie",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ethereal Jaunt",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Ice Crystal Teleport",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Planar Binding",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Plane Shift",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Repulsion",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Sequester",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Spell Turning",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Summon Monster VII",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Tar Pool",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "True Seeing",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ },
+ {
+  "Name": "Wall of Iron",
+  "Level": 6,
+  "Class": "unchained_summoner"
+ }
+]

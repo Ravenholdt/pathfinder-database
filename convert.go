@@ -31,7 +31,7 @@ func main() {
 
 	formatSpells(spellList)
 	//addCopyright(spells, spellList)
-	//addClass(spells, spellList)
+	//addClass(spellList)
 	//updateOldToNew(spells, spellList)
 
 	verifyClasses(spellList)
@@ -132,7 +132,7 @@ func copySpell(old OldSpell) Spell {
 	}
 }
 
-func addClass(spells []OldSpell, newSpells map[string]Spell) {
+func addClass(spellList map[string]Spell) {
 	jsonFile, err := os.Open("class-spells.json")
 	if err != nil {
 		fmt.Println(err)
@@ -148,16 +148,9 @@ func addClass(spells []OldSpell, newSpells map[string]Spell) {
 	var newClass []nC
 	json.Unmarshal(jsonByte, &newClass)
 
-	fmt.Println(newClass)
-
-	for _, old := range spells {
-		newSpell := copySpell(old)
-		newSpells[newSpell.Name] = newSpell
-	}
-
 	for _, c := range newClass {
-		if _, ok := newSpells[c.Name]; ok {
-			newSpells[c.Name].Classes[c.Class] = c.Level
+		if _, ok := spellList[c.Name]; ok {
+			spellList[c.Name].Classes[c.Class] = c.Level
 		} else {
 			fmt.Println(c.Name)
 		}

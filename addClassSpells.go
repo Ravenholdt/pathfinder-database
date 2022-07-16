@@ -12,12 +12,14 @@ import (
 
 func main() {
 
-	mesmer, err := os.Open("mesmer-spells.txt")
+	class := "unchained_summoner"
+
+	mesmer, err := os.Open(class + "-spells.txt")
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	level := -1
+	level := 0
 
 	var spells []Spell
 
@@ -38,7 +40,7 @@ func main() {
 			//fmt.Println(level)
 			//fmt.Println(base)
 			base = strings.TrimSpace(base)
-			s := Spell{base, level, "mesmerist"}
+			s := Spell{base, level, class}
 			//fmt.Println(s)
 			spells = append(spells, s)
 
@@ -49,7 +51,7 @@ func main() {
 
 	writeFile, _ := json.MarshalIndent(spells, "", " ")
 
-	ioutil.WriteFile("mesmer-spells.json", writeFile, 0644)
+	ioutil.WriteFile(class+"-spells.json", writeFile, 0644)
 }
 
 type Spell struct {

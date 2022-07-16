@@ -104,7 +104,7 @@
    "psychic": 3,
    "sorcerer": 3,
    "summoner": 2,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -856,7 +856,7 @@
   "classes": {
    "magus": 6,
    "sorcerer": 6,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 6
   },
   "casting_time": "1 standard action",
@@ -943,8 +943,8 @@
   },
   "classes": {
    "sorcerer": 4,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 4,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -1263,8 +1263,8 @@
    "magus": 4,
    "shaman": 4,
    "sorcerer": 4,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 4,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -1664,7 +1664,7 @@
    "cleric/oracle": 3,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -2214,8 +2214,8 @@
    "psychic": 1,
    "ranger": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -2832,8 +2832,8 @@
    "psychic": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -4039,8 +4039,8 @@
    "psychic": 1,
    "ranger": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -5073,8 +5073,8 @@
    "druid": 3,
    "magus": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -7522,7 +7522,7 @@
    "shaman": 5,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -7854,7 +7854,7 @@
    "shaman": 6,
    "sorcerer": 7,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 7
   },
   "casting_time": "1 standard action",
@@ -8123,8 +8123,8 @@
    "druid": 2,
    "ranger": 2,
    "shaman": 2,
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 2,
+   "unchained_summoner": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -8527,8 +8527,8 @@
    "ranger": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -9698,7 +9698,7 @@
    "magus": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -11369,8 +11369,8 @@
    "bloodrager": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -12481,8 +12481,8 @@
    "mesmerist": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -12530,8 +12530,8 @@
    "mesmerist": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -14121,8 +14121,8 @@
    "psychic": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -16374,8 +16374,8 @@
    "psychic": 2,
    "ranger": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -17581,7 +17581,7 @@
    "mesmerist": 3,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -18922,7 +18922,7 @@
   "classes": {
    "magus": 5,
    "sorcerer": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -19835,8 +19835,8 @@
    "paladin": 1,
    "psychic": 1,
    "ranger": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -20501,8 +20501,8 @@
   },
   "classes": {
    "sorcerer": 6,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 5,
+   "unchained_summoner": 5,
    "wizard": 6
   },
   "casting_time": "1 round",
@@ -20856,7 +20856,7 @@
    "alchemist": 5,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -21438,8 +21438,8 @@
    "cleric/oracle": 4,
    "mesmerist": 3,
    "sorcerer": 4,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -21967,8 +21967,8 @@
    "bloodrager": 1,
    "magus": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -22771,8 +22771,8 @@
   },
   "classes": {
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -23046,7 +23046,7 @@
    "druid": 7,
    "shaman": 7,
    "summoner": 5,
-   "unchained_summoner": 0
+   "unchained_summoner": 6
   },
   "casting_time": "1 standard action",
   "components": {
@@ -23091,7 +23091,7 @@
    "druid": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -24526,8 +24526,8 @@
   "classes": {
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -25536,8 +25536,8 @@
    "mesmerist": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 2,
    "wizard": 2
   },
@@ -28973,8 +28973,8 @@
    "mesmerist": 2,
    "psychic": 1,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -29294,8 +29294,8 @@
   "classes": {
    "psychic": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -29518,7 +29518,7 @@
    "mesmerist": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -29564,7 +29564,7 @@
    "inquisitor": 3,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -29653,8 +29653,8 @@
   },
   "classes": {
    "sorcerer": 7,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 6,
+   "unchained_summoner": 6,
    "witch": 7,
    "wizard": 7
   },
@@ -30453,7 +30453,7 @@
    "shaman": 4,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "1 standard action",
@@ -30729,8 +30729,8 @@
    "shaman": 3,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -30781,8 +30781,8 @@
    "psychic": 3,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -32422,9 +32422,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-reality/",
   "school": {
    "school": "illusion",
-   "sub_school": "compulsion",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "compulsion"
    ]
   },
   "classes": {
@@ -33125,8 +33126,8 @@
   },
   "classes": {
    "druid": 6,
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 6,
+   "unchained_summoner": 6
   },
   "casting_time": "1 round",
   "components": {
@@ -33263,8 +33264,8 @@
    "psychic": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -34844,8 +34845,8 @@
    "ranger": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -35278,8 +35279,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -36398,7 +36399,7 @@
    "cleric/oracle": 7,
    "sorcerer": 7,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 7
   },
   "casting_time": "1 standard action",
@@ -36665,8 +36666,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 3,
+   "unchained_summoner": 3
   },
   "casting_time": "1 standard action",
   "components": {
@@ -36849,8 +36850,8 @@
    "mesmerist": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -38510,8 +38511,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 immediate action",
@@ -39461,7 +39462,7 @@
    "magus": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -41572,8 +41573,8 @@
    "shaman": 3,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -41748,7 +41749,7 @@
    "magus": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "unchained_summoner": 0,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -43071,8 +43072,8 @@
    "bard": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -45460,8 +45461,8 @@
    "ranger": 1,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -45492,52 +45493,6 @@
   },
   "description": "You take no damage from falls (as if from feather fall). In addition, you can move up to 5 feet in any horizontal direction for every 1 foot you fall, at a speed of 60 feet per round. You cannot use this spell to actually gain height, merely coast in other directions as you fall. If subjected to a strong wind or any other effect that causes you to rise you can take advantage of it in order to increase the distance you can glide. The spell ends as soon as your feet touch the ground regardless of its remaining duration. If the spell expires while you are still in the air you fall the remaining distance as normal.",
   "source_book": "Advanced Player’s Guide",
-  "related_spell_names": null
- },
- {
-  "name": "Glimpse The Hidden",
-  "url": "https://www.d20pfsrd.com/magic/all-spells/g/glimpse-the-hidden/",
-  "school": {
-   "school": "divination",
-   "sub_school": null,
-   "descriptors": null
-  },
-  "classes": {
-   "alchemist": 3,
-   "inquisitor": 3,
-   "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
-   "witch": 3,
-   "wizard": 3
-  },
-  "casting_time": "1 standard action",
-  "components": {
-   "verbal": true,
-   "somatic": true,
-   "material": "M (a pinch of magnesium and platinum)",
-   "focus": null,
-   "divine_focus": false
-  },
-  "effect": {
-   "range": "touch",
-   "area": null,
-   "target": "creature touched",
-   "duration": "1 round/level (D)",
-   "dismissible": true
-  },
-  "saving_throw": {
-   "fortitude": false,
-   "reflex": false,
-   "will": true,
-   "description": "Will negates (harmless)"
-  },
-  "spell_resistance": {
-   "applies": true,
-   "description": "yes (harmless)"
-  },
-  "description": "This spell functions as see invisibility, except as noted here. This spell cannot be made permanent.",
-  "source_book": "Pathfinder Player Companion: Potions \u0026 Poisons",
   "related_spell_names": null
  },
  {
@@ -45633,6 +45588,52 @@
   "related_spell_names": null
  },
  {
+  "name": "Glimpse the Hidden",
+  "url": "https://www.d20pfsrd.com/magic/all-spells/g/glimpse-the-hidden/",
+  "school": {
+   "school": "divination",
+   "sub_school": null,
+   "descriptors": null
+  },
+  "classes": {
+   "alchemist": 3,
+   "inquisitor": 3,
+   "sorcerer": 3,
+   "summoner": 3,
+   "unchained_summoner": 0,
+   "witch": 3,
+   "wizard": 3
+  },
+  "casting_time": "1 standard action",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": "M (a pinch of magnesium and platinum)",
+   "focus": null,
+   "divine_focus": false
+  },
+  "effect": {
+   "range": "touch",
+   "area": null,
+   "target": "creature touched",
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": true,
+   "description": "Will negates (harmless)"
+  },
+  "spell_resistance": {
+   "applies": true,
+   "description": "yes (harmless)"
+  },
+  "description": "This spell functions as see invisibility, except as noted here. This spell cannot be made permanent.",
+  "source_book": "Pathfinder Player Companion: Potions \u0026 Poisons",
+  "related_spell_names": null
+ },
+ {
   "name": "Glitterdust",
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/glitterdust/",
   "school": {
@@ -45646,8 +45647,8 @@
    "magus": 2,
    "mesmerist": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -45825,8 +45826,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -46673,8 +46674,8 @@
    "magus": 1,
    "mesmerist": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -48202,7 +48203,7 @@
    "sorcerer": 3,
    "spiritualist": 3,
    "summoner": 2,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -49601,8 +49602,8 @@
    "psychic": 3,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -50451,7 +50452,7 @@
    "mesmerist": 4,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -51398,7 +51399,7 @@
    "mesmerist": 4,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -51721,8 +51722,8 @@
   },
   "classes": {
    "sorcerer": 5,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 5,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "1 standard action",
@@ -52526,7 +52527,7 @@
   "classes": {
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "witch": 6,
    "wizard": 6
   },
@@ -52712,8 +52713,8 @@
   "classes": {
    "bloodrager": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -52889,8 +52890,8 @@
    "bard": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -55006,7 +55007,7 @@
    "druid": 5,
    "shaman": 5,
    "summoner": 4,
-   "unchained_summoner": 0
+   "unchained_summoner": 5
   },
   "casting_time": "1 round",
   "components": {
@@ -56185,8 +56186,8 @@
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -56375,7 +56376,7 @@
    "occultist": 3,
    "psychic": 3,
    "sorcerer": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": " ",
@@ -57421,8 +57422,8 @@
    "psychic": 1,
    "ranger": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -57508,8 +57509,8 @@
    "bard": 1,
    "magus": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -58930,8 +58931,8 @@
    "shaman": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -59146,8 +59147,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 1,
+   "unchained_summoner": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -60999,7 +61000,7 @@
    "mesmerist": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -61374,8 +61375,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -61922,8 +61923,8 @@
    "bard": 3,
    "druid": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 round",
@@ -62061,8 +62062,8 @@
    "bloodrager": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -62286,7 +62287,7 @@
   "classes": {
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "1 standard action",
@@ -62754,8 +62755,8 @@
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": " ",
@@ -62803,8 +62804,8 @@
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -62852,8 +62853,8 @@
    "inquisitor": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": " ",
@@ -62901,8 +62902,8 @@
    "inquisitor": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": " ",
@@ -62945,8 +62946,8 @@
   "classes": {
    "druid": 1,
    "ranger": 1,
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 1,
+   "unchained_summoner": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -62989,7 +62990,7 @@
    "alchemist": 5,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -63081,8 +63082,8 @@
    "occultist": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -63477,7 +63478,7 @@
   },
   "classes": {
    "sorcerer": 5,
-   "summoner": 0,
+   "summoner": 4,
    "unchained_summoner": 0,
    "witch": 5,
    "wizard": 5
@@ -64106,8 +64107,8 @@
    "mesmerist": 3,
    "psychic": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -66450,8 +66451,8 @@
   },
   "classes": {
    "sorcerer": 4,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -67130,8 +67131,8 @@
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -67216,8 +67217,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mislead/",
   "school": {
    "school": "illusion",
-   "sub_school": "figment, glamer",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "figment, glamer"
+   ]
   },
   "classes": {
    "alchemist": 6,
@@ -67863,8 +67866,8 @@
    "bloodrager": 1,
    "magus": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -69348,8 +69351,8 @@
    "ranger": 4,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -69883,7 +69886,7 @@
    "mesmerist": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "unchained_summoner": 0,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -69931,7 +69934,7 @@
    "druid": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -70684,7 +70687,7 @@
    "shaman": 5,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -70969,8 +70972,8 @@
    "ranger": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -71961,8 +71964,8 @@
    "magus": 4,
    "psychic": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -73130,8 +73133,8 @@
    "bloodrager": 3,
    "magus": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 3
   },
   "casting_time": "10 minutes",
@@ -74000,8 +74003,8 @@
    "alchemist": 5,
    "cleric/oracle": 4,
    "sorcerer": 5,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 5,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "1 standard action",
@@ -74130,7 +74133,7 @@
   "classes": {
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 6
   },
   "casting_time": " ",
@@ -74318,7 +74321,7 @@
    "shaman": 7,
    "sorcerer": 7,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "witch": 7,
    "wizard": 7
   },
@@ -76634,8 +76637,8 @@
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -76684,8 +76687,8 @@
    "paladin": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -76737,8 +76740,8 @@
    "shaman": 3,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -76786,8 +76789,8 @@
    "paladin": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -76835,8 +76838,8 @@
    "inquisitor": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -76884,8 +76887,8 @@
    "inquisitor": 1,
    "shaman": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -77812,8 +77815,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 4,
+   "unchained_summoner": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -78593,8 +78596,8 @@
    "mesmerist": 2,
    "psychic": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -78819,8 +78822,8 @@
    "psychic": 3,
    "shaman": 4,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -78849,7 +78852,7 @@
    "applies": false,
    "description": null
   },
-  "description": "School conjuration (summoning); Level bard 3, druid 3, psychic 3, shaman 4, sorcerer/wizard 3, summoner/unchained summoner 3, witch 3",
+  "description": "This spell functions as summon swarm, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm, except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.",
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -79307,8 +79310,8 @@
    "druid": 1,
    "mesmerist": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -80075,8 +80078,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -80465,8 +80468,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 3,
+   "unchained_summoner": 3
   },
   "casting_time": " ",
   "components": {
@@ -81525,7 +81528,7 @@
    "inquisitor": 6,
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 6
   },
   "casting_time": "1 standard action",
@@ -81749,8 +81752,8 @@
    "shaman": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -82317,8 +82320,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 3,
+   "unchained_summoner": 3
   },
   "casting_time": "1 minute",
   "components": {
@@ -87401,8 +87404,8 @@
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -87642,8 +87645,8 @@
    "psychic": 2,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -87873,7 +87876,7 @@
    "shaman": 4,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "10 minutes",
@@ -88279,7 +88282,7 @@
   "classes": {
    "sorcerer": 7,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 7
   },
   "casting_time": "1 standard action",
@@ -90542,8 +90545,8 @@
    "magus": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -90576,7 +90579,7 @@
   "related_spell_names": null
  },
  {
-  "name": "Shield Companion (PZ09429)",
+  "name": "Shield Companion",
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-companion/",
   "school": {
    "school": "abjuration",
@@ -90589,6 +90592,8 @@
    "paladin": 1,
    "ranger": 1,
    "sorcerer": 1,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 1,
    "wizard": 1
   },
@@ -93390,7 +93395,7 @@
    "sorcerer": 3,
    "spiritualist": 3,
    "summoner": 2,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -93869,7 +93874,7 @@
    "mesmerist": 4,
    "shaman": 4,
    "sorcerer": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "witch": 4,
    "wizard": 4
   },
@@ -95651,7 +95656,7 @@
   "classes": {
    "sorcerer": 7,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 7
   },
   "casting_time": "1 standard action",
@@ -96177,8 +96182,8 @@
    "occultist": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -96348,8 +96353,8 @@
   },
   "classes": {
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -97873,7 +97878,7 @@
    "magus": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -98375,7 +98380,7 @@
    "shaman": 5,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -99565,8 +99570,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 2,
+   "unchained_summoner": 2
   },
   "casting_time": "1 round",
   "components": {
@@ -100171,8 +100176,8 @@
    "cleric/oracle": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -100353,8 +100358,8 @@
    "druid": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -100532,8 +100537,8 @@
   "classes": {
    "cleric": 4,
    "sorcerer": 5,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 4,
+   "unchained_summoner": 4,
    "witch": 5,
    "wizard": 5
   },
@@ -103640,7 +103645,7 @@
    "druid": 6,
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 6
   },
   "casting_time": "1 standard action",
@@ -104503,7 +104508,7 @@
    "sorcerer": 5,
    "spiritualist": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -105938,8 +105943,8 @@
    "magus": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -106326,8 +106331,8 @@
    "shaman": 4,
    "sorcerer": 3,
    "spiritualist": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "witch": 3,
    "wizard": 3
   },
@@ -107671,8 +107676,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 4,
+   "unchained_summoner": 4
   },
   "casting_time": "1 hour",
   "components": {
@@ -108854,7 +108859,7 @@
    "shaman": 5,
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "witch": 6,
    "wizard": 6
   },
@@ -109346,8 +109351,8 @@
    "magus": 2,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -110346,8 +110351,8 @@
    "descriptors": null
   },
   "classes": {
-   "summoner": 0,
-   "unchained_summoner": 0
+   "summoner": 1,
+   "unchained_summoner": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -111148,8 +111153,8 @@
    "mesmerist": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "witch": 1,
    "wizard": 1
   },
@@ -112372,8 +112377,8 @@
    "mesmerist": 1,
    "psychic": 1,
    "sorcerer": 1,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 1,
+   "unchained_summoner": 1,
    "wizard": 1
   },
   "casting_time": "1 standard action",
@@ -113534,8 +113539,8 @@
    "alchemist": 4,
    "bloodrager": 4,
    "sorcerer": 4,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 4,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -114307,7 +114312,7 @@
    "shaman": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -114396,7 +114401,7 @@
    "magus": 4,
    "sorcerer": 4,
    "summoner": 3,
-   "unchained_summoner": 0,
+   "unchained_summoner": 4,
    "wizard": 4
   },
   "casting_time": "1 standard action",
@@ -114440,7 +114445,7 @@
    "magus": 6,
    "sorcerer": 6,
    "summoner": 5,
-   "unchained_summoner": 0,
+   "unchained_summoner": 6,
    "wizard": 6
   },
   "casting_time": "1 standard action",
@@ -114810,7 +114815,7 @@
    "shaman": 6,
    "sorcerer": 5,
    "summoner": 4,
-   "unchained_summoner": 0,
+   "unchained_summoner": 5,
    "wizard": 5
   },
   "casting_time": "1 standard action",
@@ -115198,8 +115203,8 @@
    "occultist": 1,
    "psychic": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "wizard": 2
   },
   "casting_time": "1 standard action",
@@ -115472,8 +115477,8 @@
    "psychic": 3,
    "shaman": 3,
    "sorcerer": 3,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 3,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -116288,8 +116293,8 @@
    "ranger": 2,
    "shaman": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -116432,7 +116437,7 @@
    "bard": 6,
    "druid": 6,
    "sorcerer": 6,
-   "summoner": 0,
+   "summoner": 6,
    "unchained_summoner": 0,
    "witch": 6,
    "wizard": 6
@@ -116478,8 +116483,8 @@
    "bard": 5,
    "druid": 5,
    "sorcerer": 5,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 5,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },
@@ -116524,8 +116529,8 @@
    "bard": 2,
    "druid": 2,
    "sorcerer": 2,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 2,
+   "unchained_summoner": 2,
    "witch": 2,
    "wizard": 2
   },
@@ -116971,7 +116976,7 @@
    "shaman": 3,
    "sorcerer": 3,
    "summoner": 2,
-   "unchained_summoner": 0,
+   "unchained_summoner": 3,
    "wizard": 3
   },
   "casting_time": "1 standard action",
@@ -118160,8 +118165,8 @@
    "bloodrager": 4,
    "magus": 4,
    "sorcerer": 5,
-   "summoner": 0,
-   "unchained_summoner": 0,
+   "summoner": 5,
+   "unchained_summoner": 5,
    "witch": 5,
    "wizard": 5
   },

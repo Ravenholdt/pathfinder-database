@@ -1,0 +1,1307 @@
+[
+ {
+  "Name": "Acid Splash",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Arcane Mark",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Daze",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Detect Magic",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Guidance",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Light",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mage Hand",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mending",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Message",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Open/Close",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Read Magic",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Resistance",
+  "Level": 0,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Alarm",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ant Haul",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Barbed Chains",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Bestow Planar Infusion I",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Blurred Movement",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Celestial Healing",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Compel Hostility",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Corrosive Touch",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Daze Monster",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Detect Metal",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Endure Elements",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Enlarge Person",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Expeditious Retreat",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Feather Fall",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Flotsam Vessel",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Glue Seal",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Grease",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Icicle Dagger",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Identify",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Infernal Healing",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Jump",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Jury-Rig",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Life Conduit",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Lighten Object",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Long Arm",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mage Armor",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Magic Fang",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Magic Mouth",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mount",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Positive Pulse",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Protection from Chaos/Evil/Good/Law",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ray of Sickening",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Reduce Person",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Shield",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Snowball",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Minor Monster",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster I",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Unfetter",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Unseen Servant",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ventriloquism",
+  "Level": 1,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ablative Barrier",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Alter Self",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Alter Summoned Monster",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Anti-Summoning Shield",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Aquatic Cavalry",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Barkskin",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Bear’s Endurance",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Blade Tutor’s Spirit",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Blood Armor",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Blur",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Bull’s Strength",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Cat’s Grace",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Contact Entity I",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Create Pit",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Cushioning Bands",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dark Whispers",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Detect Thoughts",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Eagle’s Splendor",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Final Sacrifice",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Force Anchor",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Fox’s Cunning",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ghost Wolf",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Gird Ally",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Glide",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Glitterdust",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Haste",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Hidden Blades",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Invisibility",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Levitate",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Misdirection",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Owl’s Wisdom",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Phantom Steed",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Protection from Arrows",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Quick Change",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Resist Energy",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "See Invisibility",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Shackle",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Slow",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Spider Climb",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Eidolon",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster II",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Swarm",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Time Shudder",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Twisted Space",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Warding Weapon",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Web Shelter",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Whip of Spiders",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wind Wall",
+  "Level": 2,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Agonize",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Air Breathing",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Apport Animal",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Aqueous Orb",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Assume Appearance",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Black Tentacles",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Charm Monster",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Conjuration Foil",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Conjure Carriage",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Contact Entity II",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Control Summoned Creature",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Creeping Ice",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Deft Digits",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Devolution",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dimension Door",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dimensional Anchor",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dispel Magic",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Displacement",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Evolution Surge",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Fire Shield",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Fly",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Glimpse the Hidden",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Heroism",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Infernal Challenger",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Insect Scouts",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Insect Spies",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Locate Creature",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mad Monkeys",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Magic Circle against Chaos/Evil/Good/Law",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Marionette Possession",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Master’s Escape",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Minor Creation",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Nondetection",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Obsidian Flow",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Pack Empathy",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Pellet Blast",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Phantom Chariot",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Planar Inquiry",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Protection from Energy",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Rage",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Rain of Frogs",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Rejuvenate Eidolon",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Restore Eidolon",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Scales of Deflection",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Seek Thoughts",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Selective Alarm",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Shield Companion",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Siphon Might",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Spiked Pit",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Stoneskin",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster IV",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Totem Creature",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Sundered Serpent Coil",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Swarm of Fangs",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Tongues",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Trade Items",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Urban Step",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wall of Fire",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wall of Ice",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Water Breathing",
+  "Level": 3,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Acid Pit",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Adjustable Polymorph",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Anywhere But Here",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Baleful Polymorph",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Bestow Planar Infusion II",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Bind Sage",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Calm Air",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Caustic Blood",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Contact Entity III",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Contact Other Plane",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Damnation Stride",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dismissal",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Hold Monster",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Hollow Heroism",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Hostile Juxtaposition",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Insect Plague",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Instant Restoration",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mage’s Faithful Hound",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Magic Jar",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Major Creation",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Nixie’s Lure",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Overland Flight",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Purified Calling",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Riding Possession",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Sending",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Shadow Invasion",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Skeleton Crew",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Accuser",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Lesser Psychopomp",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster V",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Stampede",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summoner Conduit",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Teleport",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Thaumaturgic Circle",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Transmogrify",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Vitriolic Mist",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wall of Stone",
+  "Level": 4,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Banishing Blade",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Banishment",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Commune With Plane",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Conjure Black Pudding",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Creeping Doom",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Eaglesoul",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Energy Siege Shot",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ether Step",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ethereal Jaunt",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Flesh Wall",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Geniekind",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Grand Destiny",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Hungry Pit",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Ice Crystal Teleport",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Locate Gate",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mage’s Decree",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Master’s Mutation",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Mind Swap",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Planar Adaptation",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Planar Binding",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Plane Shift",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Possession",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Release The Hounds",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Repulsion",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Roaming Pit",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Sequester",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Simulacrum",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Spell Turning",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Straitjacket",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Infernal Host",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster VII",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Vanth",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Tar Pool",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "True Seeing",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Unseen Crew",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wall of Iron",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Whip of Centipedes",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Wreath of Blades",
+  "Level": 5,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Antipathy",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Baleful Shadow Transmutation",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Binding",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Contact Entity IV",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Create Demiplane",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dimensional Bounce",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dimensional Lock",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Discern Location",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dissolution",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Dominate Monster",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Eagle Aerie",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Fey Gate",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Incendiary Cloud",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Magnetic Field",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Maze",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Planar Refuge",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Plundered Power",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Protection from Spells",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Shadow Transmutation",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Laborers",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Summon Monster VIII",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Sympathy",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Teleportation Circle",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Treacherous Teleport",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Walk through Space",
+  "Level": 6,
+  "Class": "summoner"
+ },
+ {
+  "Name": "Whip of Ants",
+  "Level": 6,
+  "Class": "summoner"
+ }
+]
