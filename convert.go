@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 	"sort"
+	"strings"
 	"time"
 )
 
@@ -28,7 +29,7 @@ func main() {
 		spellList[spell.Name] = spell
 	}
 
-	//formatSpells(spells, spellList)
+	//formatSpells(spellList)
 	//addCopyright(spells, spellList)
 	//addClass(spells, spellList)
 	//updateOldToNew(spells, spellList)
@@ -182,87 +183,15 @@ func addCopyright(spells []OldSpell, newSpells map[string]Spell) {
 	}
 }
 
-/*
-func formatSpells(spells []OldSpell, newSpells map[string]NewSpell) {
-	//comp := make(map[string]int)
-	errors := make(map[string]string)
-
-	for _, spell := range spells {
-		newSpell := NewSpell{}
-		newSpell.Name = spell.Name
-		newSpell.Link = spell.Link
-
-		{
-			words := strings.Split(spell.School, " ")
-			for idx, word := range words {
-				reg, _ := regexp.Compile("[^a-zA-Z0-9]+")
-				word = reg.ReplaceAllString(word, "")
-				switch idx {
-				case 0:
-					newSpell.School.School = word
-				case 1:
-					newSpell.School.SubSchool = word
-				default:
-					newSpell.School.Descriptors = append(newSpell.School.Descriptors, word)
-				}
-			}
+func formatSpells(spells map[string]Spell) {
+	for spell := range spells {
+		tmpSpell := spells[spell]
+		if tmpSpell.SpellResistance.Description != nil {
+			tmpSpell.SpellResistance.Applies = strings.Contains(*tmpSpell.SpellResistance.Description, "yes")
 		}
-
-		newSpell.Classes = make(map[string]int)
-		for class, level := range spell.Classes {
-			newSpell.Classes[class], _ = strconv.Atoi(level)
-		}
-
-		newSpell.CastingTime = spell.CastingTime
-
-		for _, c := range spell.Components {
-
-			switch c[0:1] {
-			case "V":
-				newSpell.Components.Verbal = true
-			case "S":
-				newSpell.Components.Somatic = true
-			case "M":
-				if strings.Contains(c, "M/DF") {
-					c = strings.Replace(c, "M/DF", "M", 1)
-					newSpell.Components.DivineFocus = true
-				}
-				newSpell.Components.Material = c
-			case "F":
-				newSpell.Components.Focus = c
-			case "D":
-				newSpell.Components.DivineFocus = true
-				if strings.Contains(c, "DF/M") {
-					c = strings.Replace(c, "DF/M", "M", 1)
-					newSpell.Components.Material = c
-				}
-			}
-		}
-
-		newSpell.Effect.Range = spell.Range
-		newSpell.Effect.Area = spell.Area
-		newSpell.Effect.Target = spell.Target
-		newSpell.Effect.Duration = spell.Duration
-		newSpell.Effect.Description = spell.Description
-
-		newSpell.SavingThrow.Description = spell.SavingThrow
-		newSpell.SavingThrow.Fortitude = strings.Contains(spell.SavingThrow, "Fort")
-		newSpell.SavingThrow.Reflex = strings.Contains(spell.SavingThrow, "Reflex")
-		newSpell.SavingThrow.Will = strings.Contains(spell.SavingThrow, "Will")
-
-		newSpell.SpellResistance.Description = spell.SpellResistance
-		newSpell.SpellResistance.Applies = strings.Contains(spell.SavingThrow, "Yes")
-
-		newSpell.Description = spell.Description
-
-		newSpells[newSpell.Name] = newSpell
+		spells[spell] = tmpSpell
 	}
-
-	fmt.Println(errors)
-	fmt.Println(newSpells["Geyser"])
-
 }
-*/
 
 type School struct {
 	School      string   `json:"school"`
