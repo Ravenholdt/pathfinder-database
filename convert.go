@@ -28,27 +28,12 @@ func main() {
 		spellList[spell.Name] = spell
 	}
 
-	//formatSpells(spells, newSpells)
-	//addCopyright(spells, newSpells)
-	//addClass(spells, newSpells)
-	//updateOldToNew(spells, newSpells)
+	//formatSpells(spells, spellList)
+	//addCopyright(spells, spellList)
+	//addClass(spells, spellList)
+	//updateOldToNew(spells, spellList)
 
-	for name, _ := range spellList {
-		for c, level := range spellList[name].Classes {
-			switch c {
-			case "sorcerer/wizard":
-				spellList[name].Classes["sorcerer"] = level
-				spellList[name].Classes["wizard"] = level
-				delete(spellList[name].Classes, "sorcerer/wizard")
-
-			case "summoner/unchained":
-				spellList[name].Classes["summoner"] = level
-				spellList[name].Classes["unchained_summoner"] = level
-				delete(spellList[name].Classes, "summoner/unchained")
-			}
-
-		}
-	}
+	verifyClasses(spellList)
 
 	var output []Spell
 	for _, spell := range spellList {
@@ -70,6 +55,25 @@ func backup(sourceFile string) {
 	input, _ := ioutil.ReadFile(sourceFile)
 	destinationFile := sourceFile + "-bkp-" + currentTime.Format("2006-01-02-15:04:05")
 	ioutil.WriteFile(destinationFile, input, 0644)
+}
+
+func verifyClasses(spellList map[string]Spell) {
+	for name, _ := range spellList {
+		for c, level := range spellList[name].Classes {
+			switch c {
+			case "sorcerer/wizard":
+				spellList[name].Classes["sorcerer"] = level
+				spellList[name].Classes["wizard"] = level
+				delete(spellList[name].Classes, "sorcerer/wizard")
+
+			case "summoner/unchained":
+				spellList[name].Classes["summoner"] = level
+				spellList[name].Classes["unchained_summoner"] = level
+				delete(spellList[name].Classes, "summoner/unchained")
+			}
+
+		}
+	}
 }
 
 func updateOldToNew(spells []OldSpell, newSpells map[string]Spell) {
