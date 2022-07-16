@@ -490,8 +490,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -626,8 +627,9 @@
   "classes": {
    "antipaladin": 2,
    "arcanist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "crimson_assassin": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "warpriest": 4,
    "witch": 4,
@@ -1306,7 +1308,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -1661,7 +1664,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "sorcerer": 4,
    "summoner": 3,
    "unchained_summoner": 4,
@@ -1757,8 +1761,9 @@
   },
   "classes": {
    "alchemist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "shaman": 2
   },
   "casting_time": "1 standard action",
@@ -1994,8 +1999,9 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
-   "druid": 4
+   "cleric": 4,
+   "druid": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -2339,8 +2345,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
-   "inquisitor": 2
+   "cleric": 2,
+   "inquisitor": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -2641,10 +2648,11 @@
   "classes": {
    "arcanist": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "hunter": 1,
    "inquisitor": 2,
    "medium": 1,
+   "oracle": 2,
    "psychic": 2,
    "ranger": 1,
    "skald": 2,
@@ -3191,7 +3199,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 minute",
   "components": {
@@ -3232,7 +3241,8 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -3273,8 +3283,9 @@
   },
   "classes": {
    "alchemist": 5,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 4,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": "1 standard action",
@@ -3775,7 +3786,8 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 4,
    "wizard": 4
@@ -3819,7 +3831,8 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "witch": 6
   },
   "casting_time": "1 standard action",
@@ -4034,8 +4047,9 @@
   },
   "classes": {
    "alchemist": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "psychic": 1,
    "ranger": 1,
    "sorcerer": 1,
@@ -4305,8 +4319,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
+   "oracle": 6,
    "shaman": 6
   },
   "casting_time": "1 round",
@@ -4347,7 +4362,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 6,
    "wizard": 6
   },
@@ -4834,9 +4850,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "medium": 2,
    "mesmerist": 3,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "spiritualist": 3,
@@ -5590,7 +5607,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 3
   },
   "casting_time": "1 standard action",
@@ -5900,10 +5918,11 @@
   "classes": {
    "arcanist": 5,
    "bard": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "hunter": 3,
    "inquisitor": 4,
    "medium": 3,
+   "oracle": 5,
    "psychic": 5,
    "ranger": 3,
    "skald": 4,
@@ -5993,7 +6012,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "paladin": 2
   },
   "casting_time": "1 standard action",
@@ -6257,9 +6277,10 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 1,
    "shaman": 1
@@ -6485,7 +6506,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -6568,9 +6590,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
-   "inquisitor": 5
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "1 hour",
   "components": {
@@ -6750,7 +6773,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2,
    "witch": 2
@@ -6980,7 +7004,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -7427,8 +7452,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "ranger": 2,
    "sorcerer": 2,
    "wizard": 2
@@ -7471,9 +7497,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "inquisitor": 6,
    "occultist": 6,
+   "oracle": 6,
    "shaman": 6,
    "spiritualist": 6,
    "warpriest": 6,
@@ -7715,9 +7742,10 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": "1 standard action",
@@ -7849,8 +7877,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "inquisitor": 5,
+   "oracle": 6,
    "shaman": 6,
    "sorcerer": 7,
    "summoner": 5,
@@ -7942,8 +7971,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "summoner": 4,
    "witch": 4,
@@ -8433,8 +8463,9 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 4,
+   "oracle": 3,
    "paladin": 4
   },
   "casting_time": "1 standard action",
@@ -8520,9 +8551,10 @@
   "classes": {
    "alchemist": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "magus": 2,
+   "oracle": 2,
    "psychic": 2,
    "ranger": 2,
    "shaman": 2,
@@ -8929,8 +8961,9 @@
   "classes": {
    "antipaladin": 3,
    "bloodrager": 4,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "mesmerist": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 4,
    "spiritualist": 3,
@@ -9018,7 +9051,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "paladin": 4
   },
   "casting_time": "1 standard action",
@@ -9784,8 +9818,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
-   "inquisitor": 6
+   "cleric": 6,
+   "inquisitor": 6,
+   "oracle": 6
   },
   "casting_time": "1 standard action",
   "components": {
@@ -10128,8 +10163,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
-   "inquisitor": 6
+   "cleric": 7,
+   "inquisitor": 6,
+   "oracle": 7
   },
   "casting_time": "1 standard action",
   "components": {
@@ -10344,9 +10380,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "inquisitor": 0,
    "mesmerist": 0,
+   "oracle": 0,
    "psychic": 0,
    "shaman": 0,
    "sorcerer": 0,
@@ -10536,8 +10573,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "shaman": 1
   },
@@ -10623,8 +10661,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 minute",
@@ -10750,7 +10789,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "paladin": 2
   },
   "casting_time": "1 standard action",
@@ -10791,7 +10831,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -10872,8 +10913,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "paladin": 3,
    "ranger": 3
   },
@@ -11183,8 +11225,9 @@
    "antipaladin": 2,
    "bard": 2,
    "bloodrager": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "mesmerist": 2,
+   "oracle": 3,
    "psychic": 2,
    "shaman": 3,
    "sorcerer": 2,
@@ -11414,10 +11457,11 @@
   "classes": {
    "bard": 2,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "medium": 2,
    "occultist": 2,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "wizard": 3
@@ -11555,7 +11599,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 round",
   "components": {
@@ -12084,8 +12129,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
-   "inquisitor": 3
+   "cleric": 2,
+   "inquisitor": 3,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -12258,7 +12304,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "paladin": 4,
    "ranger": 4
   },
@@ -12389,7 +12436,8 @@
   },
   "classes": {
    "arcanist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "warpriest": 2,
    "wizard": 2
@@ -12662,7 +12710,8 @@
   "classes": {
    "bard": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "witch": 2,
@@ -12971,7 +13020,8 @@
   },
   "classes": {
    "arcanist": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 4,
    "warpriest": 5,
    "wizard": 4
@@ -13015,7 +13065,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -13610,9 +13661,10 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
    "mesmerist": 4,
+   "oracle": 5,
    "paladin": 4,
    "shaman": 5,
    "sorcerer": 5,
@@ -13657,7 +13709,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": "1 standard action",
@@ -14114,9 +14167,10 @@
    "alchemist": 2,
    "antipaladin": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "magus": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2,
    "shaman": 2,
@@ -14389,8 +14443,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "wizard": 1
   },
@@ -14833,8 +14888,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 4,
+   "oracle": 5,
    "paladin": 4
   },
   "casting_time": "1 standard action",
@@ -15395,7 +15451,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "wizard": 8
   },
@@ -15611,7 +15668,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -15834,9 +15892,10 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2
   },
@@ -15971,7 +16030,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "wizard": 9
   },
@@ -16423,9 +16483,10 @@
    "antipaladin": 1,
    "bard": 1,
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -16474,9 +16535,10 @@
   "classes": {
    "alchemist": 4,
    "bloodrager": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 4,
    "magus": 4,
+   "oracle": 5,
    "sorcerer": 5,
    "summoner": 4,
    "wizard": 5
@@ -16921,7 +16983,8 @@
   },
   "classes": {
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "wizard": 3
@@ -17308,8 +17371,9 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "ranger": 3,
    "sorcerer": 3,
    "witch": 3,
@@ -17355,8 +17419,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
-   "inquisitor": 4
+   "cleric": 4,
+   "inquisitor": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -17443,7 +17508,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "sorcerer": 3,
    "witch": 3,
    "wizard": 3
@@ -17941,7 +18007,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "shaman": 8,
    "sorcerer": 7,
    "wizard": 7
@@ -18259,8 +18326,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
-   "inquisitor": 6
+   "cleric": 5,
+   "inquisitor": 6,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -18516,7 +18584,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8
+   "cleric": 8,
+   "oracle": 8
   },
   "casting_time": "1 standard action",
   "components": {
@@ -19102,7 +19171,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "wizard": 6
   },
@@ -19145,10 +19215,11 @@
   },
   "classes": {
    "arcanist": 5,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "hunter": 3,
    "inquisitor": 4,
    "occultist": 5,
+   "oracle": 5,
    "ranger": 3,
    "shaman": 5,
    "sorcerer": 5,
@@ -19293,9 +19364,10 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1,
    "witch": 1
   },
@@ -19420,8 +19492,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": "10 minutes",
@@ -19782,8 +19855,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "wizard": 2
@@ -19880,10 +19954,11 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "medium": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -20024,9 +20099,10 @@
   "classes": {
    "alchemist": 1,
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -20120,10 +20196,11 @@
   "classes": {
    "alchemist": 4,
    "arcanist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
    "hunter": 4,
    "investigator": 4,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 4,
    "summoner": 0,
@@ -20632,8 +20709,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
-   "inquisitor": 2
+   "cleric": 2,
+   "inquisitor": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -20903,8 +20981,9 @@
   "classes": {
    "antipaladin": 3,
    "bloodrager": 4,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "sorcerer": 4,
    "wizard": 4
   },
@@ -21044,8 +21123,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "spiritualist": 3,
@@ -21306,9 +21386,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "occultist": 2,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 2,
    "wizard": 2
@@ -21435,8 +21516,9 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "mesmerist": 3,
+   "oracle": 4,
    "sorcerer": 4,
    "summoner": 3,
    "unchained_summoner": 3,
@@ -21568,8 +21650,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 6,
    "wizard": 6
@@ -21612,8 +21695,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
    "druid": 7,
+   "oracle": 7,
    "shaman": 7,
    "sorcerer": 7,
    "witch": 7,
@@ -22553,7 +22637,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "summoner": 6,
    "witch": 8,
@@ -22640,7 +22725,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "shaman": 3
   },
   "casting_time": "10 minutes",
@@ -22909,7 +22995,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "shaman": 6,
    "sorcerer": 6,
    "wizard": 6
@@ -22955,7 +23042,8 @@
   },
   "classes": {
    "arcanist": 7,
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "wizard": 7
   },
@@ -22999,9 +23087,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
+   "oracle": 0,
    "paladin": 1,
    "shaman": 0
   },
@@ -23628,8 +23717,9 @@
   },
   "classes": {
    "alchemist": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "investigator": 2,
+   "oracle": 3,
    "warpriest": 3
   },
   "casting_time": "1 standard action",
@@ -23672,9 +23762,10 @@
   "classes": {
    "alchemist": 4,
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 5,
    "inquisitor": 4,
+   "oracle": 4,
    "shaman": 4,
    "witch": 5
   },
@@ -23718,9 +23809,10 @@
   "classes": {
    "alchemist": 1,
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 2,
    "shaman": 1,
@@ -23766,9 +23858,10 @@
   "classes": {
    "alchemist": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 3,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 3,
    "ranger": 3,
    "shaman": 2,
@@ -23814,9 +23907,10 @@
   "classes": {
    "alchemist": 3,
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 4,
    "inquisitor": 3,
+   "oracle": 3,
    "paladin": 4,
    "ranger": 4,
    "shaman": 3,
@@ -23911,8 +24005,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
-   "inquisitor": 1
+   "cleric": 1,
+   "inquisitor": 1,
+   "oracle": 1
   },
   "casting_time": "1 minute",
   "components": {
@@ -24238,9 +24333,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 4,
    "mesmerist": 3,
+   "oracle": 5,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -24381,7 +24477,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "shaman": 5,
    "sorcerer": 6,
    "witch": 5,
@@ -24428,7 +24525,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -24476,7 +24574,8 @@
    "antipaladin": 3,
    "arcanist": 4,
    "bloodrager": 4,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 4,
    "spiritualist": 3,
@@ -24964,7 +25063,8 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "ranger": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -25156,9 +25256,10 @@
   "classes": {
    "antipaladin": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "magus": 2,
+   "oracle": 2,
    "shaman": 2,
    "sorcerer": 2,
    "wizard": 2
@@ -25386,10 +25487,11 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "inquisitor": 3,
    "magus": 3,
+   "oracle": 3,
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 3,
@@ -25623,10 +25725,11 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 2,
    "paladin": 1,
    "ranger": 1
   },
@@ -25985,8 +26088,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "witch": 2
   },
   "casting_time": "1 standard action",
@@ -26120,9 +26224,10 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 5,
    "inquisitor": 4,
+   "oracle": 4,
    "paladin": 4,
    "witch": 4
   },
@@ -26207,7 +26312,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1
+   "cleric": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -26603,10 +26709,11 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "medium": 1,
    "occultist": 1,
+   "oracle": 1,
    "psychic": 1,
    "sorcerer": 1,
    "spiritualist": 1,
@@ -26749,8 +26856,9 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "shaman": 3
   },
   "casting_time": " ",
@@ -26791,9 +26899,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "magus": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -27283,9 +27392,10 @@
   "classes": {
    "bard": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "witch": 2,
@@ -27331,10 +27441,11 @@
   "classes": {
    "alchemist": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "paladin": 2,
    "ranger": 1,
    "shaman": 2,
@@ -27793,8 +27904,9 @@
   },
   "classes": {
    "antipaladin": 2,
-   "cleric/oracle": 2,
-   "inquisitor": 2
+   "cleric": 2,
+   "inquisitor": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -27969,7 +28081,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "shaman": 8,
    "witch": 8
   },
@@ -28149,8 +28262,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": " ",
@@ -28338,8 +28452,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": "1 standard action",
@@ -28425,8 +28540,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": " ",
@@ -28467,8 +28583,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": " ",
@@ -28510,11 +28627,12 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
    "magus": 0,
    "mesmerist": 0,
+   "oracle": 0,
    "psychic": 0,
    "shaman": 0,
    "sorcerer": 0,
@@ -28650,10 +28768,11 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
    "mesmerist": 0,
+   "oracle": 0,
    "paladin": 1,
    "psychic": 0,
    "ranger": 1,
@@ -29017,9 +29136,10 @@
   },
   "classes": {
    "alchemist": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "paladin": 1,
    "psychic": 1,
    "shaman": 1,
@@ -29336,9 +29456,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "paladin": 1,
    "psychic": 1,
    "ranger": 1,
@@ -29428,8 +29549,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
-   "inquisitor": 6
+   "cleric": 7,
+   "inquisitor": 6,
+   "oracle": 7
   },
   "casting_time": "1 standard action",
   "components": {
@@ -29560,8 +29682,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 3,
+   "oracle": 4,
    "sorcerer": 4,
    "summoner": 3,
    "unchained_summoner": 4,
@@ -29696,7 +29819,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "summoner": 6,
    "wizard": 8
@@ -29912,8 +30036,9 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "paladin": 3,
    "witch": 4
   },
@@ -29955,7 +30080,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "shaman": 8,
    "sorcerer": 8,
    "summoner": 6,
@@ -30224,8 +30350,9 @@
   },
   "classes": {
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "witch": 2,
@@ -30448,8 +30575,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 5,
    "summoner": 4,
@@ -30537,8 +30665,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "paladin": 4,
    "shaman": 5
   },
@@ -30582,8 +30711,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "paladin": 4,
    "shaman": 5
   },
@@ -30628,8 +30758,9 @@
   },
   "classes": {
    "antipaladin": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": " ",
@@ -30673,8 +30804,9 @@
   },
   "classes": {
    "antipaladin": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": " ",
@@ -30717,13 +30849,14 @@
   "classes": {
    "antipaladin": 3,
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 4,
    "inquisitor": 3,
    "magus": 3,
    "medium": 3,
    "mesmerist": 3,
    "occultist": 3,
+   "oracle": 3,
    "paladin": 3,
    "psychic": 3,
    "shaman": 3,
@@ -30954,8 +31087,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
-   "inquisitor": 5
+   "cleric": 5,
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -31169,8 +31303,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "shaman": 4,
    "witch": 4
   },
@@ -31254,8 +31389,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -31341,8 +31477,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "shaman": 4
   },
   "casting_time": "1 standard action",
@@ -31693,9 +31830,10 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": "1 standard action",
@@ -32156,7 +32294,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -32383,8 +32522,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "ranger": 1,
    "shaman": 1
   },
@@ -33258,8 +33398,9 @@
    "antipaladin": 2,
    "bard": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2,
    "shaman": 2,
@@ -33354,8 +33495,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -33582,8 +33724,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
    "druid": 8,
+   "oracle": 8,
    "shaman": 8
   },
   "casting_time": "1 standard action",
@@ -34029,7 +34172,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "wizard": 6
   },
@@ -34215,9 +34359,10 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 2,
    "mesmerist": 3,
+   "oracle": 3,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -34838,8 +34983,9 @@
   "classes": {
    "alchemist": 1,
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "paladin": 1,
    "psychic": 1,
    "ranger": 1,
@@ -35014,7 +35160,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "shaman": 9,
    "sorcerer": 9,
    "wizard": 9
@@ -35192,7 +35339,8 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 round",
@@ -35507,10 +35655,11 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "medium": 3,
    "mesmerist": 2,
    "occultist": 2,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "wizard": 3
@@ -35558,9 +35707,10 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2,
    "witch": 2
@@ -35781,7 +35931,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "psychic": 1
   },
   "casting_time": "1 standard action",
@@ -35871,8 +36022,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
+   "oracle": 6,
    "sorcerer": 7,
    "witch": 6,
    "wizard": 7
@@ -36396,7 +36548,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "summoner": 5,
    "unchained_summoner": 6,
@@ -36440,7 +36593,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "shaman": 9,
    "sorcerer": 9,
    "wizard": 9
@@ -36577,9 +36731,10 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 8,
+   "cleric": 8,
    "druid": 8,
    "mesmerist": 6,
+   "oracle": 8,
    "sorcerer": 8,
    "wizard": 8
   },
@@ -37464,8 +37619,9 @@
   "classes": {
    "adept": 1,
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "wizard": 1
   },
@@ -37600,8 +37756,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 2,
+   "oracle": 1,
    "paladin": 2
   },
   "casting_time": "1 round",
@@ -37684,9 +37841,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -37775,8 +37933,9 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
-   "inquisitor": 3
+   "cleric": 3,
+   "inquisitor": 3,
+   "oracle": 3
   },
   "casting_time": "1 round",
   "components": {
@@ -38823,8 +38982,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
+   "oracle": 5,
    "ranger": 3,
    "sorcerer": 5,
    "wizard": 5
@@ -39189,8 +39349,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "psychic": 2,
    "witch": 2
   },
@@ -39233,9 +39394,10 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
    "inquisitor": 6,
+   "oracle": 6,
    "shaman": 6,
    "witch": 6
   },
@@ -39596,8 +39758,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
    "druid": 7,
+   "oracle": 8,
    "shaman": 8
   },
   "casting_time": "1 standard action",
@@ -39896,8 +40059,9 @@
   },
   "classes": {
    "alchemist": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -40343,9 +40507,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 4,
    "inquisitor": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": "1 standard action",
@@ -41159,8 +41324,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -42060,9 +42226,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1
   },
   "casting_time": "1 standard action",
@@ -42103,8 +42270,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
-   "inquisitor": 6
+   "cleric": 6,
+   "inquisitor": 6,
+   "oracle": 6
   },
   "casting_time": "6 rounds",
   "components": {
@@ -43117,8 +43285,9 @@
    "arcanist": 3,
    "bard": 3,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "crimson_assassin": 3,
+   "oracle": 3,
    "skald": 3,
    "sorcerer": 3,
    "warpriest": 3,
@@ -43306,10 +43475,11 @@
   "classes": {
    "alchemist": 4,
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
    "inquisitor": 4,
    "mesmerist": 4,
+   "oracle": 4,
    "ranger": 4
   },
   "casting_time": "1 standard action",
@@ -43351,8 +43521,9 @@
   },
   "classes": {
    "bard": 5,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "sorcerer": 4,
    "wizard": 4
   },
@@ -44349,7 +44520,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "wizard": 9
   },
@@ -44396,9 +44568,10 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "inquisitor": 5,
    "mesmerist": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "witch": 6,
    "wizard": 6
@@ -44615,7 +44788,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "shaman": 2,
    "sorcerer": 3,
    "witch": 2,
@@ -44978,8 +45152,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 1,
    "shaman": 2
   },
@@ -45117,7 +45292,8 @@
   },
   "classes": {
    "antipaladin": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -45244,8 +45420,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "shaman": 4
   },
   "casting_time": "1 standard action",
@@ -45868,8 +46045,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "witch": 3
   },
   "casting_time": "10 minutes",
@@ -46037,7 +46215,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "paladin": 1
   },
   "casting_time": "1 swift action",
@@ -46173,10 +46352,11 @@
   "classes": {
    "arcanist": 0,
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "hunter": 0,
    "magus": 0,
+   "oracle": 0,
    "psychic": 0,
    "skald": 0,
    "sorcerer": 0,
@@ -47127,10 +47307,11 @@
    "alchemist": 3,
    "arcanist": 3,
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 2,
    "investigator": 3,
    "occultist": 3,
+   "oracle": 3,
    "psychic": 3,
    "skald": 3,
    "sorcerer": 3,
@@ -47217,9 +47398,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
+   "oracle": 0,
    "summoner": 0,
    "unchained_summoner": 0,
    "witch": 0
@@ -47262,7 +47444,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "psychic": 3,
    "ranger": 2,
    "shaman": 2,
@@ -47495,8 +47678,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "shaman": 1,
    "witch": 1
   },
@@ -47627,9 +47811,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
-   "inquisitor": 5
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "24 hours",
   "components": {
@@ -47842,7 +48027,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 5,
    "summoner": 5,
    "wizard": 5
@@ -47970,8 +48156,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "inquisitor": 6,
+   "oracle": 6,
    "shaman": 7,
    "witch": 7
   },
@@ -48482,8 +48669,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "shaman": 1,
    "witch": 1
@@ -48527,9 +48715,10 @@
   },
   "classes": {
    "alchemist": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 7,
    "inquisitor": 6,
+   "oracle": 6,
    "shaman": 7,
    "witch": 7
   },
@@ -48614,8 +48803,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "paladin": 4,
    "warpriest": 4
   },
@@ -48747,10 +48937,11 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2,
    "ranger": 2,
    "shaman": 2,
@@ -49333,8 +49524,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "medium": 2,
+   "oracle": 3,
    "psychic": 3,
    "spiritualist": 3
   },
@@ -49422,8 +49614,9 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 6,
-   "inquisitor": 6
+   "cleric": 6,
+   "inquisitor": 6,
+   "oracle": 6
   },
   "casting_time": "10 minutes",
   "components": {
@@ -49507,7 +49700,8 @@
   "classes": {
    "alchemist": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "paladin": 3
   },
   "casting_time": "1 standard action",
@@ -50225,8 +50419,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
-   "inquisitor": 1
+   "cleric": 1,
+   "inquisitor": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -50499,11 +50694,12 @@
    "antipaladin": 2,
    "bard": 2,
    "bloodrager": 3,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "medium": 2,
    "mesmerist": 2,
    "occultist": 3,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2,
    "sorcerer": 3,
@@ -50689,7 +50885,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8
+   "cleric": 8,
+   "oracle": 8
   },
   "casting_time": "1 standard action",
   "components": {
@@ -50733,7 +50930,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5
+   "cleric": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -50904,8 +51102,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
-   "inquisitor": 4
+   "cleric": 4,
+   "inquisitor": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -51032,8 +51231,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
-   "inquisitor": 6
+   "cleric": 7,
+   "inquisitor": 6,
+   "oracle": 7
   },
   "casting_time": "1 standard action",
   "components": {
@@ -51764,9 +51964,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "shaman": 5
   },
   "casting_time": "1 standard action",
@@ -52437,8 +52638,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
-   "druid": 1
+   "cleric": 1,
+   "druid": 1,
+   "oracle": 1
   },
   "casting_time": "1 minute",
   "components": {
@@ -53503,7 +53705,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -53629,7 +53832,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "shaman": 4
   },
   "casting_time": "10 minutes",
@@ -53935,7 +54139,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9
+   "cleric": 9,
+   "oracle": 9
   },
   "casting_time": "1 standard action",
   "components": {
@@ -54329,8 +54534,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "magus": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "summoner": 1,
    "witch": 1,
@@ -54374,8 +54580,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
+   "oracle": 4,
    "shaman": 4,
    "witch": 5
   },
@@ -54418,8 +54625,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1,
    "witch": 1
   },
@@ -54462,8 +54670,9 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "shaman": 2,
    "witch": 2
   },
@@ -54558,8 +54767,9 @@
   },
   "classes": {
    "antipaladin": 4,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "shaman": 3,
    "witch": 4
   },
@@ -54739,8 +54949,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2
   },
   "casting_time": "1 swift action",
@@ -55003,8 +55214,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
+   "oracle": 5,
    "shaman": 5,
    "summoner": 4,
    "unchained_summoner": 5
@@ -55144,9 +55356,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "hunter": 4,
    "inquisitor": 6,
+   "oracle": 6,
    "paladin": 4,
    "ranger": 4,
    "warpriest": 6
@@ -55191,7 +55404,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2
   },
@@ -55725,9 +55939,10 @@
   "classes": {
    "arcanist": 2,
    "bard": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "medium": 2,
    "mesmerist": 1,
+   "oracle": 2,
    "psychic": 2,
    "skald": 1,
    "sorcerer": 2,
@@ -55774,7 +55989,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "wizard": 9
   },
@@ -56135,7 +56351,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5
+   "cleric": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -56330,8 +56547,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
-   "inquisitor": 3
+   "cleric": 3,
+   "inquisitor": 3,
+   "oracle": 3
   },
   "casting_time": "1 standard action",
   "components": {
@@ -56546,8 +56764,9 @@
   },
   "classes": {
    "arcanist": 3,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "magus": 3,
+   "oracle": 4,
    "sorcerer": 3,
    "warpriest": 4,
    "witch": 3,
@@ -57288,8 +57507,9 @@
   },
   "classes": {
    "bard": 5,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "mesmerist": 5,
+   "oracle": 6,
    "sorcerer": 7,
    "wizard": 7
   },
@@ -57863,7 +58083,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "witch": 3,
@@ -58306,8 +58527,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 1
   },
@@ -58975,8 +59197,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "paladin": 1,
    "psychic": 1,
    "ranger": 1,
@@ -59063,8 +59286,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 4,
+   "oracle": 5,
    "ranger": 3,
    "sorcerer": 5,
    "wizard": 5
@@ -59190,7 +59414,7 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "hunter": 3,
    "oracle": 3,
@@ -59237,7 +59461,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2,
    "sorcerer": 2,
@@ -59376,11 +59601,12 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
    "magus": 0,
    "mesmerist": 0,
+   "oracle": 0,
    "psychic": 0,
    "shaman": 0,
    "sorcerer": 0,
@@ -59473,9 +59699,10 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "magus": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -59518,8 +59745,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "magus": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "summoner": 1,
    "wizard": 1
@@ -61089,11 +61317,12 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "medium": 2,
    "mesmerist": 2,
    "occultist": 2,
+   "oracle": 3,
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 3,
@@ -61693,7 +61922,8 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 3,
    "witch": 3,
@@ -61832,7 +62062,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -62014,7 +62245,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -62750,8 +62982,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 3,
@@ -62799,8 +63032,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 3,
@@ -62849,8 +63083,9 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 3,
    "summoner": 3,
@@ -62898,8 +63133,9 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 3,
    "summoner": 3,
@@ -63169,8 +63405,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": "1 standard action",
@@ -63211,8 +63448,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "shaman": 3
   },
   "casting_time": "1 standard action",
@@ -63255,9 +63493,10 @@
   "classes": {
    "antipaladin": 1,
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 1,
    "paladin": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -63656,8 +63895,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "occultist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "wizard": 2
@@ -63749,7 +63989,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -64250,8 +64491,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "inquisitor": 5,
+   "oracle": 5,
    "paladin": 4,
    "witch": 5
   },
@@ -64782,8 +65024,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -65141,8 +65384,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "psychic": 3
   },
   "casting_time": "1 standard action",
@@ -65318,8 +65562,9 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
+   "oracle": 0,
    "psychic": 0,
    "shaman": 0,
    "sorcerer": 0,
@@ -65851,7 +66096,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "paladin": 4
   },
   "casting_time": "1 standard action",
@@ -66634,7 +66880,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9
+   "cleric": 9,
+   "oracle": 9
   },
   "casting_time": "1 standard action",
   "components": {
@@ -67670,7 +67917,8 @@
   "classes": {
    "bloodrager": 4,
    "druid": 4,
-   "sorcererwizard": 4,
+   "sorcerer": 4,
+   "wizard": 4,
    "witch": 4
   },
   "casting_time": "1 standard action",
@@ -67713,9 +67961,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
    "druid": 7,
    "inquisitor": 6,
+   "oracle": 7,
    "shaman": 7
   },
   "casting_time": "1 standard action",
@@ -67762,9 +68011,10 @@
    "antipaladin": 2,
    "arcanist": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2,
    "shaman": 2,
    "skald": 2,
@@ -68044,9 +68294,10 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2
   },
   "casting_time": "1 round",
@@ -68090,8 +68341,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1
   },
   "casting_time": "1 standard action",
@@ -68397,7 +68649,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3
+   "cleric": 3,
+   "oracle": 3
   },
   "casting_time": "1 minute",
   "components": {
@@ -68698,7 +68951,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 3,
    "witch": 3,
    "wizard": 3
@@ -68966,9 +69220,10 @@
   "classes": {
    "alchemist": 4,
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 3,
    "inquisitor": 4,
+   "oracle": 4,
    "paladin": 4,
    "ranger": 3,
    "shaman": 4,
@@ -69566,7 +69821,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 2
   },
   "casting_time": "1 standard action",
@@ -69739,10 +69995,11 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "mesmerist": 1,
    "occultist": 2,
+   "oracle": 3,
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 3,
@@ -69880,10 +70137,11 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "magus": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "shaman": 1,
    "sorcerer": 1,
    "unchained_summoner": 1,
@@ -70465,7 +70723,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "wizard": 8
   },
@@ -70549,8 +70808,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
-   "inquisitor": 4
+   "cleric": 4,
+   "inquisitor": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -70637,9 +70897,10 @@
    "antipaladin": 2,
    "arcanist": 3,
    "bloodrager": 3,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 2,
+   "oracle": 2,
    "sorcerer": 3,
    "warpriest": 2,
    "wizard": 3
@@ -70919,9 +71180,10 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 9,
+   "cleric": 9,
    "inquisitor": 6,
    "mesmerist": 6,
+   "oracle": 9,
    "sorcerer": 9,
    "wizard": 9
   },
@@ -70964,9 +71226,10 @@
   },
   "classes": {
    "alchemist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "medium": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2,
    "ranger": 2,
@@ -71875,7 +72138,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 swift action",
   "components": {
@@ -73406,8 +73670,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -73680,7 +73945,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5
+   "cleric": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -73861,9 +74127,10 @@
   "classes": {
    "alchemist": 6,
    "antipaladin": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
    "inquisitor": 6,
+   "oracle": 6,
    "sorcerer": 7,
    "witch": 6,
    "wizard": 7
@@ -73909,8 +74176,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "sorcerer": 5,
    "witch": 5,
    "wizard": 5
@@ -73956,8 +74224,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
+   "oracle": 6,
    "sorcerer": 7,
    "witch": 6,
    "wizard": 7
@@ -74001,7 +74270,8 @@
   },
   "classes": {
    "alchemist": 5,
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 5,
    "summoner": 5,
    "unchained_summoner": 5,
@@ -74090,7 +74360,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "shaman": 6
   },
   "casting_time": " ",
@@ -74317,7 +74588,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "shaman": 7,
    "sorcerer": 7,
    "summoner": 5,
@@ -74454,7 +74726,8 @@
   },
   "classes": {
    "alchemist": 5,
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 5,
    "summoner": 5,
    "wizard": 5
@@ -74497,7 +74770,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 3,
    "ranger": 4
   },
@@ -74801,9 +75075,10 @@
   },
   "classes": {
    "antipaladin": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 3,
    "mesmerist": 4,
+   "oracle": 4,
    "shaman": 4,
    "witch": 4
   },
@@ -74892,9 +75167,10 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 1,
    "shaman": 1,
    "sorcerer": 1,
    "witch": 1,
@@ -75036,8 +75312,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
    "druid": 9,
+   "oracle": 9,
    "shaman": 9,
    "witch": 9
   },
@@ -75748,8 +76025,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "paladin": 3
   },
   "casting_time": "1 standard action",
@@ -75975,10 +76253,11 @@
   "classes": {
    "alchemist": 3,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "hunter": 3,
    "investigator": 3,
+   "oracle": 3,
    "psychic": 3,
    "ranger": 3,
    "shaman": 3,
@@ -76682,8 +76961,9 @@
   },
   "classes": {
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -76731,10 +77011,11 @@
   "classes": {
    "alchemist": 3,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "inquisitor": 3,
    "occultist": 3,
+   "oracle": 3,
    "psychic": 3,
    "ranger": 2,
    "shaman": 3,
@@ -76784,8 +77065,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "shaman": 1,
    "sorcerer": 1,
@@ -76834,8 +77116,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1,
    "sorcerer": 1,
    "summoner": 1,
@@ -76883,8 +77166,9 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1,
    "sorcerer": 1,
    "summoner": 1,
@@ -77062,10 +77346,11 @@
   },
   "classes": {
    "alchemist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 1,
    "investigator": 2,
+   "oracle": 2,
    "ranger": 1,
    "shaman": 2,
    "warpriest": 2,
@@ -77153,8 +77438,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "occultist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "spiritualist": 2,
@@ -77857,8 +78143,9 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "medium": 4,
+   "oracle": 4,
    "paladin": 4,
    "psychic": 5,
    "warpriest": 4
@@ -77901,8 +78188,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
+   "oracle": 0,
    "shaman": 0
   },
   "casting_time": "1 standard action",
@@ -78540,9 +78828,10 @@
   "classes": {
    "alchemist": 2,
    "arcanist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 1,
+   "oracle": 2,
    "ranger": 1,
    "shaman": 2,
    "sorcerer": 2,
@@ -78951,7 +79240,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "shaman": 6,
    "witch": 6
   },
@@ -79081,7 +79371,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "wizard": 5
   },
@@ -79306,9 +79597,10 @@
   },
   "classes": {
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "summoner": 1,
    "unchained_summoner": 1,
@@ -79355,11 +79647,12 @@
   "classes": {
    "antipaladin": 1,
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
    "magus": 0,
    "mesmerist": 0,
+   "oracle": 0,
    "paladin": 1,
    "psychic": 0,
    "ranger": 1,
@@ -79409,8 +79702,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "ranger": 1,
    "shaman": 1,
    "witch": 1
@@ -80206,7 +80500,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -80249,8 +80544,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
    "druid": 9,
+   "oracle": 7,
    "shaman": 7,
    "witch": 7
   },
@@ -80733,8 +81029,9 @@
   },
   "classes": {
    "alchemist": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "mesmerist": 3,
+   "oracle": 3,
    "paladin": 3,
    "shaman": 3,
    "witch": 3
@@ -80778,9 +81075,10 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "mesmerist": 3,
+   "oracle": 3,
    "paladin": 3,
    "shaman": 3,
    "sorcerer": 4,
@@ -80826,9 +81124,10 @@
   },
   "classes": {
    "alchemist": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "inquisitor": 3,
+   "oracle": 3,
    "ranger": 3,
    "shaman": 3,
    "witch": 3
@@ -80872,9 +81171,10 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "psychic": 1,
    "shaman": 1
   },
@@ -80916,8 +81216,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2,
    "shaman": 2
   },
@@ -81005,9 +81306,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
    "mesmerist": 1,
+   "oracle": 1,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -81216,8 +81518,9 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "ranger": 3,
    "shaman": 4
   },
@@ -81344,7 +81647,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4
+   "cleric": 4,
+   "oracle": 4
   },
   "casting_time": "1 minute",
   "components": {
@@ -81430,9 +81734,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
    "inquisitor": 4,
+   "oracle": 5,
    "paladin": 4
   },
   "casting_time": "1 minute",
@@ -81524,8 +81829,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
    "inquisitor": 6,
+   "oracle": 7,
    "sorcerer": 6,
    "summoner": 5,
    "unchained_summoner": 6,
@@ -81742,10 +82048,11 @@
   "classes": {
    "alchemist": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "inquisitor": 2,
    "occultist": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2,
    "ranger": 1,
@@ -81795,7 +82102,8 @@
   },
   "classes": {
    "antipaladin": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "shaman": 1,
    "warpriest": 1
   },
@@ -81838,9 +82146,10 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
+   "oracle": 0,
    "paladin": 1,
    "psychic": 0,
    "shaman": 0,
@@ -82102,8 +82411,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 5,
+   "oracle": 4,
    "shaman": 5,
    "witch": 5
   },
@@ -82231,9 +82541,10 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
    "mesmerist": 4,
+   "oracle": 4,
    "paladin": 4,
    "shaman": 4
   },
@@ -82275,8 +82586,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "psychic": 1,
    "sorcerer": 1,
    "witch": 1,
@@ -82403,7 +82715,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "shaman": 8,
    "witch": 8
   },
@@ -82809,8 +83122,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -82853,7 +83167,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "sorcerer": 3,
    "wizard": 3
   },
@@ -83158,8 +83473,9 @@
   },
   "classes": {
    "bloodrager": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 4,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 4,
    "witch": 4,
@@ -83385,8 +83701,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
-   "inquisitor": 5
+   "cleric": 5,
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -83884,10 +84201,11 @@
   },
   "classes": {
    "arcanist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 1,
    "magus": 2,
+   "oracle": 2,
    "ranger": 1,
    "shaman": 2,
    "sorcerer": 2,
@@ -84068,9 +84386,10 @@
   "classes": {
    "antipaladin": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "occultist": 2,
+   "oracle": 2,
    "skald": 2,
    "warpriest": 2
   },
@@ -84157,7 +84476,8 @@
   },
   "classes": {
    "adept": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "wizard": 2
   },
@@ -84631,8 +84951,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 2,
+   "oracle": 3,
    "paladin": 2
   },
   "casting_time": "1 round",
@@ -84887,9 +85208,10 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "magus": 4,
+   "oracle": 3,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -85019,8 +85341,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1,
    "witch": 1
   },
@@ -85062,7 +85385,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "paladin": 3
   },
   "casting_time": "1 standard action",
@@ -85103,8 +85427,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
-   "inquisitor": 1
+   "cleric": 1,
+   "inquisitor": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -85191,7 +85516,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3
+   "cleric": 3,
+   "oracle": 3
   },
   "casting_time": "1 standard action",
   "components": {
@@ -85231,8 +85557,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "occultist": 3,
+   "oracle": 3,
    "psychic": 3,
    "shaman": 4,
    "sorcerer": 3,
@@ -86181,7 +86508,8 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
+   "oracle": 0,
    "sorcerer": 0,
    "wizard": 0
   },
@@ -86224,9 +86552,10 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 4,
    "mesmerist": 3,
+   "oracle": 5,
    "shaman": 4,
    "sorcerer": 4,
    "witch": 4,
@@ -86737,8 +87066,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
-   "inquisitor": 3
+   "cleric": 3,
+   "inquisitor": 3,
+   "oracle": 3
   },
   "casting_time": "1 standard action",
   "components": {
@@ -87870,9 +88200,10 @@
   },
   "classes": {
    "alchemist": 5,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
    "mesmerist": 3,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 5,
    "summoner": 4,
@@ -87969,10 +88300,11 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "medium": 2,
    "occultist": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2
   },
@@ -88371,8 +88703,9 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "mesmerist": 4,
+   "oracle": 5,
    "sorcerer": 6,
    "wizard": 6
   },
@@ -88460,7 +88793,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "witch": 2
   },
   "casting_time": "1 standard action",
@@ -89953,7 +90287,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -89994,11 +90329,12 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "medium": 1,
    "mesmerist": 1,
    "occultist": 2,
+   "oracle": 2,
    "psychic": 1,
    "sorcerer": 2,
    "wizard": 2
@@ -90451,9 +90787,10 @@
   "classes": {
    "bard": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "magus": 2,
    "occultist": 2,
+   "oracle": 2,
    "psychic": 2,
    "sorcerer": 2,
    "wizard": 2
@@ -90681,8 +91018,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2
   },
@@ -90725,8 +91063,9 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "sorcerer": 1,
    "wizard": 1
   },
@@ -90820,8 +91159,9 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "magus": 4,
+   "oracle": 4,
    "paladin": 4,
    "ranger": 4
   },
@@ -90863,8 +91203,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
-   "inquisitor": 1
+   "cleric": 1,
+   "inquisitor": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -90949,7 +91290,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8
+   "cleric": 8,
+   "oracle": 8
   },
   "casting_time": "1 standard action",
   "components": {
@@ -91081,7 +91423,8 @@
   },
   "classes": {
    "adept": 1,
-   "cleric/oracle": 1
+   "cleric": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -91393,10 +91736,11 @@
   },
   "classes": {
    "bloodrager": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 2,
    "paladin": 1,
    "ranger": 1
   },
@@ -92020,8 +92364,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
+   "oracle": 0,
    "paladin": 1,
    "ranger": 1
   },
@@ -92065,7 +92410,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "wizard": 7
   },
@@ -92151,9 +92497,10 @@
   "classes": {
    "antipaladin": 2,
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 2,
+   "oracle": 2,
    "psychic": 2
   },
   "casting_time": "1 round",
@@ -92417,8 +92764,9 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "paladin": 3,
    "sorcerer": 3,
    "wizard": 3
@@ -92874,8 +93222,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "shaman": 3,
    "witch": 3
   },
@@ -92919,7 +93268,8 @@
   "classes": {
    "arcanist": 3,
    "bard": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "skald": 3,
    "sorcerer": 3,
    "warpriest": 3,
@@ -93016,7 +93366,8 @@
   },
   "classes": {
    "antipaladin": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "shaman": 6,
    "witch": 6
   },
@@ -93519,8 +93870,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
-   "inquisitor": 4
+   "cleric": 5,
+   "inquisitor": 4,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -93607,8 +93959,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
+   "oracle": 5,
    "shaman": 6
   },
   "casting_time": "1 standard action",
@@ -93959,9 +94312,10 @@
   },
   "classes": {
    "arcanist": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "hunter": 2,
+   "oracle": 2,
    "shaman": 2,
    "sorcerer": 2,
    "warpriest": 2,
@@ -94272,7 +94626,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 5,
    "wizard": 5
   },
@@ -94359,9 +94714,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2,
    "ranger": 3,
    "witch": 2
@@ -94404,7 +94760,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "shaman": 9,
    "sorcerer": 9,
    "witch": 9,
@@ -94638,7 +94995,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -94770,9 +95128,10 @@
   },
   "classes": {
    "bard": 0,
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "magus": 0,
+   "oracle": 0,
    "sorcerer": 0,
    "witch": 0,
    "wizard": 0
@@ -95034,9 +95393,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "inquisitor": 3,
    "medium": 2,
+   "oracle": 3,
    "psychic": 3,
    "shaman": 3,
    "spiritualist": 3,
@@ -95215,7 +95575,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -95483,8 +95844,9 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -95528,8 +95890,9 @@
   },
   "classes": {
    "alchemist": 4,
-   "cleric/oracle": 4,
-   "inquisitor": 4
+   "cleric": 4,
+   "inquisitor": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -95570,8 +95933,9 @@
   },
   "classes": {
    "alchemist": 5,
-   "cleric/oracle": 5,
-   "inquisitor": 5
+   "cleric": 5,
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -95611,7 +95975,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -95789,7 +96154,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7
+   "cleric": 7,
+   "oracle": 7
   },
   "casting_time": " ",
   "components": {
@@ -96309,9 +96675,10 @@
   },
   "classes": {
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
    "magus": 1,
+   "oracle": 1,
    "shaman": 1
   },
   "casting_time": "1 standard action",
@@ -96702,8 +97069,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "medium": 4,
+   "oracle": 4,
    "spiritualist": 4,
    "warpriest": 4
   },
@@ -96790,8 +97158,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "shaman": 2
   },
   "casting_time": "1 standard action",
@@ -96834,8 +97203,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 3,
+   "oracle": 4,
    "shaman": 4,
    "witch": 3
   },
@@ -97150,9 +97520,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
+   "oracle": 0,
    "psychic": 0,
    "witch": 0
   },
@@ -97339,7 +97710,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -97517,9 +97889,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "medium": 2,
    "occultist": 2,
+   "oracle": 2,
    "psychic": 2,
    "spiritualist": 2,
    "witch": 2
@@ -98148,8 +98521,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
+   "oracle": 3,
    "shaman": 3,
    "sorcerer": 4,
    "wizard": 4
@@ -98554,8 +98928,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
    "druid": 9,
+   "oracle": 9,
    "shaman": 9,
    "witch": 9
   },
@@ -98599,8 +98974,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
    "druid": 8,
+   "oracle": 8,
    "shaman": 8,
    "sorcerer": 8,
    "witch": 8,
@@ -98688,8 +99064,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "shaman": 1,
    "warpriest": 1,
    "witch": 1
@@ -99348,7 +99725,8 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "summoner": 4,
    "witch": 4,
@@ -99393,7 +99771,8 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 3
+   "cleric": 3,
+   "oracle": 3
   },
   "casting_time": "1 standard action",
   "components": {
@@ -99872,7 +100251,8 @@
   },
   "classes": {
    "bard": 5,
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "summoner": 5,
    "witch": 5,
@@ -100040,7 +100420,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "summoner": 4,
    "witch": 5,
@@ -100173,7 +100554,8 @@
   "classes": {
    "antipaladin": 1,
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "psychic": 1,
    "sorcerer": 1,
    "summoner": 1,
@@ -100312,8 +100694,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
+   "oracle": 6,
    "summoner": 4
   },
   "casting_time": "1 round",
@@ -100491,7 +100874,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "summoner": 5,
    "witch": 6,
@@ -100582,7 +100966,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 1
   },
@@ -101203,8 +101588,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
-   "inquisitor": 2
+   "cleric": 2,
+   "inquisitor": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -101331,7 +101717,8 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1
+   "cleric": 1,
+   "oracle": 1
   },
   "casting_time": "1 standard action",
   "components": {
@@ -101678,7 +102065,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "witch": 8,
    "wizard": 8
@@ -101725,7 +102113,8 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "witch": 8,
    "wizard": 8
@@ -101768,7 +102157,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "shaman": 8,
    "sorcerer": 8,
    "witch": 8,
@@ -101912,7 +102302,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "witch": 6,
    "wizard": 6
@@ -101955,7 +102346,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 4,
    "witch": 4
   },
@@ -101999,7 +102391,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8,
+   "cleric": 8,
+   "oracle": 8,
    "sorcerer": 8,
    "witch": 8,
    "wizard": 8
@@ -102133,8 +102526,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "mesmerist": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "witch": 5,
    "wizard": 5
@@ -102179,8 +102573,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "mesmerist": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "witch": 6,
    "wizard": 6
@@ -102223,7 +102618,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -102266,7 +102662,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "witch": 5,
    "wizard": 5
@@ -102309,7 +102706,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "witch": 6,
    "wizard": 6
@@ -102354,8 +102752,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "mesmerist": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "witch": 5,
    "wizard": 5
@@ -102398,7 +102797,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -102495,7 +102895,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -102584,7 +102985,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -102627,7 +103029,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "witch": 9,
    "wizard": 9
@@ -102670,7 +103073,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -102802,8 +103206,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
-   "druid": 2
+   "cleric": 2,
+   "druid": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -103152,7 +103557,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 3,
    "ranger": 4
   },
@@ -103558,7 +103964,8 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "witch": 1
   },
   "casting_time": "1 standard action",
@@ -104980,9 +105387,10 @@
   },
   "classes": {
    "bard": 3,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 3,
    "mesmerist": 3,
+   "oracle": 4,
    "sorcerer": 4,
    "wizard": 4
   },
@@ -106323,10 +106731,11 @@
   "classes": {
    "alchemist": 3,
    "bard": 2,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 2,
    "medium": 2,
    "mesmerist": 2,
+   "oracle": 4,
    "psychic": 3,
    "shaman": 4,
    "sorcerer": 3,
@@ -106930,8 +107339,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -107332,8 +107742,9 @@
   },
   "classes": {
    "bloodrager": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
    "druid": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 1
   },
@@ -107420,7 +107831,8 @@
   },
   "classes": {
    "bard": 2,
-   "cleric/oracle": 2
+   "cleric": 2,
+   "oracle": 2
   },
   "casting_time": "1 standard action",
   "components": {
@@ -107977,9 +108389,10 @@
   "classes": {
    "alchemist": 5,
    "antipaladin": 4,
-   "cleric/oracle": 4,
+   "cleric": 4,
    "inquisitor": 4,
    "magus": 5,
+   "oracle": 4,
    "shaman": 4,
    "sorcerer": 5,
    "witch": 5,
@@ -108190,8 +108603,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
-   "druid": 4
+   "cleric": 4,
+   "druid": 4,
+   "oracle": 4
   },
   "casting_time": " ",
   "components": {
@@ -108281,7 +108695,8 @@
   },
   "classes": {
    "bard": 4,
-   "cleric/oracle": 5,
+   "cleric": 5,
+   "oracle": 5,
    "sorcerer": 5,
    "wizard": 5
   },
@@ -108408,8 +108823,9 @@
   "classes": {
    "adept": 2,
    "bloodrager": 2,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "sorcerer": 2,
    "witch": 2,
    "wizard": 2
@@ -108810,7 +109226,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9
+   "cleric": 9,
+   "oracle": 9
   },
   "casting_time": "10 minutes",
   "components": {
@@ -108851,11 +109268,12 @@
   },
   "classes": {
    "alchemist": 6,
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 7,
    "inquisitor": 5,
    "magus": 6,
    "mesmerist": 6,
+   "oracle": 5,
    "shaman": 5,
    "sorcerer": 6,
    "summoner": 5,
@@ -109682,7 +110100,8 @@
   },
   "classes": {
    "bard": 1,
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "paladin": 1,
    "ranger": 1,
    "shaman": 1,
@@ -109910,7 +110329,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "sorcerer": 4,
    "witch": 4,
    "wizard": 4
@@ -110043,8 +110463,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
    "inquisitor": 6,
+   "oracle": 6,
    "sorcerer": 6,
    "wizard": 6
   },
@@ -110131,9 +110552,10 @@
    "alchemist": 2,
    "antipaladin": 2,
    "bard": 1,
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "mesmerist": 1,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2
   },
@@ -110439,9 +110861,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 5,
-   "inquisitor": 5
+   "inquisitor": 5,
+   "oracle": 5
   },
   "casting_time": "24 hours",
   "components": {
@@ -110530,7 +110953,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 8
+   "cleric": 8,
+   "oracle": 8
   },
   "casting_time": "1 standard action",
   "components": {
@@ -110572,8 +110996,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
-   "inquisitor": 4
+   "cleric": 4,
+   "inquisitor": 4,
+   "oracle": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -110617,7 +111042,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5
+   "cleric": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -110833,9 +111259,10 @@
   },
   "classes": {
    "antipaladin": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "hunter": 3,
+   "oracle": 3,
    "ranger": 3,
    "shaman": 3,
    "warpriest": 3
@@ -111018,7 +111445,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "sorcerer": 3,
    "witch": 3,
    "wizard": 3
@@ -111435,7 +111863,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "paladin": 1,
    "sorcerer": 1,
    "wizard": 1
@@ -112192,7 +112621,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 6,
+   "cleric": 6,
+   "oracle": 6,
    "shaman": 5,
    "sorcerer": 5,
    "summoner": 5,
@@ -112637,8 +113067,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "witch": 2
   },
   "casting_time": "1 standard action",
@@ -112779,7 +113210,8 @@
   },
   "classes": {
    "adept": 0,
-   "cleric/oracle": 0
+   "cleric": 0,
+   "oracle": 0
   },
   "casting_time": "1 standard action",
   "components": {
@@ -112961,8 +113393,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 5,
-   "druid": 5
+   "cleric": 5,
+   "druid": 5,
+   "oracle": 5
   },
   "casting_time": "1 standard action",
   "components": {
@@ -113128,9 +113561,10 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 0,
+   "cleric": 0,
    "druid": 0,
    "inquisitor": 0,
+   "oracle": 0,
    "paladin": 1,
    "psychic": 0,
    "shaman": 0
@@ -113215,7 +113649,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
+   "oracle": 4,
    "warpriest": 4,
    "witch": 4
   },
@@ -113349,8 +113784,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
+   "cleric": 7,
    "inquisitor": 6,
+   "oracle": 7,
    "shaman": 7,
    "witch": 7
   },
@@ -113397,9 +113833,10 @@
   "classes": {
    "bard": 3,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "mesmerist": 3,
    "occultist": 3,
+   "oracle": 3,
    "psychic": 3,
    "sorcerer": 3,
    "witch": 3,
@@ -114809,9 +115246,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 5,
+   "cleric": 5,
    "druid": 6,
    "magus": 5,
+   "oracle": 5,
    "shaman": 6,
    "sorcerer": 5,
    "summoner": 4,
@@ -115428,7 +115866,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -115471,9 +115910,10 @@
   "classes": {
    "alchemist": 3,
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "magus": 3,
+   "oracle": 3,
    "psychic": 3,
    "shaman": 3,
    "sorcerer": 3,
@@ -115522,8 +115962,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 4,
+   "cleric": 4,
    "druid": 3,
+   "oracle": 4,
    "sorcerer": 4,
    "wizard": 4
   },
@@ -115567,8 +116008,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
    "medium": 2,
+   "oracle": 3,
    "psychic": 3,
    "ranger": 3,
    "shaman": 3,
@@ -115857,8 +116299,9 @@
   },
   "classes": {
    "bard": 6,
-   "cleric/oracle": 7,
+   "cleric": 7,
    "mesmerist": 6,
+   "oracle": 7,
    "sorcerer": 7,
    "witch": 7,
    "wizard": 7
@@ -116032,8 +116475,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
+   "oracle": 2,
    "paladin": 2
   },
   "casting_time": "1 standard action",
@@ -116074,8 +116518,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 1,
+   "cleric": 1,
    "inquisitor": 1,
+   "oracle": 1,
    "paladin": 1
   },
   "casting_time": "1 standard action",
@@ -116288,8 +116733,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "druid": 2,
+   "oracle": 2,
    "ranger": 2,
    "shaman": 2,
    "sorcerer": 2,
@@ -116385,10 +116831,11 @@
   "classes": {
    "arcanist": 6,
    "bard": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 6,
    "hunter": 6,
    "mesmerist": 6,
+   "oracle": 6,
    "psychic": 6,
    "skald": 6,
    "sorcerer": 6,
@@ -116924,8 +117371,9 @@
   },
   "classes": {
    "alchemist": 6,
-   "cleric/oracle": 6,
+   "cleric": 6,
    "druid": 7,
+   "oracle": 6,
    "shaman": 7
   },
   "casting_time": "1 standard action",
@@ -116969,9 +117417,10 @@
   },
   "classes": {
    "bloodrager": 3,
-   "cleric/oracle": 3,
+   "cleric": 3,
    "druid": 3,
    "magus": 3,
+   "oracle": 3,
    "ranger": 2,
    "shaman": 3,
    "sorcerer": 3,
@@ -117019,8 +117468,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
    "druid": 9,
+   "oracle": 9,
    "shaman": 9,
    "sorcerer": 9,
    "wizard": 9
@@ -117650,7 +118100,8 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "sorcerer": 9,
    "wizard": 9
   },
@@ -117824,8 +118275,9 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 7,
-   "inquisitor": 6
+   "cleric": 7,
+   "inquisitor": 6,
+   "oracle": 7
   },
   "casting_time": "1 standard action",
   "components": {
@@ -117865,8 +118317,9 @@
    "descriptors": null
   },
   "classes": {
-   "cleric/oracle": 6,
-   "druid": 8
+   "cleric": 6,
+   "druid": 8,
+   "oracle": 6
   },
   "casting_time": "1 standard action",
   "components": {
@@ -118081,7 +118534,8 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 3,
+   "cleric": 3,
+   "oracle": 3,
    "paladin": 3
   },
   "casting_time": "1 standard action",
@@ -118212,7 +118666,8 @@
   "classes": {
    "arcanist": 9,
    "bard": 6,
-   "cleric/oracle": 9,
+   "cleric": 9,
+   "oracle": 9,
    "skald": 6,
    "sorcerer": 9,
    "witch": 9,
@@ -118426,9 +118881,10 @@
    ]
   },
   "classes": {
-   "cleric/oracle": 2,
+   "cleric": 2,
    "inquisitor": 2,
    "medium": 2,
+   "oracle": 2,
    "paladin": 2,
    "psychic": 2,
    "witch": 2

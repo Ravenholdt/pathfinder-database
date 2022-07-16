@@ -71,6 +71,11 @@ func verifyClasses(spellList map[string]Spell) {
 				spellList[name].Classes["summoner"] = level
 				spellList[name].Classes["unchained_summoner"] = level
 				delete(spellList[name].Classes, "summoner/unchained")
+
+			case "cleric/oracle":
+				spellList[name].Classes["cleric"] = level
+				spellList[name].Classes["oracle"] = level
+				delete(spellList[name].Classes, "cleric/oracle")
 			}
 
 		}
