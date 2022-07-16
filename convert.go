@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	sourceFile := "data.json"
+	sourceFile := "spells.json"
 	backup(sourceFile)
 	jsonFile, err := os.Open(sourceFile)
 	if err != nil {
@@ -19,18 +19,39 @@ func main() {
 
 	jsonByte, _ := ioutil.ReadAll(jsonFile)
 
-	var spells []OldSpell
-	newSpells := make(map[string]NewSpell)
+	var spells []Spell
 
 	json.Unmarshal(jsonByte, &spells)
+
+	spellList := make(map[string]Spell)
+	for _, spell := range spells {
+		spellList[spell.Name] = spell
+	}
 
 	//formatSpells(spells, newSpells)
 	//addCopyright(spells, newSpells)
 	//addClass(spells, newSpells)
-	updateOldToNew(spells, newSpells)
+	//updateOldToNew(spells, newSpells)
 
-	var output []NewSpell
-	for _, spell := range newSpells {
+	for name, _ := range spellList {
+		for c, level := range spellList[name].Classes {
+			switch c {
+			case "sorcerer/wizard":
+				spellList[name].Classes["sorcerer"] = level
+				spellList[name].Classes["wizard"] = level
+				delete(spellList[name].Classes, "sorcerer/wizard")
+
+			case "summoner/unchained":
+				spellList[name].Classes["summoner"] = level
+				spellList[name].Classes["unchained_summoner"] = level
+				delete(spellList[name].Classes, "summoner/unchained")
+			}
+
+		}
+	}
+
+	var output []Spell
+	for _, spell := range spellList {
 		output = append(output, spell)
 	}
 
@@ -51,7 +72,7 @@ func backup(sourceFile string) {
 	ioutil.WriteFile(destinationFile, input, 0644)
 }
 
-func updateOldToNew(spells []OldSpell, newSpells map[string]NewSpell) {
+func updateOldToNew(spells []OldSpell, newSpells map[string]Spell) {
 	for _, old := range spells {
 		newSpell := copySpell(old)
 		newSpells[newSpell.Name] = newSpell
@@ -65,20 +86,17 @@ func nilOrString(in string) *string {
 	return &in
 }
 
-func copySpell(old OldSpell) NewSpell {
-	return NewSpell{
+func copySpell(old OldSpell) Spell {
+	return Spell{
 		Name: old.Name,
-		Link: old.Link,
+		Url:  old.Link,
 		School: School{
 			School:      old.School.School,
 			SubSchool:   nilOrString(old.School.SubSchool),
 			Descriptors: old.School.Descriptors,
 		},
-		Classes: old.Classes,
-		CastingTime: CastingTime{
-			Unit: old.CastingTime.Unit,
-			Time: old.CastingTime.Time,
-		},
+		Classes:     old.Classes,
+		CastingTime: old.CastingTime.Time + " " + old.CastingTime.Unit,
 		Components: Components{
 			Verbal:      old.Components.Verbal,
 			Somatic:     old.Components.Somatic,
@@ -109,7 +127,7 @@ func copySpell(old OldSpell) NewSpell {
 	}
 }
 
-func addClass(spells []OldSpell, newSpells map[string]NewSpell) {
+func addClass(spells []OldSpell, newSpells map[string]Spell) {
 	jsonFile, err := os.Open("class-spells.json")
 	if err != nil {
 		fmt.Println(err)
@@ -144,7 +162,7 @@ func addClass(spells []OldSpell, newSpells map[string]NewSpell) {
 	//fmt.Println(newSpells)
 }
 
-func addCopyright(spells []OldSpell, newSpells map[string]NewSpell) {
+func addCopyright(spells []OldSpell, newSpells map[string]Spell) {
 	jsonFile, err := os.Open("spells-copyright.json")
 	if err != nil {
 		fmt.Println(err)
@@ -276,7 +294,7 @@ type SpellResistance struct {
 	Description *string `json:"description"`
 }
 
-type NewSpell struct {
+type Spell struct {
 	Name              string          `json:"name"`
 	Url               string          `json:"url"`
 	School            School          `json:"school"`
