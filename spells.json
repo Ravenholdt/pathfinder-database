@@ -973,7 +973,7 @@
    "description": "no"
   },
   "description": "This spell functions as create pit, except that it places a 5-foot deep pool of acid at the bottom of the pit. The pit has a maximum depth of 100 feet. Creatures who fall into the pit take falling damage as normal (the acid counts as a yielding surface), plus 2d6 points of acid damage per round spent in contact with the acid. In addition, exposed items carried by a creature in the pit may be harmed. Refer to Table: Items Affected by Magical Attacks (also copied here for convenience).",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -4820,7 +4820,7 @@
    "description": "Yes"
   },
   "description": "This charm makes a construct regard you as its master. The spell only affects mindless constructs that are attuned to the commands of a master, such as animated objects, golems, retrievers, and shield guardians. All constructs with Intelligence scores, even those that explicitly follow the commands of their creator, such as an homunculus, are unaffected. If the construct is currently being threatened or attacked by you or your allies it receives a +5 bonus on its saving throw.",
-  "source_book": "GameMastery Module J2: Guardians of Dragonfall,",
+  "source_book": "GameMastery Module J2: Guardians of Dragonfall",
   "related_spell_names": null
  },
  {
@@ -5103,7 +5103,7 @@
    "description": "no"
   },
   "description": "You create a rolling sphere of churning water that can engulf those it strikes. The aqueous orb can move up to 30 feet per round, rolling over barriers less than 10 feet tall. It automatically quenches any non-magical fires and functions as dispel magic against magical fires as long as those fires are size Large or less.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -5979,7 +5979,7 @@
    "description": "yes"
   },
   "description": "You create exact duplicates of the arrow or crossbow bolt you used to kill a creature in the previous round and launch one at enemy creatures within a 30-foot radius of the corpse. You can target one creature per caster level (maximum 15) within range of the burst and must make a single attack roll and apply it to each arrow. These duplicate arrows possess all the intrinsic magical properties of the arrow that killed the original creature as well as those passed on to it by your bow. They also enjoy the full benefit of any bonuses or modifiers you applied to the attack from other magical items, feats, and class or racial features. However, this spell cannot reproduce any spells or other limited-use magical effects that you used to enhance that particular attack. This includes such effects as the true strike spell, as well as any area spell you might have placed on the arrow by means of the arcane archer’s imbue arrow class feature.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -7787,7 +7787,7 @@
    "description": "no"
   },
   "description": "With a melee touch attack you can dispel an illusion or return a creature to its natural form. This functions as dispel magic directed at the effect in question, except you receive a +2 enhancement bonus on your dispel check and you can only dispel illusions or changes in form created by supernatural effects or spells. If multiple effects are changing the creature’s appearance, you can dispel one such effect for every four caster levels you possess, starting with the highest caster level spells and proceeding to spells with lower caster levels.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -8065,7 +8065,7 @@
    "description": "no"
   },
   "description": "You whisk yourself and willing allies out of a tight jam, or instantly transfer yourselves to another location to achieve greater strategic positioning. You can move any allies within range to any other space of your choosing within range. Those spaces need not be in line of sight or line of effect from your original position, but must be open locations on surfaces able to support the creatures teleported. Except as noted above, this spell otherwise functions as dimension door.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -9014,7 +9014,7 @@
    "sub_school": null,
    "descriptors": [
     "good",
-    "law"
+    "lawful"
    ]
   },
   "classes": {
@@ -10290,7 +10290,7 @@
    "description": "yes"
   },
   "description": "You fall unconscious but also unleash a spectacular wave of holy energy that heartens and heals your allies while leaving your opponents daunted and damaged. You can cast this spell as either a standard action on your turn, or as an immediate action when brought to below 0 hit points. If cast as a standard action, you are immediately reduced to -1 hit points, but stable, after casting the spell.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -12204,7 +12204,7 @@
    "description": null
   },
   "description": "You gain the scent special quality, including the ability to track by scent. You receive a +8 competence bonus on Perception checks involving smell and a +4 competence bonus on Survival checks to track using scent. You take a -4 penalty on saving throws against odor-related effects such as the stench ability and stinking cloud. A creature under the effects of bloodhound can detect poison by scent with a DC 20 Perception check.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -13344,7 +13344,7 @@
    "description": null
   },
   "description": "A bow spirit is a shapeless force that hovers about you, taking ammunition from your quiver and firing it. For as long as the bow spirit lasts, you can spend a swift action to direct the bow spirit to fire an arrow or a bolt at a target of your choice, as if the bow spirit were firing the necessary ranged weapon. The bow spirit uses your base attack bonus plus your Dexterity modifier, as well as any bonuses and effects from feats you have that affect ranged attacks, or bonuses from the ammunition it uses.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -13428,7 +13428,7 @@
    "description": "yes"
   },
   "description": "Brand etches an indelible rune or mark of no more than 6 characters onto a creature, inflicting 1 point of damage. The mark may be placed on any exposed portion of the creature, typically the head or forearm. A brand can be hidden by clothing or removed by scraping it away (causing 1d6 points of damage), though the brand returns if the damage is healed.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -16001,7 +16001,7 @@
    "description": "yes"
   },
   "description": "This spell eviscerates the target, drawing forth his life essence as well as his internal organs. The target takes 1d6 hit points of damage per caster level (maximum 20d6). If this damage kills the target, the spell pulls his organs into a set of 4 canopic jars and seals them; 1d4 rounds later, the corpse revives as an undead with the dune mummy template.",
-  "source_book": "Pathfinder Companion: Osirion, Land of Pharaohs,",
+  "source_book": "Pathfinder Companion: Osirion, Land of Pharaohs",
   "related_spell_names": null
  },
  {
@@ -18288,7 +18288,7 @@
    "description": null
   },
   "description": "Positive energy infuses and cleanses your body.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -21137,7 +21137,7 @@
    "sorcerer": 6,
    "wizard": 6
   },
-  "casting_time": "10 minute;",
+  "casting_time": "10 minute",
   "components": {
    "verbal": true,
    "somatic": true,
@@ -22044,7 +22044,7 @@
    "description": "yes (harmless)"
   },
   "description": "You grant the touched creature limited protection from magical effects that inflict damage based on the target creature’s alignment, such as holy smite, order’s wrath, a paladin‘s smite evil attack, or an unholy weapon. Choose one alignment type: chaos, evil, good, or law. The subject takes 5 less points of damage from effects that specifically harm creatures of that alignment. The value of the protection increases to 10 points at 7th level and 15 points at 11th level. The spell protects the recipient’s equipment as well.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -26188,7 +26188,7 @@
    "fortitude": true,
    "reflex": false,
    "will": false,
-   "description": "Fort negates (harmless);"
+   "description": "Fort negates (harmless)"
   },
   "spell_resistance": {
    "applies": false,
@@ -32422,10 +32422,9 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-reality/",
   "school": {
    "school": "illusion",
-   "sub_school": null,
+   "sub_school": "compulsion",
    "descriptors": [
-    "mind-affecting",
-    "compulsion"
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -33111,7 +33110,7 @@
    "description": "yes"
   },
   "description": "You may only cast this spell immediately after successfully counterspelling an opponent. Drawing upon the residual energy of the countered spells, you gain a number of temporary hit points equal to the level of the countered spell plus your Charisma or Intelligence modifier (for sorcerers and wizards, respectively); your counterspelled opponent takes damage equal to this amount.",
-  "source_book": "Pathfinder Companion: Cheliax, Empire of Devils\u003e",
+  "source_book": "Pathfinder Companion: Cheliax, Empire of Devils",
   "related_spell_names": null
  },
  {
@@ -34338,7 +34337,7 @@
    "description": "no"
   },
   "description": "Upon completing the casting of this spell, elemental energy infuses your hands.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -34378,7 +34377,7 @@
    "description": null
   },
   "description": "You place yourself in a state of suspended animation, similar to temporal stasis. At the time of casting, you choose when the stasis will expire, up to the maximum duration of the spell.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -38949,7 +38948,7 @@
    "description": null
   },
   "description": "This spell transforms your body into living flame. You and your equipment are immune to fire damage. In fact, every time you would normally take damage from fire, you are instead healed of damage at a rate of 1 point per 3 points of damage the fire attack would have normally inflicted. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells that affect your physiology or respiration. You take only half damage from acid or electricity. You take 150% as much damage from cold than normal.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -39739,7 +39738,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "special;",
+   "range": "see text",
    "area": null,
    "target": "one creature",
    "duration": "1 round/level",
@@ -39779,7 +39778,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "special;",
+   "range": "see text",
    "area": null,
    "target": "one creature",
    "duration": "1 round/level",
@@ -39821,7 +39820,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "special;",
+   "range": "see text",
    "area": null,
    "target": "one creature",
    "duration": "see text",
@@ -41824,7 +41823,7 @@
    "description": null
   },
   "description": "Choose one alignment type: chaotic, evil, good, or lawful. You gain the ability to follow the trail of a strong or overwhelming aura of that alignment (see detect evil). This is treated as tracking using the scent special quality, except you are following the traces of their aura upon the ground rather than their scent, and you receive no bonus on Perception checks. At 10th level, you can track the trail of creatures with a moderate alignment aura as well.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -42787,7 +42786,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates;"
+   "description": "Will negates"
   },
   "spell_resistance": {
    "applies": false,
@@ -45157,12 +45156,7 @@
   "school": {
    "school": "necromancy",
    "sub_school": null,
-   "descriptors": [
-    "stench",
-    "aspect",
-    "only",
-    "poison"
-   ]
+   "descriptors": null
   },
   "classes": {
    "bloodrager": 2,
@@ -49551,8 +49545,7 @@
    "school": "enchantment",
    "sub_school": "compulsion",
    "descriptors": [
-    "mind",
-    "affecting"
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -51758,7 +51751,7 @@
    "description": "no"
   },
   "description": "This spell functions as create pit, except that the pit has the ability to squeeze and crush any creature trapped within it and has a maximum depth of 100 feet. Creatures who fall into the hole take falling damage as normal. In addition, anyone within the pit, not just those on the bottom, takes 4d6 points of bludgeoning damage each round as the pit contracts and then returns to its normal size (a successful Reflex save halves this damage). The ever-shifting walls of the pit are quite difficult to scale and have a Climb DC of 35.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -51842,7 +51835,7 @@
    "description": "yes"
   },
   "description": "Sharpening your perceptive abilities and tuning them against obfuscating effects, hunter’s eye greatly enhances your senses against the target creature. You gain the ability to perceive the target when it is invisible or ethereal as though using the see invisibility spell, and receive a +20 competence bonus on Perception checks to locate the target.",
-  "source_book": "Pathfinder Roleplaying Game Bestiary 2,",
+  "source_book": "Pathfinder Roleplaying Game Bestiary 2",
   "related_spell_names": null
  },
  {
@@ -56668,7 +56661,7 @@
    "fortitude": true,
    "reflex": false,
    "will": false,
-   "description": "Fort negates (harmless);"
+   "description": "Fort negates (harmless)"
   },
   "spell_resistance": {
    "applies": false,
@@ -57230,7 +57223,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates;"
+   "description": "Will negates"
   },
   "spell_resistance": {
    "applies": false,
@@ -63599,7 +63592,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates;"
+   "description": "Will negates"
   },
   "spell_resistance": {
    "applies": false,
@@ -64137,7 +64130,7 @@
    "fortitude": false,
    "reflex": false,
    "will": false,
-   "description": "none2"
+   "description": "none"
   },
   "spell_resistance": {
    "applies": true,
@@ -66621,7 +66614,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates;"
+   "description": "Will negates"
   },
   "spell_resistance": {
    "applies": false,
@@ -67223,10 +67216,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mislead/",
   "school": {
    "school": "illusion",
-   "sub_school": "figment",
-   "descriptors": [
-    "glamer"
-   ]
+   "sub_school": "figment, glamer",
+   "descriptors": null
   },
   "classes": {
    "alchemist": 6,
@@ -67364,7 +67355,7 @@
    "bard": 4,
    "mesmerist": 4
   },
-  "casting_time": "1 round;",
+  "casting_time": "1 round",
   "components": {
    "verbal": true,
    "somatic": true,
@@ -71877,8 +71868,7 @@
    "sub_school": "charm",
    "descriptors": [
     "language-dependent",
-    "mind",
-    "affecting"
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -83345,7 +83335,7 @@
    "school": "abjuration",
    "sub_school": null,
    "descriptors": [
-    "law",
+    "lawful",
     "good"
    ]
   },
@@ -89956,7 +89946,7 @@
    "school": "evocation",
    "sub_school": null,
    "descriptors": [
-    "chaos"
+    "chaotic"
    ]
   },
   "classes": {
@@ -106263,7 +106253,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates (harmless);"
+   "description": "Will negates (harmless)"
   },
   "spell_resistance": {
    "applies": false,
@@ -106314,7 +106304,7 @@
    "description": "no"
   },
   "description": "This spell functions like shambler, except that it calls into existence 1d4+2 mummies rather than shambling mounds.",
-  "source_book": "Pathfinder Companion: Osirion, Land of Pharaohs,",
+  "source_book": "Pathfinder Companion: Osirion, Land of Pharaohs",
   "related_spell_names": null
  },
  {
@@ -115144,7 +115134,7 @@
    "fortitude": false,
    "reflex": false,
    "will": true,
-   "description": "Will negates (harmless);"
+   "description": "Will negates (harmless)"
   },
   "spell_resistance": {
    "applies": false,
