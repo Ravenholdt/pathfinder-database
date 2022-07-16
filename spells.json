@@ -399,8 +399,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/absorbing-inhalation/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -665,8 +667,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/accelerate-poison/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -754,8 +758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/accursed-glare/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -887,8 +893,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/acid-maw/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "druid": 1,
@@ -1423,9 +1431,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/advanced-scurvy/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -1466,8 +1475,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aerial-tracks/",
   "school": {
    "school": "divination",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -1597,8 +1608,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aggressive-thundercloud/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -1641,9 +1654,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/agonize/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -1876,8 +1890,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-geyser/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -1922,8 +1938,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-step/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -1969,8 +1987,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-walk/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -2315,10 +2335,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/align-weapon/",
   "school": {
    "school": "transmutation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "cleric/oracle": 2,
@@ -2758,8 +2776,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/alter-river/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -2899,8 +2919,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/alter-winds/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 1,
@@ -3381,8 +3403,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/angelic-aspect/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -3744,8 +3768,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/animate-dead/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -3915,8 +3941,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/animus-mine/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "mesmerist": 2,
@@ -4224,8 +4252,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/anticipate-thoughts/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -4773,7 +4803,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "Close",
+   "range": "close",
    "area": null,
    "target": "One construct; see text",
    "duration": "1 hour/level",
@@ -4987,8 +5017,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aquatic-trail/",
   "school": {
    "school": "divination",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -5079,8 +5111,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/arbitrament/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "cleric": 7,
@@ -5549,8 +5583,9 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/archon-s-aura/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
+    "good",
     "lawful"
    ]
   },
@@ -5592,8 +5627,9 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/archon-s-trumpet/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
+    "good",
     "sonic"
    ]
   },
@@ -5722,8 +5758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aristocrat-s-nightmare/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -5814,8 +5852,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/armor-of-darkness/",
   "school": {
    "school": "abjuration",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "darkness": 4
@@ -5947,8 +5987,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/arrow-of-law/",
   "school": {
    "school": "evocation",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -6662,10 +6704,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/augmenting-wall/",
   "school": {
    "school": "evocation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "magus": 5,
@@ -6842,8 +6882,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -6885,8 +6927,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-distraction/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "psychic": 2,
@@ -6928,10 +6972,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-doom/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -6971,8 +7016,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-greater-courage/",
   "school": {
    "school": "abjuration",
-   "sub_school": "emotion",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "emotion"
+   ]
   },
   "classes": {
    "paladin": 2
@@ -7280,8 +7327,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/a/awaken-the-devoured/",
   "school": {
    "school": "divination",
-   "sub_school": "pain",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "pain"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -7562,9 +7611,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/ball-lightning/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "electricity"
+    "electricity",
+    "air"
    ]
   },
   "classes": {
@@ -7609,8 +7659,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/ban-corruption/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -7839,11 +7891,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/banshee-blast/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
     "fear",
     "mind-affecting",
-    "sonic"
+    "sonic",
+    "death"
    ]
   },
   "classes": {
@@ -8020,8 +8073,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/barghest-feast/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "alchemist": 3
@@ -8280,8 +8335,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/battlemind-link/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "inquisitor": 4,
@@ -8323,8 +8380,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/beacon-of-guilt/",
   "school": {
    "school": "evocation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "arcanist": 2,
@@ -8862,8 +8921,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -8950,8 +9011,9 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-grace-of-the-champion/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
+    "good",
     "law"
    ]
   },
@@ -9362,8 +9424,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/binding-earth/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -9495,9 +9559,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/biting-words/",
   "school": {
    "school": "evocation",
-   "sub_school": "language-dependent",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "language-dependent"
    ]
   },
   "classes": {
@@ -9538,9 +9603,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/black-mark/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "fear"
+    "fear",
+    "curse"
    ]
   },
   "classes": {
@@ -9670,8 +9736,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blacklight/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "darkness": 3,
@@ -9883,8 +9951,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-bright-victory/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 3
@@ -9923,8 +9993,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-dark-triumph/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3
@@ -9963,8 +10035,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-light/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -10047,9 +10121,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blasphemy/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "evil"
    ]
   },
   "classes": {
@@ -10090,8 +10165,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blast-barrier/",
   "school": {
    "school": "transmutation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -10134,8 +10211,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blast-of-wind/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -10219,8 +10298,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blazing-rainbow/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "druid": 6
@@ -10536,8 +10617,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bless-water/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -10618,8 +10701,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessed-fist/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 1,
@@ -11044,9 +11129,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blinding-ray/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "good"
    ]
   },
   "classes": {
@@ -11088,8 +11174,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -11181,9 +11269,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blistering/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "language-dependent"
+    "language-dependent",
+    "fire"
    ]
   },
   "classes": {
@@ -11226,9 +11315,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloatbomb/",
   "school": {
    "school": "necromancy",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
-    "death"
+    "death",
+    "acid"
    ]
   },
   "classes": {
@@ -11366,8 +11456,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-blaze/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -11457,8 +11549,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-crow-strike/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric/oracle": 4
@@ -11847,8 +11941,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-ties/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -11893,8 +11989,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-transcription/",
   "school": {
    "school": "divination",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -11936,8 +12034,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-in-the-water/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "emotion"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -12468,8 +12568,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/body-capacitance/",
   "school": {
    "school": "transmutation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "alchemist": 1,
@@ -12600,8 +12702,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bolt-of-glory/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "glory": 6
@@ -12640,8 +12744,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/bolts-of-bedevilment/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "madness": 5
@@ -12947,8 +13053,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-corruption/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -13286,8 +13394,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brand/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "inquisitor": 0
@@ -13326,8 +13436,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-conformity/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "inquisitor": 1
@@ -13366,8 +13478,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-hobbling/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "inquisitor": 2
@@ -13406,8 +13520,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brand-of-tracking/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "inquisitor": 4
@@ -13578,8 +13694,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brightest-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -13679,8 +13797,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/brilliant-inspiration/",
   "school": {
    "school": "evocation",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "bard": 6
@@ -14174,9 +14294,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burn-corruption-elf/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "good"
+    "good",
+    "fire"
    ]
   },
   "classes": {
@@ -14219,8 +14340,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-arc/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 2,
@@ -14260,8 +14383,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-disarm/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -14278,7 +14403,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "Short",
+   "range": "close",
    "area": null,
    "target": "Held metal item of one creature or 15 lbs. of unattended metal",
    "duration": "instantaneous",
@@ -14347,8 +14472,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-gaze/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -14393,8 +14520,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-hands/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -14571,8 +14700,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-with-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -14783,8 +14914,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-nettles/",
   "school": {
    "school": "conjuration",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "druid": 3
@@ -14823,9 +14956,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "good"
    ]
   },
   "classes": {
@@ -15080,8 +15214,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/calamitous-flailing/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -15126,8 +15262,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/calcific-touch/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -15295,8 +15433,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -15336,8 +15476,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning-storm/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -15593,8 +15735,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/calm-air/",
   "school": {
    "school": "abjuration",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -15773,9 +15917,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/campfire-wall/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "fire"
    ]
   },
   "classes": {
@@ -15819,9 +15964,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/canopic-conversion/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -15993,8 +16139,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/carrying-wind/",
   "school": {
    "school": "conjuration",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -16034,8 +16182,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/carve-passage-kobold/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -16262,10 +16412,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cause-fear/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -16315,8 +16466,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/caustic-blood/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -16405,8 +16558,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/caustic-safeguard/",
   "school": {
    "school": "abjuration",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -16716,8 +16871,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/chain-lightning/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "magus": 6,
@@ -16803,8 +16960,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/chains-of-fire/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "magus": 6,
@@ -17190,8 +17349,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/chaos-hammer/",
   "school": {
    "school": "evocation",
-   "sub_school": "chaotic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaotic"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -17648,8 +17809,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/chill-metal/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -17817,8 +17980,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/circle-of-death/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "inquisitor": 6,
@@ -18131,9 +18296,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cleansing-fire/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "good"
    ]
   },
   "classes": {
@@ -18344,8 +18510,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-chaos/",
   "school": {
    "school": "abjuration",
-   "sub_school": "chaotic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaotic"
+   ]
   },
   "classes": {
    "cleric/oracle": 8
@@ -18567,8 +18735,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-winds/",
   "school": {
    "school": "abjuration",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -18654,8 +18824,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloud-shape/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -18924,8 +19096,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cold-ice-strike/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "cleric/oracle": 6,
@@ -20033,8 +20207,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/conditional-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -20131,8 +20307,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cone-of-cold/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "magus": 5,
@@ -20448,8 +20626,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/consecrate/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -20714,9 +20894,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/contagion/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -20761,8 +20942,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-flame/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "magus": 6,
@@ -20902,8 +21085,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/contest-of-skill/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -21071,8 +21256,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/contingent-venom/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "shaman": 4,
@@ -21113,8 +21300,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/continual-flame/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -21373,8 +21562,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/control-water/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -21462,8 +21653,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/control-winds/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -21503,9 +21696,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/controlled-fireball/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "ruse"
+    "ruse",
+    "fire"
    ]
   },
   "classes": {
@@ -21549,8 +21743,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/conversing-wind/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -21674,8 +21870,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/corpse-lanterns/",
   "school": {
    "school": "necromancy",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "sorcerer": 2,
@@ -21807,11 +22005,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/corruption-resistance/",
   "school": {
    "school": "abjuration",
-   "sub_school": "chaotic",
+   "sub_school": null,
    "descriptors": [
     "evil",
     "good",
-    "lawful"
+    "lawful",
+    "chaotic"
    ]
   },
   "classes": {
@@ -22073,8 +22272,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/coward-s-cowl/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "alchemist": 1,
@@ -22163,8 +22364,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/crafter-s-curse/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "sorcerer": 1,
@@ -22246,11 +22449,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/crafter-s-nightmare/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -22605,9 +22809,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-soul-gem/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -22698,8 +22903,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-undead/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 6,
@@ -22741,8 +22948,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-variant-mummy/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "arcanist": 7,
@@ -22873,8 +23082,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/creeping-ice/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -23187,8 +23398,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/crusader-s-edge/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -23364,8 +23577,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cup-of-dust/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -23641,9 +23856,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-terrain/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "curse"
    ]
   },
   "classes": {
@@ -23688,8 +23904,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-water/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -23730,8 +23948,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-befouled-fortune/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -23777,9 +23997,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-burning-sleep/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "curse"
    ]
   },
   "classes": {
@@ -23870,9 +24091,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-dragonflies/",
   "school": {
    "school": "conjuration",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "curse"
+    "curse",
+    "air"
    ]
   },
   "classes": {
@@ -23918,9 +24140,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-fell-seasons/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "darkness"
+    "darkness",
+    "curse"
    ]
   },
   "classes": {
@@ -24009,8 +24232,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-magic-negation/",
   "school": {
    "school": "abjuration",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -24054,9 +24279,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-night/",
   "school": {
    "school": "evocation",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "darkness"
+    "darkness",
+    "curse"
    ]
   },
   "classes": {
@@ -24149,8 +24375,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-major/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -24239,8 +24467,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/c/cursed-treasure/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -24419,8 +24649,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/damnation/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -24673,9 +24905,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "shadow"
+    "shadow",
+    "darkness"
    ]
   },
   "classes": {
@@ -24723,9 +24956,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-lantern/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "fire"
    ]
   },
   "classes": {
@@ -24771,8 +25005,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dancing-lights/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 0,
@@ -24867,8 +25103,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dark-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -24910,8 +25148,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -25095,8 +25335,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/daybreak-arrow/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -25137,8 +25379,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/daylight/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -25373,8 +25617,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadeye-s-arrow/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -25462,8 +25708,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadly-finale/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 6
@@ -25502,8 +25750,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadly-juggernaut/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -25590,8 +25840,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/deafening-song-bolt/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 5
@@ -25630,10 +25882,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-candle/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
     "evil",
-    "fire"
+    "fire",
+    "death"
    ]
   },
   "classes": {
@@ -25676,9 +25929,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-clutch/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -25723,9 +25977,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -25768,9 +26023,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell-aura/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -25814,8 +26070,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-pact/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 5,
@@ -26116,9 +26374,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/debilitating-speech/",
   "school": {
    "school": "enchantment",
-   "sub_school": "language-dependent",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "language-dependent"
    ]
   },
   "classes": {
@@ -26483,8 +26742,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/deeper-darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -26655,8 +26916,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/defensive-shock/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -26699,8 +26962,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/defile-armor/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -27010,8 +27275,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/delay-pain/",
   "school": {
    "school": "enchantment",
-   "sub_school": "emotion",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "emotion"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -27107,8 +27374,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/delayed-blast-fireball/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 7,
@@ -27188,9 +27457,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/delectable-flesh/",
   "school": {
    "school": "transmutation",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "polymorph"
+    "polymorph",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -27302,7 +27572,7 @@
    "divine_focus": true
   },
   "effect": {
-   "range": "See",
+   "range": "see text",
    "area": null,
    "target": "1 Creature",
    "duration": "1 round",
@@ -27516,8 +27786,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/desecrate/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -27691,8 +27963,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/destruction/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "cleric/oracle": 7,
@@ -27818,8 +28092,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-anxieties/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -28005,8 +28281,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-desires/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -28683,8 +28961,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-thoughts/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -28869,11 +29149,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/detonate/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -28963,8 +29244,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/devil-snare/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -29095,8 +29378,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/diamond-spray/",
   "school": {
    "school": "evocation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "sorcerer": 3,
@@ -29136,9 +29421,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dictum/",
   "school": {
    "school": "evocation",
-   "sub_school": "lawful",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "lawful"
    ]
   },
   "classes": {
@@ -29710,8 +29996,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/discern-next-of-kin/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -29843,8 +30131,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/discordant-blast/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 4
@@ -29883,8 +30173,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/discovery-torch/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -29925,8 +30217,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/disfiguring-touch/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -30237,8 +30531,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-chaos/",
   "school": {
    "school": "abjuration",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -30280,8 +30576,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-evil/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -30323,8 +30621,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-good/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -30366,8 +30666,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-law/",
   "school": {
    "school": "abjuration",
-   "sub_school": "chaotic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaotic"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -30733,8 +31035,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/distracting-cacophony/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -30776,8 +31080,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/distressing-tone/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -30817,8 +31123,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/divide-mind/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "psychic": 9
@@ -30900,8 +31208,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-arrow/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 2
@@ -30982,9 +31292,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-illumination/",
   "school": {
    "school": "conjuration",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "good"
    ]
   },
   "classes": {
@@ -31148,8 +31459,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-trident/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -31190,11 +31503,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-vessel/",
   "school": {
    "school": "transmutation",
-   "sub_school": "chaotic",
+   "sub_school": null,
    "descriptors": [
     "evil",
     "good",
-    "lawful"
+    "lawful",
+    "chaotic"
    ]
   },
   "classes": {
@@ -31370,10 +31684,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/doom/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -31467,8 +31782,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/draconic-malice/",
   "school": {
    "school": "enchantment",
-   "sub_school": "draconic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "draconic"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -31517,11 +31834,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/draconic-reservoir/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -31694,11 +32012,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -31784,8 +32103,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/drain-poison/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -31829,8 +32150,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dread-bolt/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 2
@@ -32099,9 +32422,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-reality/",
   "school": {
    "school": "illusion",
-   "sub_school": "compulsion",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "compulsion"
    ]
   },
   "classes": {
@@ -32148,8 +32472,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-scan/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 6,
@@ -32666,8 +32992,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/d/dust-of-twilight/",
   "school": {
    "school": "conjuration",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -32974,8 +33302,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/ear-piercing-scream/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -33151,8 +33481,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/earth-glide/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -33196,8 +33528,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/earth-tremor/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -33242,8 +33576,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/earthquake/",
   "school": {
    "school": "evocation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric/oracle": 8,
@@ -33332,8 +33668,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/echolocation/",
   "school": {
    "school": "transmutation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -33634,10 +33972,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-fever/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
     "disease",
-    "evil"
+    "evil",
+    "curse"
    ]
   },
   "classes": {
@@ -33681,11 +34020,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-assessor/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -33727,11 +34067,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-aura/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -33819,10 +34160,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-mastery-ifrit-oread-suli-sylph-undine/",
   "school": {
    "school": "transmutation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "bloodrager": 4,
@@ -33866,11 +34205,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-speech/",
   "school": {
    "school": "divination",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
     "earth",
     "fire",
-    "water"
+    "water",
+    "air"
    ]
   },
   "classes": {
@@ -33957,11 +34297,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-touch/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -34305,8 +34646,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/empower-holy-water/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -34621,9 +34964,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/enemy-s-heart/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -34709,11 +35053,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-hack/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -34754,8 +35099,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-siege-shot/",
   "school": {
    "school": "transmutation",
-   "sub_school": "variable",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "variable"
+   ]
   },
   "classes": {
    "sorcerer": 5,
@@ -35018,9 +35365,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/enlightened-step/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "meditative"
+    "meditative",
+    "air"
    ]
   },
   "classes": {
@@ -35062,8 +35410,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/enshroud-thoughts/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -35293,8 +35643,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/enticing-adulation/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -35336,8 +35688,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/entomb/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "arcanist": 8,
@@ -35510,9 +35864,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/epidemic/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -35729,8 +36084,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/eruptive-postules/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -36437,8 +36794,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/expeditious-excavation/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -36529,9 +36888,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/expel-blood/",
   "school": {
    "school": "conjuration",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "evil"
    ]
   },
   "classes": {
@@ -36878,9 +37238,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/e/eyebite/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "emotion"
    ]
   },
   "classes": {
@@ -37142,8 +37503,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/faerie-fire/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "druid": 1,
@@ -37183,8 +37546,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fair-is-foul/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -37896,10 +38261,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fear/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -38043,8 +38409,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/feast-of-ashes/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -38085,10 +38453,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/feast-on-fear/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -38448,8 +38817,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fickle-winds/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -38543,8 +38914,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fiery-body/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 9,
@@ -38584,8 +38957,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fiery-runes/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -38898,8 +39273,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/finger-of-death/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "druid": 8,
@@ -38984,8 +39361,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-breath/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -39120,8 +39499,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-snake/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -39163,9 +39544,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-sneeze/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "air"
    ]
   },
   "classes": {
@@ -39208,8 +39590,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-storm/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric/oracle": 8,
@@ -39250,8 +39634,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-trail/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -39294,8 +39680,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-trap/",
   "school": {
    "school": "abjuration",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -39416,8 +39804,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-of-vengeance/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "paladin": 4
@@ -39456,8 +39846,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fireball/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -39542,8 +39934,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/firebrand/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 7,
@@ -39583,8 +39977,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/firefall/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -39626,8 +40022,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/firestream/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -39669,8 +40067,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/firewalker-s-meditation/",
   "school": {
    "school": "abjuration",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -39713,8 +40113,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-s-friend/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -39802,8 +40204,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flame-arrow/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -39845,8 +40249,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flame-blade/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -39931,8 +40337,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flame-strike/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -39974,8 +40382,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flames-of-the-faithful/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "inquisitor": 2
@@ -40014,8 +40424,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flaming-aura/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -40061,8 +40473,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flaming-sphere/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -40105,8 +40519,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flare/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 0,
@@ -40151,8 +40567,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flare-burst/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -40335,8 +40753,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flashfire/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -40467,8 +40887,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-puppet/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -40514,8 +40936,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-wall/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 6,
@@ -40861,8 +41285,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flexile-curse/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -40907,9 +41333,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flickering-lights/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "darkness"
    ]
   },
   "classes": {
@@ -41042,8 +41469,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fluid-form/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -41084,9 +41513,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/flurry-of-snowballs/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -41442,8 +41872,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fool-s-forbiddance/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 6
@@ -41974,8 +42406,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/forced-quiet/",
   "school": {
    "school": "transmutation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -42956,8 +43390,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/freezing-sphere/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "magus": 6,
@@ -43042,12 +43478,13 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-souls/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "cold",
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -43093,8 +43530,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-touch/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -43137,8 +43576,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/frost-fall/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -43227,8 +43668,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/frostbite/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -43271,8 +43714,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/frosty-aura/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -43584,8 +44029,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fungal-infestation/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "disease"
+   ]
   },
   "classes": {
    "druid": 3
@@ -43624,8 +44071,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/furious-fire-barrage/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -43667,9 +44116,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/f/fury-of-sun/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "curse"
    ]
   },
   "classes": {
@@ -43797,9 +44247,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/garrulous-grin/",
   "school": {
    "school": "necromancy",
-   "sub_school": "fear",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "fear"
    ]
   },
   "classes": {
@@ -44114,8 +44565,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/gentle-breeze/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 1,
@@ -44339,8 +44792,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghost-brand/",
   "school": {
    "school": "transmutation",
-   "sub_school": "shadow",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "shadow"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -44609,8 +45064,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-army/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -44652,9 +45109,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-hunger/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "evil"
    ]
   },
   "classes": {
@@ -44698,11 +45156,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-touch/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
+   "sub_school": null,
    "descriptors": [
     "stench",
     "aspect",
-    "only"
+    "only",
+    "poison"
    ]
   },
   "classes": {
@@ -45764,8 +46223,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/grasping-corpse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -45811,11 +46272,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/grasping-depths/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -45992,8 +46454,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/grave-words/",
   "school": {
    "school": "necromancy",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "medium": 0,
@@ -46340,12 +46804,13 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/grim-stalker/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "death",
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -46391,8 +46856,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/groundswell/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -46617,10 +47084,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-of-faith/",
   "school": {
    "school": "abjuration",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "cleric": 4,
@@ -46891,8 +47356,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/gust-of-wind/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -46935,8 +47402,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/g/gusting-sphere/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -46979,8 +47448,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hags-seasoning/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -47023,8 +47494,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hairline-fractures/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -47153,8 +47626,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hallow/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -47283,8 +47758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hallucinogenic-smoke/",
   "school": {
    "school": "conjuration",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -47626,8 +48103,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/harvest-knowledge/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -47766,8 +48245,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hasten-judgment/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -47857,9 +48338,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-choir/",
   "school": {
    "school": "necromancy",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -47948,9 +48430,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-reminder/",
   "school": {
    "school": "enchantment",
-   "sub_school": "fear",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "fear"
    ]
   },
   "classes": {
@@ -48150,7 +48633,7 @@
    "divine_focus": true
   },
   "effect": {
-   "range": "-1",
+   "range": null,
    "area": "10-ft.-radius burst, centered on you",
    "target": null,
    "duration": "instantaneous",
@@ -48356,8 +48839,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/heart-of-the-metal/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "magus": 3,
@@ -48443,8 +48928,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/heat-metal/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -48485,8 +48972,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/heatstroke/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -48527,8 +49016,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/heavy-water/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -48750,8 +49241,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hellfire-ray/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 6,
@@ -48794,10 +49287,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hellmouth-lash/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
     "electricity",
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -49234,8 +49728,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hex-vulnerability/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "shaman": 1,
@@ -49505,8 +50001,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-speech/",
   "school": {
    "school": "transmutation",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -49550,8 +50048,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-spring/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric": 1,
@@ -50189,8 +50689,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-aura/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 8
@@ -50229,10 +50731,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
     "good",
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -50272,10 +50775,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice-weapon/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
     "good",
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -50400,8 +50904,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-smite/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -50441,8 +50947,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-sword/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 4
@@ -50481,8 +50989,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-whisper/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 3
@@ -50521,9 +51031,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-word/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "good"
    ]
   },
   "classes": {
@@ -50699,8 +51210,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/horn-of-pursuit/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -50831,11 +51344,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/horrifying-visage/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -50977,9 +51491,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/howling-agony/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "death"
    ]
   },
   "classes": {
@@ -51071,9 +51586,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunger-for-flesh/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "evil"
    ]
   },
   "classes": {
@@ -51120,9 +51636,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hungry-darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "force"
+    "force",
+    "darkness"
    ]
   },
   "classes": {
@@ -51374,10 +51891,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-howl/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -51507,8 +52025,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hurricane-blast/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -51549,8 +52069,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hydraulic-push/",
   "school": {
    "school": "evocation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -51594,8 +52116,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hydraulic-torrent/",
   "school": {
    "school": "evocation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -51638,10 +52162,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hydrophobia/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -51730,8 +52255,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/h/hymn-of-peace/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "bard": 6,
@@ -51909,9 +52436,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-armor/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -51952,8 +52480,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-body/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "shaman": 7,
@@ -52041,8 +52571,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-slick/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -52086,8 +52618,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-spears/",
   "school": {
    "school": "conjuration",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -52129,8 +52663,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-storm/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -52222,8 +52758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/icy-prison/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "sorcerer": 5,
@@ -53007,10 +53545,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/imbue-with-elemental-might/",
   "school": {
    "school": "evocation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "bloodrager": 2,
@@ -53617,8 +54153,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/incendiary-runes/",
   "school": {
    "school": "abjuration",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "occultist": 1,
@@ -53969,9 +54507,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-pain/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -54924,8 +55463,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-suffocation/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "sahir-afiyun": 5
@@ -55181,9 +55722,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/intensify-psyche/",
   "school": {
    "school": "enchantment",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -55318,9 +55860,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/interrogation/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -55876,10 +56419,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/invoke-deity/",
   "school": {
    "school": "transmutation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "antipaladin": 4,
@@ -56142,8 +56683,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/ironskin/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -56276,8 +56819,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/irregular-size/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -56420,8 +56965,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/i/itching-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -56698,8 +57245,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/j/jolting-portent/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "cleric": 7
@@ -56784,8 +57333,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/j/judgment-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "inquisitor": 4
@@ -57312,8 +57863,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/k/ki-leech/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -57356,8 +57909,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/k/ki-shout/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 5,
@@ -57522,9 +58077,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/k/knell-of-the-depths/",
   "school": {
    "school": "conjuration",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "curse"
    ]
   },
   "classes": {
@@ -57701,8 +58257,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/k/know-peerage/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -57793,9 +58351,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lament-of-summer-s-last-breath/",
   "school": {
    "school": "abjuration",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "good"
+    "good",
+    "fire"
    ]
   },
   "classes": {
@@ -57878,8 +58437,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/languid-venom/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -57921,8 +58482,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lash-of-the-astradaemon/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 6,
@@ -58812,8 +59375,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 0,
@@ -58864,9 +59429,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/light-lance/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "good"
    ]
   },
   "classes": {
@@ -58906,8 +59472,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/light-prison/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -59038,8 +59606,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-arc/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "sorcerer": 5,
@@ -59079,8 +59649,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -59123,8 +59695,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-conductor/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -59167,8 +59741,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-lash-bomb-admixture/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "alchemist": 3
@@ -59552,8 +60128,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-admonition/",
   "school": {
    "school": "necromancy",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -59679,8 +60257,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-duty/",
   "school": {
    "school": "abjuration",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "inquisitor": 2,
@@ -59897,9 +60477,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-order/",
   "school": {
    "school": "evocation",
-   "sub_school": "lawful",
+   "sub_school": null,
    "descriptors": [
-    "language-dependent"
+    "language-dependent",
+    "lawful"
    ]
   },
   "classes": {
@@ -59940,9 +60521,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-righteousness/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "language-dependent"
+    "language-dependent",
+    "good"
    ]
   },
   "classes": {
@@ -60070,9 +60652,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-thunder/",
   "school": {
    "school": "evocation",
-   "sub_school": "language-dependent",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "language-dependent"
    ]
   },
   "classes": {
@@ -60114,8 +60697,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-truth/",
   "school": {
    "school": "divination",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "inquisitor": 6,
@@ -60155,8 +60740,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-vengeance/",
   "school": {
    "school": "transmutation",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -60239,8 +60826,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-weakness/",
   "school": {
    "school": "necromancy",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -60963,9 +61552,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/l/lost-legacy/",
   "school": {
    "school": "enchantment",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "curse"
    ]
   },
   "classes": {
@@ -62075,8 +62665,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-boulder/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -62158,8 +62750,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-chaos/",
   "school": {
    "school": "abjuration",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -62205,8 +62799,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-evil/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -62252,8 +62848,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-good/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -62299,8 +62897,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-law/",
   "school": {
    "school": "abjuration",
-   "sub_school": "chaotic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaotic"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -62790,8 +63390,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/magnifying-chime/",
   "school": {
    "school": "transmutation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 6
@@ -63100,9 +63702,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/malediction/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "curse"
    ]
   },
   "classes": {
@@ -63146,8 +63749,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/malediction-bod/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 4
@@ -63366,8 +63971,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mantle-of-the-magic-warriors/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -63450,8 +64057,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/marid-s-mastery/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -63543,8 +64152,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-blood/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -63639,8 +64250,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-justice/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -63682,8 +64295,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-obvious-ethics/",
   "school": {
    "school": "divination",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric": 3
@@ -63766,8 +64381,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-the-reptile-god/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -63809,8 +64426,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/marks-of-forbiddance/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "paladin": 3
@@ -63936,8 +64555,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/martyr-s-bargain/",
   "school": {
    "school": "transmutation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -64065,9 +64686,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/masochistic-shadow/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "shadow"
+    "shadow",
+    "evil"
    ]
   },
   "classes": {
@@ -64114,8 +64736,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/massacre/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "cleric": 9,
@@ -64339,8 +64963,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mathematical-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -64515,8 +65141,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/meld-into-stone/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -64557,8 +65185,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/memorize-page/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -64602,8 +65232,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/memory-lapse/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -64776,8 +65408,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mental-block/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -64861,8 +65495,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/message/",
   "school": {
    "school": "transmutation",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "bard": 0,
@@ -64951,8 +65587,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/meteor-swarm/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 9,
@@ -65085,9 +65723,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/miasmatic-form/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "poison"
+    "poison",
+    "air"
    ]
   },
   "classes": {
@@ -65430,8 +66069,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-probe/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 3,
@@ -65525,8 +66166,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-thrust/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "psychic": 1
@@ -65565,8 +66208,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mindlink/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 1,
@@ -65708,9 +66353,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mindshock/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -66427,11 +67073,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mischievous-shadow/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -66528,9 +67175,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/miserable-pity/",
   "school": {
    "school": "abjuration",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -66750,9 +67398,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/molten-orb/",
   "school": {
    "school": "evocation",
-   "sub_school": "earth",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "earth"
    ]
   },
   "classes": {
@@ -67064,8 +67713,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/morning-sun/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric/oracle": 7,
@@ -67107,9 +67758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mortal-terror/",
   "school": {
    "school": "enchantment",
-   "sub_school": "fear",
+   "sub_school": null,
    "descriptors": [
-    "mind-affecting"
+    "mind-affecting",
+    "fear"
    ]
   },
   "classes": {
@@ -67161,9 +67813,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/motes-of-dusk-and-dawn/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "darkness"
    ]
   },
   "classes": {
@@ -67258,8 +67911,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/move-earth/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 6,
@@ -67608,9 +68263,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/m/mydriatic-spontaneity/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "darkness"
    ]
   },
   "classes": {
@@ -67823,8 +68479,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-exile/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -68356,8 +69014,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/n/night-blindness/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -68638,8 +69298,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/n/node-of-blasting/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 3,
@@ -69268,9 +69930,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/obsidian-flow/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "earth"
    ]
   },
   "classes": {
@@ -69314,8 +69977,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/old-salt-s-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -69487,8 +70152,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/open-book/",
   "school": {
    "school": "divination",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -69718,8 +70385,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/oracle-s-burden/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "oracle": 2
@@ -69880,8 +70549,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/order-s-wrath/",
   "school": {
    "school": "evocation",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -69921,8 +70592,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/out-of-sight/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 3,
@@ -70197,8 +70870,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/o/overwhelming-poison/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -70434,9 +71109,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pain-strike/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -70480,9 +71156,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/painful-revelation/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -70567,8 +71244,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pale-flame/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -70710,9 +71389,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/parasitic-soul/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "death"
    ]
   },
   "classes": {
@@ -71017,8 +71697,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/path-of-the-winds/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 6,
@@ -71327,8 +72009,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/penumbral-disguise/",
   "school": {
    "school": "conjuration",
-   "sub_school": "shadow",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "shadow"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -71638,8 +72322,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pernicious-poison/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -71815,8 +72501,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/persuasive-goad/",
   "school": {
    "school": "necromancy",
-   "sub_school": "pain",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "pain"
+   ]
   },
   "classes": {
    "inquisitor": 1
@@ -72900,9 +73588,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/piercing-shriek/",
   "school": {
    "school": "evocation",
-   "sub_school": "pain",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "pain"
    ]
   },
   "classes": {
@@ -73170,9 +73859,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-bearer/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -73219,9 +73909,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-carrier/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -73265,9 +73956,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-storm/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "disease"
    ]
   },
   "classes": {
@@ -74016,8 +74708,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/plundered-power/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 7,
@@ -74107,8 +74801,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/poison/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -74152,8 +74848,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/poison-breath/",
   "school": {
    "school": "evocation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "cleric": 7,
@@ -74194,8 +74892,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/poisoned-egg/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -74336,9 +75036,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/polar-midnight/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
-    "darkness"
+    "darkness",
+    "cold"
    ]
   },
   "classes": {
@@ -74381,8 +75082,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/polar-ray/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "sorcerer": 8,
@@ -74953,8 +75656,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pox-pustules/",
   "school": {
    "school": "necromancy",
-   "sub_school": "disease",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "disease"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -75088,10 +75793,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/prediction-of-failure/",
   "school": {
    "school": "divination",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "curse"
    ]
   },
   "classes": {
@@ -75226,8 +75932,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/preserve-grace/",
   "school": {
    "school": "divination",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -75409,9 +76117,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/primal-scream/",
   "school": {
    "school": "abjuration",
-   "sub_school": "mind-affecting",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "mind-affecting"
    ]
   },
   "classes": {
@@ -75622,8 +76331,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/produce-flame/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "druid": 1,
@@ -75663,8 +76374,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/profane-nimbus/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -75969,8 +76682,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-chaos/",
   "school": {
    "school": "abjuration",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -76070,8 +76785,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-evil/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -76117,8 +76834,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-good/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -76164,8 +76883,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-law/",
   "school": {
    "school": "abjuration",
-   "sub_school": "chaotic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaotic"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -76259,10 +76980,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-outsiders/",
   "school": {
    "school": "abjuration",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "cleric": 2,
@@ -76435,8 +77154,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/protective-penumbra/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -76609,8 +77330,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
   "school": {
    "school": "necromancy",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "psychic": 5
@@ -76788,8 +77511,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-surgery/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "mesmerist": 5,
@@ -77221,8 +77946,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/putrefy-food-and-drink/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "witch": 0
@@ -77307,8 +78034,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pyrotechnic-eruption/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -77913,8 +78642,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/raging-rubble/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -78533,8 +79264,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-frost/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "magus": 0,
@@ -78764,8 +79497,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/reaper-s-coterie/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -78852,8 +79587,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rebuke/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "inquisitor": 4
@@ -80437,8 +81174,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/repel-metal-or-stone/",
   "school": {
    "school": "abjuration",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 8
@@ -80477,8 +81216,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/repel-vermin/",
   "school": {
    "school": "abjuration",
-   "sub_school": "pain",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "pain"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -80735,8 +81476,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/repugnant-taste/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -81148,8 +81891,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/resonating-word/",
   "school": {
    "school": "transmutation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 5,
@@ -81190,8 +81935,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/resounding-blow/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -81356,8 +82103,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rest-eternal/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -81699,9 +82448,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/retribution/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -81741,8 +82491,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/retributive-reparations/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -82363,8 +83115,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/ride-the-lightning/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "sorcerer": 9,
@@ -82404,8 +83158,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/ride-the-waves/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -82544,8 +83300,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-blood/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "inquisitor": 2,
@@ -82585,9 +83343,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-condemnation/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
+   "sub_school": null,
    "descriptors": [
-    "law"
+    "law",
+    "good"
    ]
   },
   "classes": {
@@ -82713,8 +83472,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rigor-mortis/",
   "school": {
    "school": "transmutation",
-   "sub_school": "pain",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "pain"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -82761,8 +83522,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rising-water/",
   "school": {
    "school": "conjuration",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -82810,8 +83573,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rite-of-bodily-purity/",
   "school": {
    "school": "abjuration",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 1,
@@ -82854,8 +83619,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rite-of-centered-mind/",
   "school": {
    "school": "abjuration",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 1,
@@ -82984,8 +83751,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/river-of-wind/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -83167,8 +83936,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rope-tornado/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -83561,8 +84332,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/rune-of-ruin/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -83691,8 +84464,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/r/runic-overload/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -83901,8 +84676,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-nimbus/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -83943,8 +84720,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-space/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -84108,8 +84887,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sadomasochism/",
   "school": {
    "school": "necromancy",
-   "sub_school": "pain",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "pain"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -84196,8 +84977,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-armor/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "inquisitor": 4,
@@ -84237,8 +85020,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-corpse/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -84542,8 +85327,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/saving-finale/",
   "school": {
    "school": "evocation",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 1
@@ -84582,8 +85369,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sawtooth-terrain/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -84673,8 +85462,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scales-of-deflection/",
   "school": {
    "school": "abjuration",
-   "sub_school": "draconic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "draconic"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -84762,10 +85553,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scare/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -84991,8 +85783,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scorching-ash-form/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -85033,8 +85827,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scorching-ray/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -85076,9 +85872,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scourge-of-the-horsemen/",
   "school": {
    "school": "necromancy",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "acid"
    ]
   },
   "classes": {
@@ -85120,9 +85917,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/scouring-winds/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "earth"
+    "earth",
+    "air"
    ]
   },
   "classes": {
@@ -85165,10 +85963,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/screaming-flames/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
     "fire",
-    "mind-affecting"
+    "mind-affecting",
+    "evil"
    ]
   },
   "classes": {
@@ -85209,8 +86008,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/screech/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "witch": 3
@@ -85725,8 +86526,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sea-of-dust/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "druid": 9
@@ -86549,8 +87352,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/see-beyond/",
   "school": {
    "school": "divination",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -86832,8 +87637,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/seek-thoughts/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -86927,8 +87734,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/seismic-fissure/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 7,
@@ -87292,8 +88101,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sensory-amplifier/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -87381,8 +88192,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sentry-skull/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -88369,8 +89182,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-projection/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "sorcerer": 4,
@@ -89139,8 +89954,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shard-of-chaos/",
   "school": {
    "school": "evocation",
-   "sub_school": "chaos",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "chaos"
+   ]
   },
   "classes": {
    "cleric/oracle": 2
@@ -89402,8 +90219,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shared-sacrifice/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -89446,8 +90265,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shared-suffering/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -89490,8 +90311,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shared-training/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "arcanist": 3,
@@ -89627,8 +90450,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shatter/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -89674,8 +90499,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sheet-lightning/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -89942,9 +90769,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "shadow"
+    "shadow",
+    "darkness"
    ]
   },
   "classes": {
@@ -89988,10 +90816,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-dawn/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
     "good",
-    "light"
+    "light",
+    "fire"
    ]
   },
   "classes": {
@@ -90119,8 +90948,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-law/",
   "school": {
    "school": "abjuration",
-   "sub_school": "lawful",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "lawful"
+   ]
   },
   "classes": {
    "cleric/oracle": 8
@@ -90205,8 +91036,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-wings/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -90342,8 +91175,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shifting-sand/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -90384,8 +91219,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shifting-shadows/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -90507,9 +91344,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shining-scales/",
   "school": {
    "school": "evocation",
-   "sub_school": "draconic",
+   "sub_school": null,
    "descriptors": [
-    "good"
+    "good",
+    "draconic"
    ]
   },
   "classes": {
@@ -90553,8 +91391,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shock-arrow/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -90599,9 +91439,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shock-shield/",
   "school": {
    "school": "abjuration",
-   "sub_school": "electricity",
+   "sub_school": null,
    "descriptors": [
-    "force"
+    "force",
+    "electricity"
    ]
   },
   "classes": {
@@ -90645,8 +91486,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -90734,8 +91577,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shout/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -90821,8 +91666,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/shroud-of-darkness/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "darkness"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -90915,8 +91762,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sickening-entanglement/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -90957,8 +91806,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sickening-strikes/",
   "school": {
    "school": "transmutation",
-   "sub_school": "disease",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "disease"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -91002,8 +91853,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/siege-scatter-dwarf/",
   "school": {
    "school": "evocation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -91562,8 +92415,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/silverlight/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "bard": 3,
@@ -91737,9 +92592,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sirocco/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "air"
    ]
   },
   "classes": {
@@ -91881,11 +92737,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/skin-tag/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -92016,8 +92873,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sky-swim/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -92155,8 +93014,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/slay-living/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -92478,8 +93339,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/slough/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 5,
@@ -92574,8 +93437,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/slow-suffocation/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "sahir-afiyun": 5
@@ -92785,9 +93650,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/snapdragon-fireworks/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "fire"
    ]
   },
   "classes": {
@@ -92870,8 +93736,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/snow-shape/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -92961,8 +93829,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/soften-earth-and-stone/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 2
@@ -93087,8 +93957,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/solidify-earth/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "arcanist": 2,
@@ -93217,8 +94089,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/songbird/",
   "school": {
    "school": "conjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -93308,8 +94182,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-scream/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -93353,8 +94229,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-thrust/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -93758,8 +94636,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sound-burst/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -93888,8 +94768,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spark/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bard": 0,
@@ -94021,8 +94903,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-haunt/",
   "school": {
    "school": "necromancy",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -94063,8 +94947,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-waves/",
   "school": {
    "school": "divination",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "druid": 6,
@@ -94147,8 +95033,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead/",
   "school": {
    "school": "necromancy",
-   "sub_school": "language-dependent",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "language-dependent"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -94326,8 +95214,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spear-of-purity/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "cleric/oracle": 2
@@ -94591,8 +95481,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-gauge/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -94847,8 +95739,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellblight-jinx/",
   "school": {
    "school": "evocation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -94979,8 +95873,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcurse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -95370,8 +96266,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spike-stones/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 4,
@@ -95628,8 +96526,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-bonds/",
   "school": {
    "school": "divination",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 3,
@@ -95933,8 +96833,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spit-venom/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -96064,8 +96966,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spontaneous-immolation/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "psychic": 2,
@@ -96106,8 +97010,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spore-burst/",
   "school": {
    "school": "conjuration",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "druid": 2,
@@ -96149,9 +97055,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/spotlight/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "darkness"
    ]
   },
   "classes": {
@@ -96739,8 +97646,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/steal-breath/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -96877,9 +97786,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/steam-ray-fusillade/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "fire"
    ]
   },
   "classes": {
@@ -97011,8 +97921,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/stoke-the-inner-fire/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -97188,8 +98100,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/stone-fist/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "alchemist": 1,
@@ -97233,8 +98147,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/stone-shape/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -97682,8 +98598,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/stormbolts/",
   "school": {
    "school": "evocation",
-   "sub_school": "electricity",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "electricity"
+   ]
   },
   "classes": {
    "cleric/oracle": 8,
@@ -97858,8 +98776,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/stricken-heart/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "inquisitor": 2,
@@ -99661,8 +100581,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sun-metal/",
   "school": {
    "school": "transmutation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -99703,8 +100625,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sunbeam/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "druid": 7,
@@ -99744,8 +100668,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sunburst/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "druid": 8,
@@ -99962,8 +100888,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/suns-disdain/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -100530,8 +101458,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sweat-poison/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -100658,8 +101588,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sword-to-snake/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "cleric": 4,
@@ -100745,8 +101677,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-death/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "death"
+   ]
   },
   "classes": {
    "cleric/oracle": 8,
@@ -100928,8 +101862,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-exsanguination/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -100973,10 +101909,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-fear/",
   "school": {
    "school": "necromancy",
-   "sub_school": "emotion",
+   "sub_school": null,
    "descriptors": [
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "emotion"
    ]
   },
   "classes": {
@@ -101194,9 +102131,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-pain/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -101504,9 +102442,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-storms/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
-    "electricity"
+    "electricity",
+    "air"
    ]
   },
   "classes": {
@@ -101820,8 +102759,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sympathetic-vibration/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 6
@@ -101860,8 +102801,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/sympathetic-wounds/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -101948,8 +102891,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/s/synapse-overload/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "mesmerist": 4,
@@ -102336,8 +103281,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tail-current/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -102385,8 +103332,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tail-strike/",
   "school": {
    "school": "transmutation",
-   "sub_school": "draconic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "draconic"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -102431,8 +103380,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tailwind/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -102562,8 +103513,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tamers-lash/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -102687,9 +103640,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tar-pool/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "earth"
    ]
   },
   "classes": {
@@ -103502,8 +104456,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/telepathy/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 4,
@@ -104546,8 +105502,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/thoughtsense/",
   "school": {
    "school": "divination",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "medium": 4,
@@ -104809,8 +105767,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/thundering-drums/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 3
@@ -104891,8 +105851,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/thunderstomp/",
   "school": {
    "school": "evocation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -105316,8 +106278,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/tomb-legion/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric": 8,
@@ -105411,8 +106375,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/torpid-reanimation/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 4,
@@ -105457,11 +106423,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/torrent-of-elemental-rage/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
+   "sub_school": null,
    "descriptors": [
     "earth",
     "fire",
-    "water"
+    "water",
+    "air"
    ]
   },
   "classes": {
@@ -105545,9 +106512,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-blindness/",
   "school": {
    "school": "necromancy",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "shadow"
+    "shadow",
+    "darkness"
    ]
   },
   "classes": {
@@ -105640,8 +106608,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -105824,8 +106794,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-madness/",
   "school": {
    "school": "enchantment",
-   "sub_school": "mind-affecting",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "mind-affecting"
+   ]
   },
   "classes": {
    "madness": 2
@@ -106131,8 +107103,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-blood/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -106181,8 +107155,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-gift/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "antipaladin": 2,
@@ -106223,8 +107199,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/toxic-rupture/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -106740,9 +107718,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-blood-to-acid/",
   "school": {
    "school": "transmutation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "acid"
    ]
   },
   "classes": {
@@ -106865,8 +107844,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-mud-to-rock/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -106907,8 +107888,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-potion-to-poison/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 2
@@ -106947,8 +107930,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-rock-to-mud/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -106989,8 +107974,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/transplant-visage/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "alchemist": 5,
@@ -107466,8 +108453,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/trial-by-fire/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -107509,9 +108498,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/t/trial-of-fire-and-acid/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
-    "fire"
+    "fire",
+    "acid"
    ]
   },
   "classes": {
@@ -108404,8 +109394,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-infusion/",
   "school": {
    "school": "necromancy",
-   "sub_school": "shadow",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "shadow"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -108452,9 +109444,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-strike/",
   "school": {
    "school": "necromancy",
-   "sub_school": "shadow",
+   "sub_school": null,
    "descriptors": [
-    "darkness"
+    "darkness",
+    "shadow"
    ]
   },
   "classes": {
@@ -108504,9 +109497,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-weapon/",
   "school": {
    "school": "illusion",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
-    "shadow"
+    "shadow",
+    "cold"
    ]
   },
   "classes": {
@@ -108600,8 +109594,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unbearable-brightness/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -108798,7 +109794,7 @@
    "divine_focus": false
   },
   "effect": {
-   "range": "Close",
+   "range": "close",
    "area": null,
    "target": "One humanoid",
    "duration": "One week/level or until discharged (D)",
@@ -108867,12 +109863,13 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/undead-beacon/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "evil",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -109221,9 +110218,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/undine-s-curse/",
   "school": {
    "school": "necromancy",
-   "sub_school": "curse",
+   "sub_school": null,
    "descriptors": [
-    "evil"
+    "evil",
+    "curse"
    ]
   },
   "classes": {
@@ -109440,8 +110438,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unhallow/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 5,
@@ -109482,8 +110482,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unhallowed-blows/",
   "school": {
    "school": "transmutation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 1,
@@ -109527,8 +110529,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-aura/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 8
@@ -109567,8 +110571,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-blight/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -109608,10 +110614,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
     "evil",
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -109651,10 +110658,11 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice-weapon/",
   "school": {
    "school": "transmutation",
-   "sub_school": "cold",
+   "sub_school": null,
    "descriptors": [
     "evil",
-    "water"
+    "water",
+    "cold"
    ]
   },
   "classes": {
@@ -109695,8 +110703,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-sword/",
   "school": {
    "school": "evocation",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 4
@@ -109735,8 +110745,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ward/",
   "school": {
    "school": "abjuration",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -110185,11 +111197,12 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unsettling-presence/",
   "school": {
    "school": "necromancy",
-   "sub_school": "haunted",
+   "sub_school": null,
    "descriptors": [
     "emotion",
     "fear",
-    "mind-affecting"
+    "mind-affecting",
+    "haunted"
    ]
   },
   "classes": {
@@ -110237,8 +111250,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unshakable-chill/",
   "school": {
    "school": "necromancy",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -110419,8 +111434,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/unwelcome-halo/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "cleric/oracle": 1,
@@ -110641,8 +111658,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/u/utter-contempt/",
   "school": {
    "school": "enchantment",
-   "sub_school": "emotion",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "emotion"
+   ]
   },
   "classes": {
    "antipaladin": 3,
@@ -110953,8 +111972,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-ash/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "sorcerer": 2,
@@ -110994,8 +112015,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-heaven/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 1
@@ -111034,8 +112057,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-positive-energy/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 1
@@ -111074,8 +112099,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/vengeful-comets/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "druid": 3,
@@ -111211,8 +112238,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-bite/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 2,
@@ -111256,8 +112285,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-bolt/",
   "school": {
    "school": "necromancy",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "ranger": 3
@@ -111296,9 +112327,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-promise/",
   "school": {
    "school": "transmutation",
-   "sub_school": "language-dependent",
+   "sub_school": null,
    "descriptors": [
-    "poison"
+    "poison",
+    "language-dependent"
    ]
   },
   "classes": {
@@ -111971,8 +113003,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/violent-accident/",
   "school": {
    "school": "transmutation",
-   "sub_school": "curse",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "curse"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -112180,8 +113214,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/virulence/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "cleric/oracle": 4,
@@ -112408,8 +113444,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/visualization-of-the-body/",
   "school": {
    "school": "transmutation",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -112453,8 +113491,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/visualization-of-the-mind/",
   "school": {
    "school": "transmutation",
-   "sub_school": "meditative",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "meditative"
+   ]
   },
   "classes": {
    "cleric": 2,
@@ -112495,8 +113535,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/vitriolic-mist/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "acid"
+   ]
   },
   "classes": {
    "alchemist": 4,
@@ -112587,8 +113629,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/volcanic-storm/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -112770,8 +113814,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/v/vortex/",
   "school": {
    "school": "evocation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "druid": 7,
@@ -112860,9 +113906,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wail-of-the-banshee/",
   "school": {
    "school": "necromancy",
-   "sub_school": "death",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "death"
    ]
   },
   "classes": {
@@ -112905,8 +113952,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wake-of-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "paladin": 2
@@ -113256,8 +114305,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-fire/",
   "school": {
    "school": "evocation",
-   "sub_school": "fire",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "fire"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -113345,8 +114396,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-ice/",
   "school": {
    "school": "evocation",
-   "sub_school": "cold",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "cold"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -113479,8 +114532,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-light/",
   "school": {
    "school": "evocation",
-   "sub_school": "light",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "light"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -113611,8 +114666,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-silver/",
   "school": {
    "school": "abjuration",
-   "sub_school": "good",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "good"
+   ]
   },
   "classes": {
    "bard": 5,
@@ -113655,8 +114712,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-sound/",
   "school": {
    "school": "evocation",
-   "sub_school": "sonic",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "sonic"
+   ]
   },
   "classes": {
    "bard": 4,
@@ -113699,9 +114758,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-split-illumination/",
   "school": {
    "school": "evocation",
-   "sub_school": "darkness",
+   "sub_school": null,
    "descriptors": [
-    "light"
+    "light",
+    "darkness"
    ]
   },
   "classes": {
@@ -114186,8 +115246,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/warp-metal/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "earth"
+   ]
   },
   "classes": {
    "bloodrager": 4,
@@ -114458,9 +115520,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/water-shield/",
   "school": {
    "school": "evocation",
-   "sub_school": "acid",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "acid"
    ]
   },
   "classes": {
@@ -114503,8 +115566,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/water-walk/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "cleric/oracle": 3,
@@ -114592,8 +115657,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/waterproof/",
   "school": {
    "school": "abjuration",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "alchemist": 1,
@@ -114642,8 +115709,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wave-form-2/",
   "school": {
    "school": "transmutation",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "arcanist": 4,
@@ -114691,8 +115760,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wave-shield/",
   "school": {
    "school": "abjuration",
-   "sub_school": "water",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "water"
+   ]
   },
   "classes": {
    "bloodrager": 1,
@@ -114960,8 +116031,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/weapon-of-awe/",
   "school": {
    "school": "transmutation",
-   "sub_school": "emotion",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "emotion"
+   ]
   },
   "classes": {
    "cleric/oracle": 2,
@@ -115309,8 +116382,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/what-grows-within/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "evil"
+   ]
   },
   "classes": {
    "arcanist": 6,
@@ -115498,8 +116573,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/whirlwind/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 8,
@@ -115583,8 +116660,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/whispering-wind/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bard": 2,
@@ -115797,8 +116876,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-blades/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "druid": 5,
@@ -115841,8 +116922,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-walk/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "alchemist": 6,
@@ -115884,8 +116967,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-wall/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 3,
@@ -115933,8 +117018,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/winds-of-vengeance/",
   "school": {
    "school": "evocation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "cleric/oracle": 9,
@@ -115977,8 +117064,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/windy-escape/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bard": 1,
@@ -116063,8 +117152,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wing-thorns/",
   "school": {
    "school": "transmutation",
-   "sub_school": "poison",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "poison"
+   ]
   },
   "classes": {
    "alchemist": 3,
@@ -116287,8 +117378,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/with-the-wind/",
   "school": {
    "school": "abjuration",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "bloodrager": 2,
@@ -116729,9 +117822,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/word-of-chaos/",
   "school": {
    "school": "evocation",
-   "sub_school": "chaotic",
+   "sub_school": null,
    "descriptors": [
-    "sonic"
+    "sonic",
+    "chaotic"
    ]
   },
   "classes": {
@@ -116853,9 +117947,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/world-wave/",
   "school": {
    "school": "transmutation",
-   "sub_school": "earth",
+   "sub_school": null,
    "descriptors": [
-    "water"
+    "water",
+    "earth"
    ]
   },
   "classes": {
@@ -116897,9 +117992,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wracking-ray/",
   "school": {
    "school": "necromancy",
-   "sub_school": "evil",
+   "sub_school": null,
    "descriptors": [
-    "pain"
+    "pain",
+    "evil"
    ]
   },
   "classes": {
@@ -117027,10 +118123,8 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/w/wrathful-weapon/",
   "school": {
    "school": "transmutation",
-   "sub_school": "see",
-   "descriptors": [
-    "text"
-   ]
+   "sub_school": null,
+   "descriptors": null
   },
   "classes": {
    "cleric": 4
@@ -117208,8 +118302,10 @@
   "url": "https://www.d20pfsrd.com/magic/all-spells/z/zephyr-s-fleetness/",
   "school": {
    "school": "transmutation",
-   "sub_school": "air",
-   "descriptors": null
+   "sub_school": null,
+   "descriptors": [
+    "air"
+   ]
   },
   "classes": {
    "ranger": 3

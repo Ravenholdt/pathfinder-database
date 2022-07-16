@@ -29,7 +29,7 @@ func main() {
 		spellList[spell.Name] = spell
 	}
 
-	//formatSpells(spellList)
+	formatSpells(spellList)
 	//addCopyright(spells, spellList)
 	//addClass(spells, spellList)
 	//updateOldToNew(spells, spellList)
@@ -184,11 +184,42 @@ func addCopyright(spells []OldSpell, newSpells map[string]Spell) {
 }
 
 func formatSpells(spells map[string]Spell) {
-	for spell := range spells {
+	/*for spell := range spells {
 		tmpSpell := spells[spell]
 		if tmpSpell.SpellResistance.Description != nil {
 			tmpSpell.SpellResistance.Applies = strings.Contains(*tmpSpell.SpellResistance.Description, "yes")
 		}
+		spells[spell] = tmpSpell
+	}*/
+
+	keywords := make(map[string][]string)
+	keywords["abjuration"] = []string{}
+	keywords["conjuration"] = []string{"calling", "creation", "healing", "summoning", "teleportation"}
+	keywords["divination"] = []string{"scrying"}
+	keywords["enchantment"] = []string{"charm", "compulsion"}
+	keywords["evocation"] = []string{}
+	keywords["illusion"] = []string{"figment", "glamer", "pattern", "phantasm", "shadow"}
+	keywords["necromancy"] = []string{}
+	keywords["transmutation"] = []string{"polymorph"}
+
+	for spell := range spells {
+		falseSubschool := true
+		tmpSpell := spells[spell]
+		if tmpSpell.School.SubSchool != nil && !strings.Contains(*tmpSpell.School.SubSchool, "or") {
+			for _, val := range keywords[tmpSpell.School.School] {
+				if val == *tmpSpell.School.SubSchool {
+					falseSubschool = false
+					break
+				}
+			}
+
+			if falseSubschool {
+				desc := *tmpSpell.School.SubSchool
+				tmpSpell.School.Descriptors = append(tmpSpell.School.Descriptors, desc)
+				tmpSpell.School.SubSchool = nil
+			}
+		}
+
 		spells[spell] = tmpSpell
 	}
 }
