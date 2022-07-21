@@ -30845,30 +30845,30 @@
    "paladin": 4,
    "shaman": 5
   },
-  "casting_time": " ",
+  "casting_time": "1 standard action",
   "components": {
-   "verbal": false,
-   "somatic": false,
+   "verbal": true,
+   "somatic": true,
    "material": null,
    "focus": null,
-   "divine_focus": false
+   "divine_focus": true
   },
   "effect": {
-   "range": null,
+   "range": "touch",
    "area": null,
-   "target": null,
-   "duration": null,
+   "target": "or Targets you and a touched evil creature from another plane, or you and an enchantment or evil spell on a touched creature or object",
+   "duration": "1 round/level or until discharged, whichever comes first",
    "dismissible": false
   },
   "saving_throw": {
    "fortitude": false,
    "reflex": false,
    "will": false,
-   "description": null
+   "description": "see text"
   },
   "spell_resistance": {
    "applies": false,
-   "description": null
+   "description": "see text"
   },
   "description": "null",
   "source_book": "",
@@ -30937,30 +30937,30 @@
    "oracle": 5,
    "shaman": 5
   },
-  "casting_time": " ",
+  "casting_time": "1 standard action",
   "components": {
-   "verbal": false,
-   "somatic": false,
+   "verbal": true,
+   "somatic": true,
    "material": null,
    "focus": null,
-   "divine_focus": false
+   "divine_focus": true
   },
   "effect": {
-   "range": null,
+   "range": "touch",
    "area": null,
-   "target": null,
-   "duration": null,
+   "target": "or Targets you and a touched evil creature from another plane, or you and an enchantment or evil spell on a touched creature or object",
+   "duration": "1 round/level or until discharged, whichever comes first",
    "dismissible": false
   },
   "saving_throw": {
    "fortitude": false,
    "reflex": false,
    "will": false,
-   "description": null
+   "description": "see text"
   },
   "spell_resistance": {
    "applies": false,
-   "description": null
+   "description": "see text"
   },
   "description": "null",
   "source_book": "",
@@ -30983,30 +30983,30 @@
    "oracle": 5,
    "shaman": 5
   },
-  "casting_time": " ",
+  "casting_time": "1 standard action",
   "components": {
-   "verbal": false,
-   "somatic": false,
+   "verbal": true,
+   "somatic": true,
    "material": null,
    "focus": null,
-   "divine_focus": false
+   "divine_focus": true
   },
   "effect": {
-   "range": null,
+   "range": "touch",
    "area": null,
-   "target": null,
-   "duration": null,
+   "target": "or Targets you and a touched evil creature from another plane, or you and an enchantment or evil spell on a touched creature or object",
+   "duration": "1 round/level or until discharged, whichever comes first",
    "dismissible": false
   },
   "saving_throw": {
    "fortitude": false,
    "reflex": false,
    "will": false,
-   "description": null
+   "description": "see text"
   },
   "spell_resistance": {
    "applies": false,
-   "description": null
+   "description": "see text"
   },
   "description": "null",
   "source_book": "",
