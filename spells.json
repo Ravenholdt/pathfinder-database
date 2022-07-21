@@ -1198,7 +1198,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -3683,7 +3683,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -4167,7 +4167,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -5071,7 +5071,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -6669,7 +6669,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -7677,7 +7677,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Advanced Player’s Guide",
   "related_spell_names": null
  },
@@ -7724,7 +7724,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Horror Adventures",
   "related_spell_names": null
  },
@@ -8637,6 +8637,180 @@
   "related_spell_names": null
  },
  {
+  "name": "Beast Shape I",
+  "url": "",
+  "school": {
+   "school": "transmutation",
+   "sub_school": "polymorph",
+   "descriptors": null
+  },
+  "classes": {
+   "alchemist": 3,
+   "bloodrager": 3,
+   "magus": 3,
+   "sorcerer": 3,
+   "wizard": 3
+  },
+  "casting_time": "1 standard action",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": "M (a piece of the creature whose form you plan to assume)",
+   "focus": null,
+   "divine_focus": false
+  },
+  "effect": {
+   "range": "personal",
+   "area": null,
+   "target": "you",
+   "duration": "1 min./level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": null
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": null
+  },
+  "description": "When you cast this spell, you can assume the form of any Small or Medium creature of the animal type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, and scent.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Beast Shape II",
+  "url": "",
+  "school": {
+   "school": "transmutation",
+   "sub_school": "polymorph",
+   "descriptors": null
+  },
+  "classes": {
+   "alchemist": 4,
+   "bloodrager": 4,
+   "magus": 4,
+   "sorcerer": 4,
+   "wizard": 4
+  },
+  "casting_time": "1 standard action",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": "M (a piece of the creature whose form you plan to assume)",
+   "focus": null,
+   "divine_focus": false
+  },
+  "effect": {
+   "range": "personal",
+   "area": null,
+   "target": "you",
+   "duration": "1 min./level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": null
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": null
+  },
+  "description": "This spell functions as beast shape I, except that it also allows you to assume the form of a Tiny or Large creature of the animal type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, scent, grab, pounce, and trip.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Beast Shape III",
+  "url": "",
+  "school": {
+   "school": "transmutation",
+   "sub_school": "polymorph",
+   "descriptors": null
+  },
+  "classes": {
+   "alchemist": 5,
+   "magus": 5,
+   "sorcerer": 5,
+   "wizard": 5
+  },
+  "casting_time": "1 standard action",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": "M (a piece of the creature whose form you plan to assume)",
+   "focus": null,
+   "divine_focus": false
+  },
+  "effect": {
+   "range": "personal",
+   "area": null,
+   "target": "you",
+   "duration": "1 min./level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": null
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": null
+  },
+  "description": "This spell functions as beast shape II, except that it also allows you to assume the form of a Diminutive or Huge creature of the animal type. This spell also allows you to take on the form of a Small or Medium creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Beast Shape IV",
+  "url": "",
+  "school": {
+   "school": "transmutation",
+   "sub_school": "polymorph",
+   "descriptors": null
+  },
+  "classes": {
+   "alchemist": 6,
+   "magus": 6,
+   "sorcerer": 6,
+   "wizard": 6
+  },
+  "casting_time": "1 standard action",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": "M (a piece of the creature whose form you plan to assume)",
+   "focus": null,
+   "divine_focus": false
+  },
+  "effect": {
+   "range": "personal",
+   "area": null,
+   "target": "you",
+   "duration": "1 min./level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": null
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": null
+  },
+  "description": "This spell functions as beast shape III except that it also allows you to assume the form of a Tiny or Large creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, low-light vision, scent, tremorsense 60 feet, breath weapon, constrict, ferocity, grab, jet, poison, pounce, rake, rend, roar, spikes, trample, trip, and web. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
   "name": "Beastspeak",
   "url": "https://www.d20pfsrd.com/magic/all-spells/b/beastspeak/",
   "school": {
@@ -9317,7 +9491,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Adventurer’s Armory 2",
   "related_spell_names": null
  },
@@ -9392,20 +9566,20 @@
    "range": "close",
    "area": null,
    "target": "one caulborn",
-   "duration": null,
+   "duration": "instantaneous",
    "dismissible": false
   },
   "saving_throw": {
    "fortitude": false,
    "reflex": false,
-   "will": false,
-   "description": null
+   "will": true,
+   "description": "Will negates"
   },
   "spell_resistance": {
-   "applies": false,
-   "description": null
+   "applies": true,
+   "description": "no and yes"
   },
-  "description": "DESCRIPTION",
+  "description": "This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: the immortal and prophetic caulborn. This spell calls a single caulborn into a specially prepared trap. The caster of this spell can compel a bound caulborn only to provide information (using its Knowledge skills or detect thoughts); attempts to compel the caulborn to fight, guard a location, or perform some other task automatically fail. This spell otherwise functions as planar binding. The most effective gifts for a caulborn are unique books or intelligent creatures upon whose thoughts the caulborn can feed. The true names of caulborn are nearly impossible to discover, as they are not inherently individualistic.",
   "source_book": "Pathfinder Player Companion: Magic Tactics Toolbox",
   "related_spell_names": null
  },
@@ -9977,7 +10151,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Melee Tactics Toolbox",
   "related_spell_names": null
  },
@@ -10282,7 +10456,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -11029,7 +11203,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -11713,7 +11887,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition",
   "related_spell_names": null
  },
@@ -12116,7 +12290,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Monster Codex",
   "related_spell_names": null
  },
@@ -13790,7 +13964,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Adventurer’s Guide",
   "related_spell_names": null
  },
@@ -14831,7 +15005,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -15309,7 +15483,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Coven",
   "related_spell_names": null
  },
@@ -15567,7 +15741,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -16233,7 +16407,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -17584,7 +17758,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -17628,7 +17802,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: The First World, Realm of the Fey",
   "related_spell_names": null
  },
@@ -17822,7 +17996,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -18223,7 +18397,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Knights of the Inner Sea",
   "related_spell_names": null
  },
@@ -18929,7 +19103,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -19110,7 +19284,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -20084,7 +20258,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -20134,7 +20308,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -21371,7 +21545,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -21862,7 +22036,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Ranged Tactics Toolbox",
   "related_spell_names": null
  },
@@ -22624,7 +22798,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Arcane Anthology",
   "related_spell_names": null
  },
@@ -22669,7 +22843,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -22712,7 +22886,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -22935,7 +23109,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -23611,7 +23785,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -23794,7 +23968,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Mythic Adventures",
   "related_spell_names": null
  },
@@ -23892,7 +24066,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Mythic Adventures",
   "related_spell_names": null
  },
@@ -23941,7 +24115,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Mythic Adventures",
   "related_spell_names": null
  },
@@ -24226,7 +24400,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Coven",
   "related_spell_names": null
  },
@@ -24739,7 +24913,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -24783,7 +24957,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Horror Adventures",
   "related_spell_names": null
  },
@@ -24995,7 +25169,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -25668,7 +25842,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -26299,7 +26473,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Advanced Race Guide",
   "related_spell_names": null
  },
@@ -26791,7 +26965,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -26886,7 +27060,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -26976,7 +27150,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Arcane Anthology",
   "related_spell_names": null
  },
@@ -27328,7 +27502,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -27519,7 +27693,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -27799,7 +27973,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -28292,7 +28466,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -28482,7 +28656,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -28570,7 +28744,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -28613,7 +28787,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -28850,7 +29024,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -30161,7 +30335,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -30696,7 +30870,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -30788,7 +30962,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -30834,7 +31008,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -31765,7 +31939,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -32867,7 +33041,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder 14: Children of the Void",
   "related_spell_names": null
  },
@@ -33709,7 +33883,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -33889,7 +34063,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -34064,7 +34238,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -34565,7 +34739,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Knights of the Inner Sea",
   "related_spell_names": null
  },
@@ -34739,7 +34913,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -34924,7 +35098,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Heroes of the High Court",
   "related_spell_names": null
  },
@@ -35281,7 +35455,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Combat",
   "related_spell_names": null
  },
@@ -35918,7 +36092,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -36141,7 +36315,7 @@
    "applies": true,
    "description": "yes (object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -36453,7 +36627,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -36494,7 +36668,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -36666,7 +36840,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -37080,7 +37254,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -37741,7 +37915,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Coven",
   "related_spell_names": null
  },
@@ -37786,7 +37960,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -38052,7 +38226,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Heroes of the High Court",
   "related_spell_names": null
  },
@@ -39245,7 +39419,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Monster Summoner’s Handbook",
   "related_spell_names": null
  },
@@ -39514,7 +39688,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -39834,7 +40008,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Advanced Race Guide",
   "related_spell_names": null
  },
@@ -40359,7 +40533,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of Shadows",
   "related_spell_names": null
  },
@@ -41309,7 +41483,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Races",
   "related_spell_names": null
  },
@@ -42699,7 +42873,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -43223,7 +43397,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -46337,7 +46511,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Adventurer’s Armory 2",
   "related_spell_names": null
  },
@@ -46528,7 +46702,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -46573,7 +46747,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Dirty Tactics Toolbox",
   "related_spell_names": null
  },
@@ -47663,7 +47837,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Coven",
   "related_spell_names": null
  },
@@ -48834,7 +49008,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Healer’s Handbook",
   "related_spell_names": null
  },
@@ -48972,7 +49146,7 @@
    "applies": true,
    "description": "yes (object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Healer’s Handbook",
   "related_spell_names": null
  },
@@ -49464,7 +49638,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -49907,7 +50081,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -52397,7 +52571,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Magical Marketplace",
   "related_spell_names": null
  },
@@ -53260,7 +53434,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Combat",
   "related_spell_names": null
  },
@@ -54034,7 +54208,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -54387,7 +54561,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Black Markets",
   "related_spell_names": null
  },
@@ -54474,7 +54648,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -54611,7 +54785,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -54701,7 +54875,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -54753,7 +54927,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -54798,7 +54972,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -55389,7 +55563,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Healer’s Handbook",
   "related_spell_names": null
  },
@@ -55662,7 +55836,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Monster Summoner’s Handbook",
   "related_spell_names": null
  },
@@ -55794,7 +55968,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Melee Tactics Toolbox",
   "related_spell_names": null
  },
@@ -55921,7 +56095,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -56156,7 +56330,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Intrigue",
   "related_spell_names": null
  },
@@ -56478,7 +56652,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -57312,7 +57486,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Planes of Power",
   "related_spell_names": null
  },
@@ -58332,7 +58506,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Coven",
   "related_spell_names": null
  },
@@ -58420,7 +58594,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -58735,7 +58909,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -58830,7 +59004,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -59954,7 +60128,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -61634,7 +61808,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -62002,7 +62176,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Occult Mysteries",
   "related_spell_names": null
  },
@@ -62925,7 +63099,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Monster Codex",
   "related_spell_names": null
  },
@@ -62967,7 +63141,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Technology Guide",
   "related_spell_names": null
  },
@@ -63017,7 +63191,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -63117,7 +63291,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -63167,7 +63341,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -63568,7 +63742,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -63794,7 +63968,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -63974,7 +64148,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -64424,7 +64598,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Adventurer’s Guide",
   "related_spell_names": null
  },
@@ -64782,7 +64956,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Races",
   "related_spell_names": null
  },
@@ -65145,7 +65319,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Monster Summoner’s Handbook",
   "related_spell_names": null
  },
@@ -65238,7 +65412,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Occult Mysteries",
   "related_spell_names": null
  },
@@ -65461,7 +65635,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -65638,7 +65812,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -65998,7 +66172,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -66040,7 +66214,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -66083,7 +66257,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -66213,7 +66387,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -66347,7 +66521,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -66488,7 +66662,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -66683,7 +66857,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -66823,7 +66997,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -67811,7 +67985,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -67918,8 +68092,8 @@
    "bloodrager": 4,
    "druid": 4,
    "sorcerer": 4,
-   "wizard": 4,
-   "witch": 4
+   "witch": 4,
+   "wizard": 4
   },
   "casting_time": "1 standard action",
   "components": {
@@ -68325,7 +68499,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -69205,7 +69379,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -69254,7 +69428,7 @@
    "applies": true,
    "description": "yes (harmless, object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -69678,7 +69852,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Occult Mysteries",
   "related_spell_names": null
  },
@@ -70354,7 +70528,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -71685,7 +71859,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -71778,7 +71952,7 @@
   "related_spell_names": null
  },
  {
-  "name": "Pass without Trace",
+  "name": "Pass Without Trace",
   "url": "https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace/",
   "school": {
    "school": "transmutation",
@@ -72527,7 +72701,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -72570,7 +72744,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -72705,7 +72879,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -76727,7 +76901,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -79632,7 +79806,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -79990,7 +80164,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Champions of Balance",
   "related_spell_names": null
  },
@@ -81015,7 +81189,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -81719,7 +81893,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -82487,7 +82661,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Adventurer’s Armory 2",
   "related_spell_names": null
  },
@@ -83600,7 +83774,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -83874,7 +84048,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -84898,7 +85072,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: People of the River",
   "related_spell_names": null
  },
@@ -84981,7 +85155,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Advanced Player’s Guide",
   "related_spell_names": null
  },
@@ -85025,7 +85199,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Horror Adventures",
   "related_spell_names": null
  },
@@ -85068,7 +85242,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Advanced Race Guide",
   "related_spell_names": null
  },
@@ -85152,7 +85326,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Advanced Player’s Guide",
   "related_spell_names": null
  },
@@ -85192,7 +85366,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Advanced Player’s Guide",
   "related_spell_names": null
  },
@@ -85241,7 +85415,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -85283,7 +85457,7 @@
    "applies": true,
    "description": "yes (object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Pirates of the Inner Sea",
   "related_spell_names": null
  },
@@ -85326,7 +85500,7 @@
    "applies": true,
    "description": "yes (harmless, object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Advanced Player’s Guide",
   "related_spell_names": null
  },
@@ -85372,7 +85546,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -85414,7 +85588,7 @@
    "applies": true,
    "description": "yes (harmless, object)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Chronicle of the Righteous",
   "related_spell_names": null
  },
@@ -85456,7 +85630,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -85503,7 +85677,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Villain Codex",
   "related_spell_names": null
  },
@@ -86183,7 +86357,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -86494,7 +86668,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -86797,7 +86971,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -86922,7 +87096,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -87227,7 +87401,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -87312,7 +87486,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Black Markets",
   "related_spell_names": null
  },
@@ -87487,7 +87661,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Black Markets",
   "related_spell_names": null
  },
@@ -87851,7 +88025,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -88186,7 +88360,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Dirty Tactics Toolbox",
   "related_spell_names": null
  },
@@ -88780,7 +88954,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -88910,7 +89084,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -89045,7 +89219,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -89180,7 +89354,7 @@
    "applies": true,
    "description": "yes; see text"
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -89224,7 +89398,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Kobolds of Golarion",
   "related_spell_names": null
  },
@@ -89405,7 +89579,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Planar Adventures",
   "related_spell_names": null
  },
@@ -90911,7 +91085,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -90959,7 +91133,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Animal Archive",
   "related_spell_names": null
  },
@@ -91232,7 +91406,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -92136,7 +92310,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -92482,7 +92656,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -93444,7 +93618,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -93946,7 +94120,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -94168,7 +94342,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Player Companion: People of the North",
   "related_spell_names": null
  },
@@ -94838,7 +95012,7 @@
    "applies": true,
    "description": "yes (see text)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Book of the Damned",
   "related_spell_names": null
  },
@@ -95248,7 +95422,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Heroes of the Street",
   "related_spell_names": null
  },
@@ -95335,7 +95509,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -96661,7 +96835,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -96797,7 +96971,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -96965,7 +97139,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Advanced Class Origins",
   "related_spell_names": null
  },
@@ -97056,7 +97230,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -97411,7 +97585,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Cohorts and Companions",
   "related_spell_names": null
  },
@@ -97646,7 +97820,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -98190,7 +98364,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -98872,7 +99046,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Blood of the Elements",
   "related_spell_names": null
  },
@@ -99403,7 +99577,7 @@
    "applies": true,
    "description": "no and yes (see text)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -99575,7 +99749,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Adventure Path #56: Raiders of the Fever Sea",
   "related_spell_names": null
  },
@@ -99845,7 +100019,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -99891,7 +100065,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -99936,7 +100110,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -100063,7 +100237,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -100234,7 +100408,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Races",
   "related_spell_names": null
  },
@@ -100364,7 +100538,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Races",
   "related_spell_names": null
  },
@@ -100407,7 +100581,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Monster Summoner’s Handbook",
   "related_spell_names": null
  },
@@ -100498,7 +100672,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -100590,6 +100764,443 @@
   },
   "description": "This spell functions as summon monster I, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with summon monster I, you may apply one alignment-appropriate template to these animals.",
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster I",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "antipaladin": 1,
+   "bard": 1,
+   "cleric": 1,
+   "medium": 1,
+   "oracle": 1,
+   "psychic": 1,
+   "sorcerer": 1,
+   "spiritualist": 1,
+   "summoner": 1,
+   "unchained_summoner": 1,
+   "witch": 1,
+   "wizard": 1
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell summons an extraplanar creature (typically an outsider, elemental, or magical beast native to another plane). It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions. The spell conjures one of the creatures from the 1st Level list on Table: Summon Monster. You choose which kind of creature to summon, and you can choose a different one each time you cast the spell.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster II",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "antipaladin": 2,
+   "bard": 2,
+   "cleric": 2,
+   "medium": 2,
+   "oracle": 2,
+   "psychic": 2,
+   "sorcerer": 2,
+   "spiritualist": 2,
+   "summoner": 2,
+   "unchained_summoner": 2,
+   "witch": 2,
+   "wizard": 2
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or 1d3 creatures of the same kind from the 1st-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster III",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "antipaladin": 3,
+   "bard": 3,
+   "cleric": 3,
+   "oracle": 3,
+   "psychic": 3,
+   "sorcerer": 3,
+   "spiritualist": 3,
+   "witch": 3,
+   "wizard": 3
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1d3 creatures of the same kind from the 2nd-level list, or 1d4+1 creatures of the same kind from the 1st-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster IV",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "antipaladin": 4,
+   "bard": 4,
+   "cleric": 4,
+   "medium": 3,
+   "oracle": 4,
+   "psychic": 4,
+   "sorcerer": 4,
+   "spiritualist": 4,
+   "summoner": 3,
+   "unchained_summoner": 3,
+   "witch": 4,
+   "wizard": 4
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1d3 creatures of the same kind from the 3rd-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster IX",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "cleric": 9,
+   "oracle": 9,
+   "psychic": 9,
+   "sorcerer": 9,
+   "witch": 9,
+   "wizard": 9
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster V",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "bard": 5,
+   "cleric": 5,
+   "medium": 4,
+   "oracle": 5,
+   "psychic": 5,
+   "sorcerer": 5,
+   "spiritualist": 5,
+   "summoner": 4,
+   "unchained_summoner": 4,
+   "witch": 5,
+   "wizard": 5
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1d3 creatures of the same kind from the 4th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster VI",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "bard": 6,
+   "cleric": 6,
+   "oracle": 6,
+   "psychic": 6,
+   "sorcerer": 6,
+   "spiritualist": 6,
+   "unchained_summoner": 5,
+   "witch": 6,
+   "wizard": 6
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster VII",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "cleric": 7,
+   "oracle": 7,
+   "psychic": 7,
+   "sorcerer": 7,
+   "summoner": 5,
+   "unchained_summoner": 6,
+   "witch": 7,
+   "wizard": 7
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
+  "related_spell_names": null
+ },
+ {
+  "name": "Summon Monster VIII",
+  "url": "",
+  "school": {
+   "school": "conjuration",
+   "sub_school": "summoning",
+   "descriptors": null
+  },
+  "classes": {
+   "cleric": 8,
+   "oracle": 8,
+   "psychic": 8,
+   "sorcerer": 8,
+   "summoner": 6,
+   "witch": 8,
+   "wizard": 8
+  },
+  "casting_time": "1 round",
+  "components": {
+   "verbal": true,
+   "somatic": true,
+   "material": null,
+   "focus": "F (a tiny bag and a small candle)",
+   "divine_focus": true
+  },
+  "effect": {
+   "range": "close",
+   "area": null,
+   "target": null,
+   "duration": "1 round/level (D)",
+   "dismissible": true
+  },
+  "saving_throw": {
+   "fortitude": false,
+   "reflex": false,
+   "will": false,
+   "description": "none"
+  },
+  "spell_resistance": {
+   "applies": false,
+   "description": "no"
+  },
+  "description": "This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind from the 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list.",
+  "source_book": "",
   "related_spell_names": null
  },
  {
@@ -100771,7 +101382,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -100816,7 +101427,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -101127,7 +101738,7 @@
    "applies": true,
    "description": "yes (harmless) and see text"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -101216,7 +101827,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -101307,7 +101918,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Adventurer’s Guide",
   "related_spell_names": null
  },
@@ -101526,7 +102137,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Adventurer’s Armory 2",
   "related_spell_names": null
  },
@@ -102144,7 +102755,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -102558,7 +103169,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -103104,7 +103715,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -103325,7 +103936,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -103724,7 +104335,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -103823,7 +104434,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -104509,7 +105120,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -104590,7 +105201,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -104633,7 +105244,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Psychic Anthology",
   "related_spell_names": null
  },
@@ -104720,7 +105331,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -104896,7 +105507,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -105112,7 +105723,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -105419,7 +106030,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -105507,7 +106118,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -105773,7 +106384,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -107369,7 +107980,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -108681,7 +109292,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -109044,7 +109655,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -109213,7 +109824,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Intrigue",
   "related_spell_names": null
  },
@@ -111070,7 +111681,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Ultimate Magic",
   "related_spell_names": null
  },
@@ -111292,7 +111903,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Aquatic Adventures",
   "related_spell_names": null
  },
@@ -111611,7 +112222,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Core Rulebook",
   "related_spell_names": null
  },
@@ -111894,7 +112505,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "Pathfinder Campaign Setting: Inner Sea Gods",
   "related_spell_names": null
  },
@@ -113768,7 +114379,7 @@
    "applies": false,
    "description": null
   },
-  "description": "DESCRIPTION",
+  "description": null,
   "source_book": "",
   "related_spell_names": null
  },
@@ -115044,7 +115655,7 @@
    "applies": false,
    "description": "no"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -115495,7 +116106,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Ultimate Wilderness",
   "related_spell_names": null
  },
@@ -116137,7 +116748,7 @@
    "applies": true,
    "description": "yes (harmless)"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Player Companion: Elemental Master’s Handbook",
   "related_spell_names": null
  },
@@ -116914,7 +117525,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -116960,7 +117571,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -117225,7 +117836,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game: Advanced Class Guide",
   "related_spell_names": null
  },
@@ -117906,7 +118517,7 @@
    "applies": true,
    "description": "yes"
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Roleplaying Game Occult Adventures",
   "related_spell_names": null
  },
@@ -118259,7 +118870,7 @@
    "applies": false,
    "description": null
   },
-  "description": "null",
+  "description": null,
   "source_book": "Pathfinder Adventure Path #131: The Reaper’s Right Hand",
   "related_spell_names": null
  },

@@ -29,11 +29,12 @@ func main() {
 		spellList[spell.Name] = spell
 	}
 
-	formatSpells(spellList)
 	//addCopyright(spells, spellList)
 	//addClass(spellList)
+	//addSpell(spellList)
 	//updateOldToNew(spells, spellList)
 
+	formatSpells(spellList)
 	verifyClasses(spellList)
 
 	var output []Spell
@@ -76,6 +77,10 @@ func verifyClasses(spellList map[string]Spell) {
 				spellList[name].Classes["cleric"] = level
 				spellList[name].Classes["oracle"] = level
 				delete(spellList[name].Classes, "cleric/oracle")
+
+			case "unchained":
+				spellList[name].Classes["unchained_summoner"] = level
+				delete(spellList[name].Classes, "unchained")
 			}
 
 		}
@@ -135,6 +140,23 @@ func copySpell(old OldSpell) Spell {
 		SourceBook:        old.SourceBook,
 		RelatedSpellNames: nil,
 	}
+}
+
+func addSpell(spellList map[string]Spell) {
+	jsonFile, err := os.Open("spellsToAdd.json")
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	jsonByte, _ := ioutil.ReadAll(jsonFile)
+	var newSpells []Spell
+	json.Unmarshal(jsonByte, &newSpells)
+
+	for _, c := range newSpells {
+		spellList[c.Name] = c
+	}
+
+	fmt.Println(newSpells)
 }
 
 func addClass(spellList map[string]Spell) {

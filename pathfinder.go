@@ -29,43 +29,51 @@ func main() {
 	//fmt.Println(tmp)
 }
 
+type School struct {
+	School      string   `json:"school"`
+	SubSchool   *string  `json:"sub_school"`
+	Descriptors []string `json:"descriptors"`
+}
+
+type Components struct {
+	Verbal      bool    `json:"verbal"`
+	Somatic     bool    `json:"somatic"`
+	Material    *string `json:"material"`
+	Focus       *string `json:"focus"`
+	DivineFocus bool    `json:"divine_focus"`
+}
+
+type Effect struct {
+	Range       *string `json:"range"`
+	Area        *string `json:"area"`
+	Target      *string `json:"target"`
+	Duration    *string `json:"duration"`
+	Dismissible bool    `json:"dismissible"`
+}
+
+type SavingThrow struct {
+	Fortitude   bool    `json:"fortitude"`
+	Reflex      bool    `json:"reflex"`
+	Will        bool    `json:"will"`
+	Description *string `json:"description"`
+}
+
+type SpellResistance struct {
+	Applies     bool    `json:"applies"`
+	Description *string `json:"description"`
+}
+
 type Spell struct {
-	Name   string `json:"name"`
-	Link   string `json:"link"`
-	School struct {
-		School      string   `json:"school"`
-		SubSchool   string   `json:"subSchool"`
-		Descriptors []string `json:"descriptors"`
-	} `json:"school"`
-	Classes     map[string]int `json:"classes"`
-	CastingTime struct {
-		Action string `json:"action"`
-		Time   string `json:"time"`
-	} `json:"castingTime"`
-	Components struct {
-		Verbal      bool   `json:"verbal"`
-		Somatic     bool   `json:"somatic"`
-		Material    string `json:"material"`
-		Focus       string `json:"focus"`
-		DivineFocus bool   `json:"divineFocus"`
-	} `json:"components"`
-	Effect struct {
-		Range       string `json:"range"`
-		Area        string `json:"area"`
-		Target      string `json:"target"`
-		Duration    string `json:"duration"`
-		Description string `json:"description"`
-	} `json:"effect"`
-	SavingThrow struct {
-		Fortitude   bool   `json:"fortitude"`
-		Reflex      bool   `json:"reflex"`
-		Will        bool   `json:"will"`
-		Description string `json:"description"`
-	} `json:"savingThrow"`
-	SpellResistance struct {
-		Applies     bool   `json:"applies"`
-		Description string `json:"description"`
-	} `json:"spellResistance"`
-	Description string `json:"description"`
-	SourceBook  string `json:"sourceBook"`
+	Name              string          `json:"name"`
+	Url               string          `json:"url"`
+	School            School          `json:"school"`
+	Classes           map[string]int  `json:"classes"`
+	CastingTime       string          `json:"casting_time"`
+	Components        Components      `json:"components"`
+	Effect            Effect          `json:"effect"`
+	SavingThrow       SavingThrow     `json:"saving_throw"`
+	SpellResistance   SpellResistance `json:"spell_resistance"`
+	Description       string          `json:"description"`
+	SourceBook        string          `json:"source_book"`
+	RelatedSpellNames []string        `json:"related_spell_names"`
 }

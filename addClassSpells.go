@@ -14,7 +14,7 @@ func main() {
 
 	class := "unchained_summoner"
 
-	mesmer, err := os.Open(class + "-spells.txt")
+	file, err := os.Open(class + "-spells.txt")
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -23,7 +23,7 @@ func main() {
 
 	var spells []Spell
 
-	scanner := bufio.NewScanner(mesmer)
+	scanner := bufio.NewScanner(file)
 	// optionally, resize scanner's capacity for lines over 64K, see next example
 	for scanner.Scan() {
 		base := strings.Split(strings.Split(scanner.Text(), "  ")[0], "\t")[0]
