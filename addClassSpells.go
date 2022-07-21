@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-func main() {
+func addClassSpells() {
 
 	class := "unchained_summoner"
 
@@ -21,7 +21,7 @@ func main() {
 
 	level := 0
 
-	var spells []Spell
+	var spells []ClassSpell
 
 	scanner := bufio.NewScanner(file)
 	// optionally, resize scanner's capacity for lines over 64K, see next example
@@ -40,7 +40,7 @@ func main() {
 			//fmt.Println(level)
 			//fmt.Println(base)
 			base = strings.TrimSpace(base)
-			s := Spell{base, level, class}
+			s := ClassSpell{base, level, class}
 			//fmt.Println(s)
 			spells = append(spells, s)
 
@@ -54,7 +54,7 @@ func main() {
 	ioutil.WriteFile(class+"-spells.json", writeFile, 0644)
 }
 
-type Spell struct {
+type ClassSpell struct {
 	Name  string
 	Level int
 	Class string

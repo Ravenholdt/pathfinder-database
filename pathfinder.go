@@ -1,20 +1,23 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
+	"sort"
+	"strings"
+	"time"
 )
 
 var spells map[string]Spell
 
 func main() {
-	spells = make(map[string]Spell)
+	sourceFile := "spells.json"
+	argsWithoutProg := os.Args[1:]
 
-	fmt.Println("Hello!")
-
-	jsonFile, err := os.Open("data.json")
+	jsonFile, err := os.Open(sourceFile)
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -22,11 +25,68 @@ func main() {
 	jsonByte, _ := ioutil.ReadAll(jsonFile)
 
 	var tmp []Spell
-
-	//fmt.Println(jsonFile)
 	json.Unmarshal(jsonByte, &tmp)
 
-	//fmt.Println(tmp)
+	spells = make(map[string]Spell)
+	for _, s := range tmp {
+		spells[s.Name] = s
+	}
+
+	for _, c := range argsWithoutProg {
+		switch c {
+		case "save":
+			backup(sourceFile)
+			save(sourceFile)
+		case "denull":
+			reader := bufio.NewReader(os.Stdin)
+			for _, s := range spells {
+				if s.Description != "null" {
+					continue
+				}
+
+				fmt.Println(s.Name)
+				fmt.Println(s.Url)
+				text, _ := reader.ReadString('\n')
+				// convert CRLF to LF
+				text = strings.Replace(text, "\n", "", -1)
+				if text == "" {
+					continue
+				}
+				if text == "e" {
+					break
+				}
+
+				spell := spells[s.Name]
+				spell.Description = text
+				spells[s.Name] = spell
+
+				fmt.Println(spells[s.Name].Description)
+			}
+		}
+	}
+}
+
+func backup(sourceFile string) {
+	currentTime := time.Now()
+	input, _ := ioutil.ReadFile(sourceFile)
+	destinationFile := sourceFile + "-bkp-" + currentTime.Format("2006-01-02-15:04:05")
+	ioutil.WriteFile(destinationFile, input, 0644)
+}
+
+func save(sourceFile string) {
+	var output []Spell
+	for _, spell := range spells {
+		output = append(output, spell)
+	}
+
+	// Sort
+	sort.Slice(output, func(i, j int) bool {
+		return output[i].Name < output[j].Name
+	})
+
+	// Write
+	writeFile, _ := json.MarshalIndent(output, "", " ")
+	ioutil.WriteFile("spells.json", writeFile, 0644)
 }
 
 type School struct {
